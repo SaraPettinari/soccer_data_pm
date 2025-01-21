@@ -1,0 +1,381 @@
+status,gameweek,seasonId,dateutc,winner,venue,wyId,label,duration,competitionId,team1.side,team1.teamId,team1.score,team2.side,team2.teamId,team2.score
+Played,38,181189,2018-05-19 19:00:00,0,Stade Michel d'Ornano,2501056,"Caen - PSG, 0 - 0",Regular,412,home,3783,0,away,3767,0
+Played,38,181189,2018-05-19 19:00:00,0,Stade Gaston-G\u00e9rard,2501057,"Dijon - Angers SCO, 2 - 1",Regular,412,home,3804,2,away,3799,1
+Played,38,181189,2018-05-19 19:00:00,3766,Groupama Stadium,2501058,"Olympique Lyonnais - Nice, 3 - 2",Regular,412,home,3766,3,away,3775,2
+Played,38,181189,2018-05-19 19:00:00,3771,Stade V\u00e9lodrome,2501059,"Olympique Marseille - Amiens SC, 2 - 1",Regular,412,home,3771,2,away,3789,1
+Played,38,181189,2018-05-19 19:00:00,3772,Stade Saint-Symphorien,2501060,"Metz - Bordeaux, 0 - 4",Regular,412,away,3772,4,home,3777,0
+Played,38,181189,2018-05-19 19:00:00,3770,Stade de la Beaujoire - Louis Fonteneau,2501061,"Nantes - Strasbourg, 1 - 0",Regular,412,away,3779,0,home,3770,1
+Played,38,181189,2018-05-19 19:00:00,0,Roazhon Park,2501062,"Rennes - Montpellier, 1 - 1",Regular,412,away,3787,1,home,3774,1
+Played,38,181189,2018-05-19 19:00:00,3782,Stade Geoffroy-Guichard,2501063,"Saint-\u00c9tienne - Lille, 5 - 0",Regular,412,home,3782,5,away,3776,0
+Played,38,181189,2018-05-19 19:00:00,3780,Stadium Municipal,2501064,"Toulouse - Guingamp, 2 - 1",Regular,412,home,3780,2,away,3785,1
+Played,38,181189,2018-05-19 19:00:00,19830,Stade de l'Aube,2501065,"Troyes - Monaco, 0 - 3",Regular,412,home,3795,0,away,19830,3
+Played,37,181189,2018-05-12 19:00:00,3789,Stade de la Licorne,2501046,"Amiens SC - Metz, 2 - 0",Regular,412,home,3789,2,away,3777,0
+Played,37,181189,2018-05-12 19:00:00,0,Stade Raymond Kopa,2501047,"Angers SCO - Nantes, 0 - 2",Regular,412,home,3799,0,away,3770,2
+Played,37,181189,2018-05-12 19:00:00,3772,Stade Matmut-Atlantique,2501048,"Bordeaux - Toulouse, 4 - 2",Regular,412,home,3772,4,away,3780,2
+Played,37,181189,2018-05-12 19:00:00,3776,Stade Pierre-Mauroy,2501050,"Lille - Dijon, 2 - 1",Regular,412,away,3804,1,home,3776,2
+Played,37,181189,2018-05-12 18:00:00,19830,Stade Louis II.,2501051,"Monaco - Saint-\u00c9tienne, 1 - 0",Regular,412,away,3782,0,home,19830,1
+Played,37,181189,2018-05-12 19:00:00,0,Stade de la Mosson,2501052,"Montpellier - Troyes, 1 - 1",Regular,412,home,3787,1,away,3795,1
+Played,37,181189,2018-05-12 18:00:00,3775,Allianz Riviera,2501053,"Nice - Caen, 4 - 1",Regular,412,away,3783,1,home,3775,4
+Played,37,181189,2018-05-12 19:00:00,3774,Parc des Princes,2501054,"PSG - Rennes, 0 - 2",Regular,412,home,3767,0,away,3774,2
+Played,37,181189,2018-05-12 18:00:00,3779,Stade de la Meinau,2501055,"Strasbourg - Olympique Lyonnais, 3 - 2",Regular,412,away,3766,2,home,3779,3
+Played,37,181189,2018-05-11 17:45:00,0,Stade du Roudourou,2501049,"Guingamp - Olympique Marseille, 3 - 3",Regular,412,away,3771,3,home,3785,3
+Played,36,181189,2018-05-06 19:05:00,3771,Stade V\u00e9lodrome,2501040,"Olympique Marseille - Nice, 2 - 1",Regular,412,away,3775,1,home,3771,2
+Played,36,181189,2018-05-06 15:00:00,19830,Stade Michel d'Ornano,2501037,"Caen - Monaco, 1 - 2",Regular,412,home,3783,1,away,19830,2
+Played,36,181189,2018-05-06 15:00:00,3804,Stade Gaston-G\u00e9rard,2501038,"Dijon - Guingamp, 3 - 1",Regular,412,home,3804,3,away,3785,1
+Played,36,181189,2018-05-06 15:00:00,3799,Stade Saint-Symphorien,2501041,"Metz - Angers SCO, 1 - 2",Regular,412,away,3799,2,home,3777,1
+Played,36,181189,2018-05-06 15:00:00,3787,Stade de la Beaujoire - Louis Fonteneau,2501042,"Nantes - Montpellier, 0 - 2",Regular,412,home,3770,0,away,3787,2
+Played,36,181189,2018-05-06 15:00:00,3774,Roazhon Park,2501043,"Rennes - Strasbourg, 2 - 1",Regular,412,away,3779,1,home,3774,2
+Played,36,181189,2018-05-06 15:00:00,3776,Stadium Municipal,2501045,"Toulouse - Lille, 2 - 3",Regular,412,away,3776,3,home,3780,2
+Played,36,181189,2018-05-06 14:30:00,3766,Groupama Stadium,2501039,"Olympique Lyonnais - Troyes, 3 - 0",Regular,412,home,3766,3,away,3795,0
+Played,36,181189,2018-05-06 13:00:00,3772,Stade Geoffroy-Guichard,2501044,"Saint-\u00c9tienne - Bordeaux, 1 - 3",Regular,412,away,3772,3,home,3782,1
+Played,36,181189,2018-05-04 17:45:00,0,Stade de la Licorne,2501036,"Amiens SC - PSG, 2 - 2",Regular,412,away,3767,2,home,3789,2
+Played,35,181189,2018-04-29 19:00:00,0,Parc des Princes,2501032,"PSG - Guingamp, 2 - 2",Regular,412,home,3767,2,away,3785,2
+Played,35,181189,2018-04-29 15:00:00,0,Stade Raymond Kopa,2501026,"Angers SCO - Olympique Marseille, 1 - 1",Regular,412,home,3799,1,away,3771,1
+Played,35,181189,2018-04-29 13:00:00,3774,Roazhon Park,2501033,"Rennes - Toulouse, 2 - 1",Regular,412,home,3774,2,away,3780,1
+Played,35,181189,2018-04-28 18:00:00,3772,Stade Matmut-Atlantique,2501027,"Bordeaux - Dijon, 3 - 1",Regular,412,away,3804,1,home,3772,3
+Played,35,181189,2018-04-28 18:00:00,3776,Stade Pierre-Mauroy,2501028,"Lille - Metz, 3 - 1",Regular,412,away,3777,1,home,3776,3
+Played,35,181189,2018-04-28 18:00:00,0,Stade Louis II.,2501030,"Monaco - Amiens SC, 0 - 0",Regular,412,away,3789,0,home,19830,0
+Played,35,181189,2018-04-28 18:00:00,0,Stade de la Meinau,2501034,"Strasbourg - Nice, 1 - 1",Regular,412,away,3775,1,home,3779,1
+Played,35,181189,2018-04-28 18:00:00,3795,Stade de l'Aube,2501035,"Troyes - Caen, 3 - 1",Regular,412,away,3783,1,home,3795,3
+Played,35,181189,2018-04-28 15:00:00,3766,Groupama Stadium,2501029,"Olympique Lyonnais - Nantes, 2 - 0",Regular,412,home,3766,2,away,3770,0
+Played,35,181189,2018-04-27 18:45:00,3782,Stade de la Mosson,2501031,"Montpellier - Saint-\u00c9tienne, 0 - 1",Regular,412,home,3787,0,away,3782,1
+Played,33,181189,2018-04-25 16:45:00,0,Stade Michel d'Ornano,2501007,"Caen - Toulouse, 0 - 0",Regular,412,home,3783,0,away,3780,0
+Played,34,181189,2018-04-22 19:00:00,3767,Stade Matmut-Atlantique,2501017,"Bordeaux - PSG, 0 - 1",Regular,412,away,3767,1,home,3772,0
+Played,34,181189,2018-04-22 15:00:00,3782,Stade Geoffroy-Guichard,2501024,"Saint-\u00c9tienne - Troyes, 2 - 1",Regular,412,home,3782,2,away,3795,1
+Played,34,181189,2018-04-22 13:00:00,3775,Allianz Riviera,2501023,"Nice - Montpellier, 1 - 0",Regular,412,home,3775,1,away,3787,0
+Played,34,181189,2018-04-21 18:00:00,3789,Stade de la Licorne,2501016,"Amiens SC - Strasbourg, 3 - 1",Regular,412,home,3789,3,away,3779,1
+Played,34,181189,2018-04-21 18:00:00,3785,Stade du Roudourou,2501019,"Guingamp - Monaco, 3 - 1",Regular,412,home,3785,3,away,19830,1
+Played,34,181189,2018-04-21 18:00:00,0,Stade Saint-Symphorien,2501021,"Metz - Caen, 1 - 1",Regular,412,away,3783,1,home,3777,1
+Played,34,181189,2018-04-21 18:00:00,3780,Stadium Municipal,2501025,"Toulouse - Angers SCO, 2 - 0",Regular,412,away,3799,0,home,3780,2
+Played,34,181189,2018-04-21 15:00:00,3771,Stade V\u00e9lodrome,2501020,"Olympique Marseille - Lille, 5 - 1",Regular,412,home,3771,5,away,3776,1
+Played,34,181189,2018-04-20 19:00:00,3766,Stade Gaston-G\u00e9rard,2501018,"Dijon - Olympique Lyonnais, 2 - 5",Regular,412,home,3804,2,away,3766,5
+Played,34,181189,2018-04-20 17:30:00,0,Stade de la Beaujoire - Louis Fonteneau,2501022,"Nantes - Rennes, 1 - 1",Regular,412,home,3770,1,away,3774,1
+Played,33,181189,2018-04-15 19:00:00,3767,Parc des Princes,2501012,"PSG - Monaco, 7 - 1",Regular,412,home,3767,7,away,19830,1
+Played,33,181189,2018-04-15 15:00:00,3771,Stade de l'Aube,2501015,"Troyes - Olympique Marseille, 2 - 3",Regular,412,away,3771,3,home,3795,2
+Played,33,181189,2018-04-15 13:00:00,3772,Stade de la Mosson,2501010,"Montpellier - Bordeaux, 1 - 3",Regular,412,away,3772,3,home,3787,1
+Played,33,181189,2018-04-14 18:00:00,0,Stade Pierre-Mauroy,2501008,"Lille - Guingamp, 2 - 2",Regular,412,home,3776,2,away,3785,2
+Played,33,181189,2018-04-14 18:00:00,0,Stade de la Beaujoire - Louis Fonteneau,2501011,"Nantes - Dijon, 1 - 1",Regular,412,away,3804,1,home,3770,1
+Played,33,181189,2018-04-14 18:00:00,3777,Roazhon Park,2501013,"Rennes - Metz, 1 - 2",Regular,412,away,3777,2,home,3774,1
+Played,33,181189,2018-04-14 18:00:00,3782,Stade de la Meinau,2501014,"Strasbourg - Saint-\u00c9tienne, 0 - 1",Regular,412,home,3779,0,away,3782,1
+Played,33,181189,2018-04-14 15:00:00,3766,Groupama Stadium,2501009,"Olympique Lyonnais - Amiens SC, 3 - 0",Regular,412,home,3766,3,away,3789,0
+Played,33,181189,2018-04-13 18:45:00,0,Stade Raymond Kopa,2501006,"Angers SCO - Nice, 1 - 1",Regular,412,home,3799,1,away,3775,1
+Played,32,181189,2018-04-08 19:00:00,0,Stade V\u00e9lodrome,2501000,"Olympique Marseille - Montpellier, 0 - 0",Regular,412,home,3771,0,away,3787,0
+Played,32,181189,2018-04-08 15:00:00,3766,Stade Saint-Symphorien,2501001,"Metz - Olympique Lyonnais, 0 - 5",Regular,412,away,3766,5,home,3777,0
+Played,32,181189,2018-04-08 13:00:00,0,Allianz Riviera,2501003,"Nice - Rennes, 1 - 1",Regular,412,home,3775,1,away,3774,1
+Played,32,181189,2018-04-07 18:00:00,3789,Stade de la Licorne,2500996,"Amiens SC - Caen, 3 - 0",Regular,412,away,3783,0,home,3789,3
+Played,32,181189,2018-04-07 18:00:00,0,Stade Raymond Kopa,2500997,"Angers SCO - Strasbourg, 1 - 1",Regular,412,home,3799,1,away,3779,1
+Played,32,181189,2018-04-07 18:00:00,3772,Stade Matmut-Atlantique,2500998,"Bordeaux - Lille, 2 - 1",Regular,412,home,3772,2,away,3776,1
+Played,32,181189,2018-04-07 18:00:00,3785,Stade du Roudourou,2500999,"Guingamp - Troyes, 4 - 0",Regular,412,home,3785,4,away,3795,0
+Played,32,181189,2018-04-07 18:00:00,3804,Stadium Municipal,2501005,"Toulouse - Dijon, 0 - 1",Regular,412,away,3804,1,home,3780,0
+Played,32,181189,2018-04-07 15:00:00,19830,Stade Louis II.,2501002,"Monaco - Nantes, 2 - 1",Regular,412,away,3770,1,home,19830,2
+Played,32,181189,2018-04-06 18:45:00,0,Stade Geoffroy-Guichard,2501004,"Saint-\u00c9tienne - PSG, 1 - 1",Regular,412,away,3767,1,home,3782,1
+Played,31,181189,2018-04-04 16:45:00,0,Roazhon Park,2500993,"Rennes - Monaco, 1 - 1",Regular,412,home,3774,1,away,19830,1
+Played,31,181189,2018-04-01 19:00:00,3766,Groupama Stadium,2500990,"Olympique Lyonnais - Toulouse, 2 - 0",Regular,412,home,3766,2,away,3780,0
+Played,31,181189,2018-04-01 15:00:00,3787,Stade Michel d'Ornano,2500986,"Caen - Montpellier, 1 - 3",Regular,412,home,3783,1,away,3787,3
+Played,31,181189,2018-04-01 15:00:00,3789,Stade Pierre-Mauroy,2500989,"Lille - Amiens SC, 0 - 1",Regular,412,away,3789,1,home,3776,0
+Played,31,181189,2018-04-01 15:00:00,3782,Stade de la Beaujoire - Louis Fonteneau,2500991,"Nantes - Saint-\u00c9tienne, 0 - 3",Regular,412,home,3770,0,away,3782,3
+Played,31,181189,2018-04-01 15:00:00,0,Stade de la Meinau,2500994,"Strasbourg - Metz, 2 - 2",Regular,412,away,3777,2,home,3779,2
+Played,31,181189,2018-04-01 15:00:00,3775,Stade de l'Aube,2500995,"Troyes - Nice, 0 - 2",Regular,412,away,3775,2,home,3795,0
+Played,31,181189,2018-04-01 13:00:00,3785,Stade du Roudourou,2500988,"Guingamp - Bordeaux, 2 - 1",Regular,412,away,3772,1,home,3785,2
+Played,31,181189,2018-03-31 15:00:00,3771,Stade Gaston-G\u00e9rard,2500987,"Dijon - Olympique Marseille, 1 - 3",Regular,412,home,3804,1,away,3771,3
+Played,30,181189,2018-03-18 20:00:00,3766,Stade V\u00e9lodrome,2500979,"Olympique Marseille - Olympique Lyonnais, 2 - 3",Regular,412,away,3766,3,home,3771,2
+Played,30,181189,2018-03-18 16:00:00,3782,Stade Geoffroy-Guichard,2500984,"Saint-\u00c9tienne - Guingamp, 2 - 0",Regular,412,home,3782,2,away,3785,0
+Played,30,181189,2018-03-18 14:00:00,0,Stade Saint-Symphorien,2500980,"Metz - Nantes, 1 - 1",Regular,412,home,3777,1,away,3770,1
+Played,30,181189,2018-03-18 12:00:00,3767,Allianz Riviera,2500983,"Nice - PSG, 1 - 2",Regular,412,away,3767,2,home,3775,1
+Played,30,181189,2018-03-17 19:00:00,0,Stade de la Licorne,2500976,"Amiens SC - Troyes, 1 - 1",Regular,412,home,3789,1,away,3795,1
+Played,30,181189,2018-03-17 19:00:00,3799,Stade Raymond Kopa,2500977,"Angers SCO - Caen, 3 - 0",Regular,412,away,3783,0,home,3799,3
+Played,30,181189,2018-03-17 19:00:00,0,Stade de la Mosson,2500982,"Montpellier - Dijon, 2 - 2",Regular,412,away,3804,2,home,3787,2
+Played,30,181189,2018-03-17 19:00:00,0,Stadium Municipal,2500985,"Toulouse - Strasbourg, 2 - 2",Regular,412,away,3779,2,home,3780,2
+Played,30,181189,2018-03-17 16:00:00,3774,Stade Matmut-Atlantique,2500978,"Bordeaux - Rennes, 0 - 2",Regular,412,home,3772,0,away,3774,2
+Played,30,181189,2018-03-16 19:45:00,19830,Stade Louis II.,2500981,"Monaco - Lille, 2 - 1",Regular,412,away,3776,1,home,19830,2
+Played,31,181189,2018-03-14 16:00:00,3767,Parc des Princes,2500992,"PSG - Angers SCO, 2 - 1",Regular,412,home,3767,2,away,3799,1
+Played,29,181189,2018-03-11 20:00:00,3771,Stadium Municipal,2500975,"Toulouse - Olympique Marseille, 1 - 2",Regular,412,away,3771,2,home,3780,1
+Played,29,181189,2018-03-11 16:00:00,3766,Groupama Stadium,2500970,"Olympique Lyonnais - Caen, 1 - 0",Regular,412,away,3783,0,home,3766,1
+Played,29,181189,2018-03-11 14:00:00,3775,Stade du Roudourou,2500968,"Guingamp - Nice, 2 - 5",Regular,412,away,3775,5,home,3785,2
+Played,29,181189,2018-03-10 19:00:00,0,Stade Matmut-Atlantique,2500966,"Bordeaux - Angers SCO, 0 - 0",Regular,412,away,3799,0,home,3772,0
+Played,29,181189,2018-03-10 19:00:00,0,Stade Gaston-G\u00e9rard,2500967,"Dijon - Amiens SC, 1 - 1",Regular,412,home,3804,1,away,3789,1
+Played,29,181189,2018-03-10 19:00:00,0,Stade Pierre-Mauroy,2500969,"Lille - Montpellier, 1 - 1",Regular,412,away,3787,1,home,3776,1
+Played,29,181189,2018-03-10 19:00:00,3770,Stade de la Beaujoire - Louis Fonteneau,2500971,"Nantes - Troyes, 1 - 0",Regular,412,home,3770,1,away,3795,0
+Played,29,181189,2018-03-10 19:00:00,0,Roazhon Park,2500973,"Rennes - Saint-\u00c9tienne, 1 - 1",Regular,412,home,3774,1,away,3782,1
+Played,29,181189,2018-03-10 16:00:00,3767,Parc des Princes,2500972,"PSG - Metz, 5 - 0",Regular,412,home,3767,5,away,3777,0
+Played,29,181189,2018-03-09 19:45:00,19830,Stade de la Meinau,2500974,"Strasbourg - Monaco, 1 - 3",Regular,412,home,3779,1,away,19830,3
+Played,28,181189,2018-03-04 20:00:00,0,Stade V\u00e9lodrome,2500959,"Olympique Marseille - Nantes, 1 - 1",Regular,412,home,3771,1,away,3770,1
+Played,28,181189,2018-03-04 16:00:00,0,Stade de la Mosson,2500962,"Montpellier - Olympique Lyonnais, 1 - 1",Regular,412,away,3766,1,home,3787,1
+Played,28,181189,2018-03-04 14:00:00,3783,Stade Michel d'Ornano,2500958,"Caen - Strasbourg, 2 - 0",Regular,412,home,3783,2,away,3779,0
+Played,28,181189,2018-03-03 19:00:00,3774,Stade de la Licorne,2500956,"Amiens SC - Rennes, 0 - 2",Regular,412,home,3789,0,away,3774,2
+Played,28,181189,2018-03-03 19:00:00,3799,Stade Raymond Kopa,2500957,"Angers SCO - Guingamp, 3 - 0",Regular,412,home,3799,3,away,3785,0
+Played,28,181189,2018-03-03 19:00:00,0,Stade Saint-Symphorien,2500960,"Metz - Toulouse, 1 - 1",Regular,412,home,3777,1,away,3780,1
+Played,28,181189,2018-03-03 19:00:00,0,Stade Geoffroy-Guichard,2500964,"Saint-\u00c9tienne - Dijon, 2 - 2",Regular,412,away,3804,2,home,3782,2
+Played,28,181189,2018-03-03 16:00:00,3767,Stade de l'Aube,2500965,"Troyes - PSG, 0 - 2",Regular,412,away,3767,2,home,3795,0
+Played,28,181189,2018-03-02 18:45:00,19830,Stade Louis II.,2500961,"Monaco - Bordeaux, 2 - 1",Regular,412,away,3772,1,home,19830,2
+Played,28,181189,2018-03-02 18:00:00,3775,Allianz Riviera,2500963,"Nice - Lille, 2 - 1",Regular,412,home,3775,2,away,3776,1
+Played,27,181189,2018-02-25 20:00:00,3767,Parc des Princes,2500952,"PSG - Olympique Marseille, 3 - 0",Regular,412,home,3767,3,away,3771,0
+Played,27,181189,2018-02-25 16:00:00,0,Groupama Stadium,2500950,"Olympique Lyonnais - Saint-\u00c9tienne, 1 - 1",Regular,412,home,3766,1,away,3782,1
+Played,27,181189,2018-02-25 14:00:00,0,Stade Matmut-Atlantique,2500946,"Bordeaux - Nice, 0 - 0",Regular,412,away,3775,0,home,3772,0
+Played,27,181189,2018-02-24 19:00:00,3804,Stade Gaston-G\u00e9rard,2500947,"Dijon - Caen, 2 - 0",Regular,412,away,3783,0,home,3804,2
+Played,27,181189,2018-02-24 19:00:00,0,Stade du Roudourou,2500948,"Guingamp - Metz, 2 - 2",Regular,412,away,3777,2,home,3785,2
+Played,27,181189,2018-02-24 19:00:00,3799,Stade Pierre-Mauroy,2500949,"Lille - Angers SCO, 1 - 2",Regular,412,away,3799,2,home,3776,1
+Played,27,181189,2018-02-24 19:00:00,3789,Stade de la Beaujoire - Louis Fonteneau,2500951,"Nantes - Amiens SC, 0 - 1",Regular,412,away,3789,1,home,3770,0
+Played,27,181189,2018-02-24 19:00:00,3774,Roazhon Park,2500953,"Rennes - Troyes, 2 - 0",Regular,412,home,3774,2,away,3795,0
+Played,27,181189,2018-02-24 16:00:00,0,Stadium Municipal,2500955,"Toulouse - Monaco, 3 - 3",Regular,412,home,3780,3,away,19830,3
+Played,27,181189,2018-02-23 19:45:00,0,Stade de la Meinau,2500954,"Strasbourg - Montpellier, 0 - 0",Regular,412,home,3779,0,away,3787,0
+Played,24,181189,2018-02-20 17:30:00,0,Stade de l'Aube,2500925,"Troyes - Dijon, 0 - 0",Regular,412,away,3804,0,home,3795,0
+Played,26,181189,2018-02-18 20:00:00,3771,Stade V\u00e9lodrome,2500940,"Olympique Marseille - Bordeaux, 1 - 0",Regular,412,home,3771,1,away,3772,0
+Played,26,181189,2018-02-18 16:00:00,0,Stade Pierre-Mauroy,2500939,"Lille - Olympique Lyonnais, 2 - 2",Regular,412,away,3766,2,home,3776,2
+Played,26,181189,2018-02-18 14:00:00,0,Allianz Riviera,2500943,"Nice - Nantes, 1 - 1",Regular,412,home,3775,1,away,3770,1
+Played,26,181189,2018-02-17 19:00:00,0,Stade de la Licorne,2500936,"Amiens SC - Toulouse, 0 - 0",Regular,412,home,3789,0,away,3780,0
+Played,26,181189,2018-02-17 19:00:00,3782,Stade Raymond Kopa,2500937,"Angers SCO - Saint-\u00c9tienne, 0 - 1",Regular,412,home,3799,0,away,3782,1
+Played,26,181189,2018-02-17 19:00:00,0,Stade Michel d'Ornano,2500938,"Caen - Rennes, 2 - 2",Regular,412,home,3783,2,away,3774,2
+Played,26,181189,2018-02-17 19:00:00,0,Stade de la Mosson,2500942,"Montpellier - Guingamp, 1 - 1",Regular,412,home,3787,1,away,3785,1
+Played,26,181189,2018-02-17 19:00:00,3795,Stade de l'Aube,2500945,"Troyes - Metz, 1 - 0",Regular,412,away,3777,0,home,3795,1
+Played,26,181189,2018-02-17 16:00:00,3767,Parc des Princes,2500944,"PSG - Strasbourg, 5 - 2",Regular,412,home,3767,5,away,3779,2
+Played,26,181189,2018-02-16 19:45:00,19830,Stade Louis II.,2500941,"Monaco - Dijon, 4 - 0",Regular,412,away,3804,0,home,19830,4
+Played,25,181189,2018-02-11 20:00:00,3774,Groupama Stadium,2500930,"Olympique Lyonnais - Rennes, 0 - 2",Regular,412,home,3766,0,away,3774,2
+Played,25,181189,2018-02-11 16:00:00,0,Stade de la Beaujoire - Louis Fonteneau,2500932,"Nantes - Lille, 2 - 2",Regular,412,home,3770,2,away,3776,2
+Played,25,181189,2018-02-11 14:00:00,3779,Stade de la Meinau,2500934,"Strasbourg - Troyes, 2 - 1",Regular,412,home,3779,2,away,3795,1
+Played,25,181189,2018-02-10 19:00:00,19830,Stade Raymond Kopa,2500926,"Angers SCO - Monaco, 0 - 4",Regular,412,home,3799,0,away,19830,4
+Played,25,181189,2018-02-10 19:00:00,3772,Stade Matmut-Atlantique,2500927,"Bordeaux - Amiens SC, 3 - 2",Regular,412,away,3789,2,home,3772,3
+Played,25,181189,2018-02-10 19:00:00,3804,Stade Gaston-G\u00e9rard,2500928,"Dijon - Nice, 3 - 2",Regular,412,home,3804,3,away,3775,2
+Played,25,181189,2018-02-10 19:00:00,0,Stade du Roudourou,2500929,"Guingamp - Caen, 0 - 0",Regular,412,away,3783,0,home,3785,0
+Played,25,181189,2018-02-10 19:00:00,3787,Stade Saint-Symphorien,2500931,"Metz - Montpellier, 0 - 1",Regular,412,home,3777,0,away,3787,1
+Played,25,181189,2018-02-10 16:00:00,3767,Stadium Municipal,2500935,"Toulouse - PSG, 0 - 1",Regular,412,away,3767,1,home,3780,0
+Played,25,181189,2018-02-09 19:45:00,0,Stade Geoffroy-Guichard,2500933,"Saint-\u00c9tienne - Olympique Marseille, 2 - 2",Regular,412,away,3771,2,home,3782,2
+Played,24,181189,2018-02-04 20:00:00,19830,Stade Louis II.,2500920,"Monaco - Olympique Lyonnais, 3 - 2",Regular,412,away,3766,2,home,19830,3
+Played,24,181189,2018-02-04 16:00:00,3783,Stade Michel d'Ornano,2500917,"Caen - Nantes, 3 - 2",Regular,412,home,3783,3,away,3770,2
+Played,24,181189,2018-02-04 14:00:00,3785,Roazhon Park,2500923,"Rennes - Guingamp, 0 - 1",Regular,412,home,3774,0,away,3785,1
+Played,24,181189,2018-02-03 19:00:00,3782,Stade de la Licorne,2500916,"Amiens SC - Saint-\u00c9tienne, 0 - 2",Regular,412,home,3789,0,away,3782,2
+Played,24,181189,2018-02-03 19:00:00,3787,Stade de la Mosson,2500921,"Montpellier - Angers SCO, 2 - 1",Regular,412,away,3799,1,home,3787,2
+Played,24,181189,2018-02-03 19:00:00,3780,Allianz Riviera,2500922,"Nice - Toulouse, 0 - 1",Regular,412,home,3775,0,away,3780,1
+Played,24,181189,2018-02-03 19:00:00,3772,Stade de la Meinau,2500924,"Strasbourg - Bordeaux, 0 - 2",Regular,412,away,3772,2,home,3779,0
+Played,24,181189,2018-02-03 16:00:00,3767,Stade Pierre-Mauroy,2500918,"Lille - PSG, 0 - 3",Regular,412,away,3767,3,home,3776,0
+Played,24,181189,2018-02-02 19:45:00,3771,Stade V\u00e9lodrome,2500919,"Olympique Marseille - Metz, 6 - 3",Regular,412,home,3771,6,away,3777,3
+Played,23,181189,2018-01-28 20:00:00,0,Stade V\u00e9lodrome,2500911,"Olympique Marseille - Monaco, 2 - 2",Regular,412,home,3771,2,away,19830,2
+Played,23,181189,2018-01-28 16:00:00,3772,Stade Matmut-Atlantique,2500907,"Bordeaux - Olympique Lyonnais, 3 - 1",Regular,412,away,3766,1,home,3772,3
+Played,23,181189,2018-01-28 14:00:00,3776,Stade Pierre-Mauroy,2500910,"Lille - Strasbourg, 2 - 1",Regular,412,away,3779,1,home,3776,2
+Played,23,181189,2018-01-27 19:00:00,3799,Stade Raymond Kopa,2500906,"Angers SCO - Amiens SC, 1 - 0",Regular,412,home,3799,1,away,3789,0
+Played,23,181189,2018-01-27 19:00:00,3770,Stade du Roudourou,2500909,"Guingamp - Nantes, 0 - 3",Regular,412,away,3770,3,home,3785,0
+Played,23,181189,2018-01-27 19:00:00,3777,Stade Saint-Symphorien,2500912,"Metz - Nice, 2 - 1",Regular,412,away,3775,1,home,3777,2
+Played,23,181189,2018-01-27 19:00:00,3782,Stade Geoffroy-Guichard,2500914,"Saint-\u00c9tienne - Caen, 2 - 1",Regular,412,away,3783,1,home,3782,2
+Played,23,181189,2018-01-27 19:00:00,3780,Stadium Municipal,2500915,"Toulouse - Troyes, 1 - 0",Regular,412,home,3780,1,away,3795,0
+Played,23,181189,2018-01-27 16:00:00,3767,Parc des Princes,2500913,"PSG - Montpellier, 4 - 0",Regular,412,home,3767,4,away,3787,0
+Played,23,181189,2018-01-26 19:45:00,3804,Stade Gaston-G\u00e9rard,2500908,"Dijon - Rennes, 2 - 1",Regular,412,home,3804,2,away,3774,1
+Played,22,181189,2018-01-21 20:00:00,3766,Groupama Stadium,2500898,"Olympique Lyonnais - PSG, 2 - 1",Regular,412,away,3767,1,home,3766,2
+Played,22,181189,2018-01-21 16:00:00,19830,Stade Louis II.,2500899,"Monaco - Metz, 3 - 1",Regular,412,away,3777,1,home,19830,3
+Played,22,181189,2018-01-21 14:00:00,3775,Allianz Riviera,2500902,"Nice - Saint-\u00c9tienne, 1 - 0",Regular,412,home,3775,1,away,3782,0
+Played,22,181189,2018-01-20 19:00:00,3789,Stade de la Licorne,2500896,"Amiens SC - Guingamp, 3 - 1",Regular,412,home,3789,3,away,3785,1
+Played,22,181189,2018-01-20 19:00:00,3787,Stade de la Mosson,2500900,"Montpellier - Toulouse, 2 - 1",Regular,412,home,3787,2,away,3780,1
+Played,22,181189,2018-01-20 19:00:00,3774,Roazhon Park,2500903,"Rennes - Angers SCO, 1 - 0",Regular,412,away,3799,0,home,3774,1
+Played,22,181189,2018-01-20 19:00:00,3779,Stade de la Meinau,2500904,"Strasbourg - Dijon, 3 - 2",Regular,412,away,3804,2,home,3779,3
+Played,22,181189,2018-01-20 19:00:00,3795,Stade de l'Aube,2500905,"Troyes - Lille, 1 - 0",Regular,412,away,3776,0,home,3795,1
+Played,22,181189,2018-01-20 16:00:00,3772,Stade de la Beaujoire - Louis Fonteneau,2500901,"Nantes - Bordeaux, 0 - 1",Regular,412,away,3772,1,home,3770,0
+Played,22,181189,2018-01-19 19:45:00,3771,Stade Michel d'Ornano,2500897,"Caen - Olympique Marseille, 0 - 2",Regular,412,home,3783,0,away,3771,2
+Played,21,181189,2018-01-17 20:00:00,3767,Parc des Princes,2500894,"PSG - Dijon, 8 - 0",Regular,412,home,3767,8,away,3804,0
+Played,21,181189,2018-01-17 18:00:00,0,Stade de la Licorne,2500886,"Amiens SC - Montpellier, 1 - 1",Regular,412,home,3789,1,away,3787,1
+Played,21,181189,2018-01-17 18:00:00,3799,Stade Raymond Kopa,2500887,"Angers SCO - Troyes, 3 - 1",Regular,412,home,3799,3,away,3795,1
+Played,21,181189,2018-01-17 18:00:00,3766,Stade du Roudourou,2500889,"Guingamp - Olympique Lyonnais, 0 - 2",Regular,412,away,3766,2,home,3785,0
+Played,21,181189,2018-01-17 18:00:00,3774,Stade Pierre-Mauroy,2500890,"Lille - Rennes, 1 - 2",Regular,412,away,3774,2,home,3776,1
+Played,21,181189,2018-01-17 18:00:00,3777,Stade Saint-Symphorien,2500892,"Metz - Saint-\u00c9tienne, 3 - 0",Regular,412,home,3777,3,away,3782,0
+Played,21,181189,2018-01-17 18:00:00,0,Stadium Municipal,2500895,"Toulouse - Nantes, 1 - 1",Regular,412,away,3770,1,home,3780,1
+Played,21,181189,2018-01-16 20:00:00,0,Stade Louis II.,2500893,"Monaco - Nice, 2 - 2",Regular,412,away,3775,2,home,19830,2
+Played,21,181189,2018-01-16 18:00:00,3783,Stade Matmut-Atlantique,2500888,"Bordeaux - Caen, 0 - 2",Regular,412,away,3783,2,home,3772,0
+Played,21,181189,2018-01-16 18:00:00,3771,Stade V\u00e9lodrome,2500891,"Olympique Marseille - Strasbourg, 2 - 0",Regular,412,home,3771,2,away,3779,0
+Played,20,181189,2018-01-14 20:00:00,3767,Stade de la Beaujoire - Louis Fonteneau,2500880,"Nantes - PSG, 0 - 1",Regular,412,away,3767,1,home,3770,0
+Played,20,181189,2018-01-14 16:00:00,0,Groupama Stadium,2500878,"Olympique Lyonnais - Angers SCO, 1 - 1",Regular,412,away,3799,1,home,3766,1
+Played,20,181189,2018-01-14 14:00:00,3782,Stade Geoffroy-Guichard,2500883,"Saint-\u00c9tienne - Toulouse, 2 - 0",Regular,412,home,3782,2,away,3780,0
+Played,20,181189,2018-01-13 19:00:00,3776,Stade Michel d'Ornano,2500876,"Caen - Lille, 0 - 1",Regular,412,home,3783,0,away,3776,1
+Played,20,181189,2018-01-13 19:00:00,0,Stade Gaston-G\u00e9rard,2500877,"Dijon - Metz, 1 - 1",Regular,412,home,3804,1,away,3777,1
+Played,20,181189,2018-01-13 19:00:00,0,Stade de la Mosson,2500879,"Montpellier - Monaco, 0 - 0",Regular,412,home,3787,0,away,19830,0
+Played,20,181189,2018-01-13 19:00:00,3775,Allianz Riviera,2500881,"Nice - Amiens SC, 1 - 0",Regular,412,home,3775,1,away,3789,0
+Played,20,181189,2018-01-13 19:00:00,3772,Stade de l'Aube,2500885,"Troyes - Bordeaux, 0 - 1",Regular,412,away,3772,1,home,3795,0
+Played,20,181189,2018-01-13 16:00:00,3771,Roazhon Park,2500882,"Rennes - Olympique Marseille, 0 - 3",Regular,412,away,3771,3,home,3774,0
+Played,20,181189,2018-01-12 19:45:00,3785,Stade de la Meinau,2500884,"Strasbourg - Guingamp, 0 - 2",Regular,412,home,3779,0,away,3785,2
+Played,19,181189,2017-12-20 19:50:00,3799,Stade Raymond Kopa,2500867,"Angers SCO - Dijon, 2 - 1",Regular,412,away,3804,1,home,3799,2
+Played,19,181189,2017-12-20 19:50:00,0,Stade Pierre-Mauroy,2500870,"Lille - Nice, 1 - 1",Regular,412,away,3775,1,home,3776,1
+Played,19,181189,2017-12-20 19:50:00,3771,Stade V\u00e9lodrome,2500871,"Olympique Marseille - Troyes, 3 - 1",Regular,412,home,3771,3,away,3795,1
+Played,19,181189,2017-12-20 19:50:00,3767,Parc des Princes,2500874,"PSG - Caen, 3 - 1",Regular,412,away,3783,1,home,3767,3
+Played,19,181189,2017-12-20 19:50:00,3770,Stade de la Licorne,2500866,"Amiens SC - Nantes, 0 - 1",Regular,412,home,3789,0,away,3770,1
+Played,19,181189,2017-12-20 19:50:00,3787,Stade Matmut-Atlantique,2500868,"Bordeaux - Montpellier, 0 - 2",Regular,412,home,3772,0,away,3787,2
+Played,19,181189,2017-12-20 19:50:00,3785,Stade du Roudourou,2500869,"Guingamp - Saint-\u00c9tienne, 2 - 1",Regular,412,away,3782,1,home,3785,2
+Played,19,181189,2017-12-20 19:50:00,3777,Stade Saint-Symphorien,2500872,"Metz - Strasbourg, 3 - 0",Regular,412,home,3777,3,away,3779,0
+Played,19,181189,2017-12-20 19:50:00,19830,Stade Louis II.,2500873,"Monaco - Rennes, 2 - 1",Regular,412,away,3774,1,home,19830,2
+Played,19,181189,2017-12-20 19:50:00,3766,Stadium Municipal,2500875,"Toulouse - Olympique Lyonnais, 1 - 2",Regular,412,away,3766,2,home,3780,1
+Played,18,181189,2017-12-17 20:00:00,3766,Groupama Stadium,2500858,"Olympique Lyonnais - Olympique Marseille, 2 - 0",Regular,412,home,3766,2,away,3771,0
+Played,18,181189,2017-12-17 16:00:00,3775,Allianz Riviera,2500861,"Nice - Bordeaux, 1 - 0",Regular,412,home,3775,1,away,3772,0
+Played,18,181189,2017-12-17 14:00:00,3770,Stade de la Beaujoire - Louis Fonteneau,2500860,"Nantes - Angers SCO, 1 - 0",Regular,412,away,3799,0,home,3770,1
+Played,18,181189,2017-12-16 19:00:00,3777,Stade de la Mosson,2500859,"Montpellier - Metz, 1 - 3",Regular,412,away,3777,3,home,3787,1
+Played,18,181189,2017-12-16 19:00:00,0,Stade Michel d'Ornano,2500856,"Caen - Guingamp, 0 - 0",Regular,412,home,3783,0,away,3785,0
+Played,18,181189,2017-12-16 19:00:00,3804,Stade Gaston-G\u00e9rard,2500857,"Dijon - Lille, 3 - 0",Regular,412,home,3804,3,away,3776,0
+Played,18,181189,2017-12-16 19:00:00,3779,Stade de la Meinau,2500864,"Strasbourg - Toulouse, 2 - 1",Regular,412,home,3779,2,away,3780,1
+Played,18,181189,2017-12-16 19:00:00,3795,Stade de l'Aube,2500865,"Troyes - Amiens SC, 1 - 0",Regular,412,away,3789,0,home,3795,1
+Played,18,181189,2017-12-16 16:00:00,3767,Roazhon Park,2500862,"Rennes - PSG, 1 - 4",Regular,412,away,3767,4,home,3774,1
+Played,18,181189,2017-12-15 19:45:00,19830,Stade Geoffroy-Guichard,2500863,"Saint-\u00c9tienne - Monaco, 0 - 4",Regular,412,home,3782,0,away,19830,4
+Played,17,181189,2017-12-10 20:00:00,3771,Stade V\u00e9lodrome,2500850,"Olympique Marseille - Saint-\u00c9tienne, 3 - 0",Regular,412,home,3771,3,away,3782,0
+Played,17,181189,2017-12-10 16:00:00,3775,Stade de la Beaujoire - Louis Fonteneau,2500853,"Nantes - Nice, 1 - 2",Regular,412,away,3775,2,home,3770,1
+Played,17,181189,2017-12-10 14:00:00,3766,Stade de la Licorne,2500846,"Amiens SC - Olympique Lyonnais, 1 - 2",Regular,412,away,3766,2,home,3789,1
+Played,17,181189,2017-12-09 19:00:00,0,Stade Raymond Kopa,2500847,"Angers SCO - Montpellier, 1 - 1",Regular,412,home,3799,1,away,3787,1
+Played,17,181189,2017-12-09 19:00:00,3785,Stade du Roudourou,2500849,"Guingamp - Dijon, 4 - 0",Regular,412,away,3804,0,home,3785,4
+Played,17,181189,2017-12-09 19:00:00,0,Stade Saint-Symphorien,2500851,"Metz - Rennes, 1 - 1",Regular,412,home,3777,1,away,3774,1
+Played,17,181189,2017-12-09 19:00:00,19830,Stade Louis II.,2500852,"Monaco - Troyes, 3 - 2",Regular,412,away,3795,2,home,19830,3
+Played,17,181189,2017-12-09 19:00:00,3780,Stadium Municipal,2500855,"Toulouse - Caen, 2 - 0",Regular,412,away,3783,0,home,3780,2
+Played,17,181189,2017-12-09 16:00:00,3767,Parc des Princes,2500854,"PSG - Lille, 3 - 1",Regular,412,home,3767,3,away,3776,1
+Played,17,181189,2017-12-08 19:45:00,3779,Stade Matmut-Atlantique,2500848,"Bordeaux - Strasbourg, 0 - 3",Regular,412,home,3772,0,away,3779,3
+Played,16,181189,2017-12-03 20:00:00,0,Stade de la Mosson,2500840,"Montpellier - Olympique Marseille, 1 - 1",Regular,412,away,3771,1,home,3787,1
+Played,16,181189,2017-12-03 16:00:00,3766,Stade Michel d'Ornano,2500836,"Caen - Olympique Lyonnais, 1 - 2",Regular,412,home,3783,1,away,3766,2
+Played,16,181189,2017-12-03 14:00:00,0,Stade Geoffroy-Guichard,2500843,"Saint-\u00c9tienne - Nantes, 1 - 1",Regular,412,away,3770,1,home,3782,1
+Played,16,181189,2017-12-02 19:00:00,3776,Stade Pierre-Mauroy,2500838,"Lille - Toulouse, 1 - 0",Regular,412,home,3776,1,away,3780,0
+Played,16,181189,2017-12-02 19:00:00,19830,Stade Louis II.,2500839,"Monaco - Angers SCO, 1 - 0",Regular,412,away,3799,0,home,19830,1
+Played,16,181189,2017-12-02 19:00:00,3775,Allianz Riviera,2500841,"Nice - Metz, 3 - 1",Regular,412,home,3775,3,away,3777,1
+Played,16,181189,2017-12-02 19:00:00,3774,Roazhon Park,2500842,"Rennes - Amiens SC, 2 - 0",Regular,412,away,3789,0,home,3774,2
+Played,16,181189,2017-12-02 19:00:00,3785,Stade de l'Aube,2500845,"Troyes - Guingamp, 0 - 1",Regular,412,away,3785,1,home,3795,0
+Played,16,181189,2017-12-02 16:00:00,3779,Stade de la Meinau,2500844,"Strasbourg - PSG, 2 - 1",Regular,412,away,3767,1,home,3779,2
+Played,16,181189,2017-12-01 19:45:00,3804,Stade Gaston-G\u00e9rard,2500837,"Dijon - Bordeaux, 3 - 2",Regular,412,home,3804,3,away,3772,2
+Played,15,181189,2017-11-29 20:00:00,3767,Parc des Princes,2500833,"PSG - Troyes, 2 - 0",Regular,412,home,3767,2,away,3795,0
+Played,15,181189,2017-11-29 18:00:00,3774,Stade Raymond Kopa,2500827,"Angers SCO - Rennes, 1 - 2",Regular,412,home,3799,1,away,3774,2
+Played,15,181189,2017-11-29 18:00:00,0,Stade du Roudourou,2500829,"Guingamp - Montpellier, 0 - 0",Regular,412,away,3787,0,home,3785,0
+Played,15,181189,2017-11-29 18:00:00,3776,Groupama Stadium,2500830,"Olympique Lyonnais - Lille, 1 - 2",Regular,412,home,3766,1,away,3776,2
+Played,15,181189,2017-11-29 18:00:00,3771,Stade Saint-Symphorien,2500831,"Metz - Olympique Marseille, 0 - 3",Regular,412,away,3771,3,home,3777,0
+Played,15,181189,2017-11-29 18:00:00,3770,Stade de la Beaujoire - Louis Fonteneau,2500832,"Nantes - Monaco, 1 - 0",Regular,412,home,3770,1,away,19830,0
+Played,15,181189,2017-11-29 18:00:00,3775,Stadium Municipal,2500835,"Toulouse - Nice, 1 - 2",Regular,412,away,3775,2,home,3780,1
+Played,15,181189,2017-11-28 20:00:00,3772,Stade Matmut-Atlantique,2500828,"Bordeaux - Saint-\u00c9tienne, 3 - 0",Regular,412,home,3772,3,away,3782,0
+Played,15,181189,2017-11-28 18:00:00,3789,Stade de la Licorne,2500826,"Amiens SC - Dijon, 2 - 1",Regular,412,away,3804,1,home,3789,2
+Played,15,181189,2017-11-28 18:00:00,0,Stade de la Meinau,2500834,"Strasbourg - Caen, 0 - 0",Regular,412,away,3783,0,home,3779,0
+Played,14,181189,2017-11-26 20:00:00,3767,Stade Louis II.,2500820,"Monaco - PSG, 1 - 2",Regular,412,away,3767,2,home,19830,1
+Played,14,181189,2017-11-26 16:00:00,3771,Stade V\u00e9lodrome,2500818,"Olympique Marseille - Guingamp, 1 - 0",Regular,412,home,3771,1,away,3785,0
+Played,14,181189,2017-11-26 14:00:00,3766,Allianz Riviera,2500822,"Nice - Olympique Lyonnais, 0 - 5",Regular,412,away,3766,5,home,3775,0
+Played,14,181189,2017-11-25 19:00:00,3783,Stade Michel d'Ornano,2500816,"Caen - Bordeaux, 1 - 0",Regular,412,home,3783,1,away,3772,0
+Played,14,181189,2017-11-25 19:00:00,3804,Stade Gaston-G\u00e9rard,2500817,"Dijon - Toulouse, 3 - 1",Regular,412,home,3804,3,away,3780,1
+Played,14,181189,2017-11-25 19:00:00,3789,Stade Saint-Symphorien,2500819,"Metz - Amiens SC, 0 - 2",Regular,412,away,3789,2,home,3777,0
+Played,14,181189,2017-11-25 19:00:00,3787,Stade de la Mosson,2500821,"Montpellier - Lille, 3 - 0",Regular,412,home,3787,3,away,3776,0
+Played,14,181189,2017-11-25 19:00:00,3795,Stade de l'Aube,2500825,"Troyes - Angers SCO, 3 - 0",Regular,412,away,3799,0,home,3795,3
+Played,14,181189,2017-11-25 16:00:00,3774,Roazhon Park,2500823,"Rennes - Nantes, 2 - 1",Regular,412,away,3770,1,home,3774,2
+Played,14,181189,2017-11-24 19:45:00,0,Stade Geoffroy-Guichard,2500824,"Saint-\u00c9tienne - Strasbourg, 2 - 2",Regular,412,away,3779,2,home,3782,2
+Played,8,181189,2017-11-20 18:00:00,3789,Stade de la Licorne,2500756,"Amiens SC - Lille, 3 - 0",Regular,412,home,3789,3,away,3776,0
+Played,13,181189,2017-11-19 20:00:00,0,Stade Matmut-Atlantique,2500807,"Bordeaux - Olympique Marseille, 1 - 1",Regular,412,away,3771,1,home,3772,1
+Played,13,181189,2017-11-19 16:00:00,0,Groupama Stadium,2500812,"Olympique Lyonnais - Montpellier, 0 - 0",Regular,412,home,3766,0,away,3787,0
+Played,13,181189,2017-11-19 14:00:00,0,Stade Michel d'Ornano,2500808,"Caen - Nice, 1 - 1",Regular,412,home,3783,1,away,3775,1
+Played,13,181189,2017-11-18 19:00:00,3804,Stade Gaston-G\u00e9rard,2500809,"Dijon - Troyes, 3 - 1",Regular,412,home,3804,3,away,3795,1
+Played,13,181189,2017-11-18 19:00:00,0,Stade du Roudourou,2500810,"Guingamp - Angers SCO, 1 - 1",Regular,412,away,3799,1,home,3785,1
+Played,13,181189,2017-11-18 19:00:00,3779,Stade de la Meinau,2500814,"Strasbourg - Rennes, 2 - 1",Regular,412,home,3779,2,away,3774,1
+Played,13,181189,2017-11-18 19:00:00,0,Stadium Municipal,2500815,"Toulouse - Metz, 0 - 0",Regular,412,away,3777,0,home,3780,0
+Played,13,181189,2017-11-18 16:00:00,3767,Parc des Princes,2500813,"PSG - Nantes, 4 - 1",Regular,412,home,3767,4,away,3770,1
+Played,13,181189,2017-11-17 19:45:00,0,Stade de la Licorne,2500806,"Amiens SC - Monaco, 1 - 1",Regular,412,home,3789,1,away,19830,1
+Played,13,181189,2017-11-17 18:00:00,3776,Stade Pierre-Mauroy,2500811,"Lille - Saint-\u00c9tienne, 3 - 1",Regular,412,away,3782,1,home,3776,3
+Played,12,181189,2017-11-05 20:00:00,3766,Stade Geoffroy-Guichard,2500804,"Saint-\u00c9tienne - Olympique Lyonnais, 0 - 5",Regular,412,away,3766,5,home,3782,0
+Played,12,181189,2017-11-05 16:00:00,3771,Stade V\u00e9lodrome,2500797,"Olympique Marseille - Caen, 5 - 0",Regular,412,away,3783,0,home,3771,5
+Played,12,181189,2017-11-05 16:00:00,3776,Stade Saint-Symphorien,2500798,"Metz - Lille, 0 - 3",Regular,412,home,3777,0,away,3776,3
+Played,12,181189,2017-11-05 14:00:00,3775,Allianz Riviera,2500802,"Nice - Dijon, 1 - 0",Regular,412,away,3804,0,home,3775,1
+Played,12,181189,2017-11-04 19:00:00,19830,Stade Louis II.,2500799,"Monaco - Guingamp, 6 - 0",Regular,412,away,3785,0,home,19830,6
+Played,12,181189,2017-11-04 19:00:00,0,Stade de la Mosson,2500800,"Montpellier - Amiens SC, 1 - 1",Regular,412,away,3789,1,home,3787,1
+Played,12,181189,2017-11-04 19:00:00,3770,Stade de la Beaujoire - Louis Fonteneau,2500801,"Nantes - Toulouse, 2 - 1",Regular,412,home,3770,2,away,3780,1
+Played,12,181189,2017-11-04 19:00:00,3795,Stade de l'Aube,2500805,"Troyes - Strasbourg, 3 - 0",Regular,412,away,3779,0,home,3795,3
+Played,12,181189,2017-11-04 16:00:00,3767,Stade Raymond Kopa,2500796,"Angers SCO - PSG, 0 - 5",Regular,412,away,3767,5,home,3799,0
+Played,12,181189,2017-11-03 19:45:00,3774,Roazhon Park,2500803,"Rennes - Bordeaux, 1 - 0",Regular,412,away,3772,0,home,3774,1
+Played,11,181189,2017-10-29 20:00:00,3771,Stade Pierre-Mauroy,2500790,"Lille - Olympique Marseille, 0 - 1",Regular,412,away,3771,1,home,3776,0
+Played,11,181189,2017-10-29 16:00:00,0,Stadium Municipal,2500795,"Toulouse - Saint-\u00c9tienne, 0 - 0",Regular,412,away,3782,0,home,3780,0
+Played,11,181189,2017-10-29 14:00:00,3766,Groupama Stadium,2500791,"Olympique Lyonnais - Metz, 2 - 0",Regular,412,home,3766,2,away,3777,0
+Played,11,181189,2017-10-28 18:00:00,3783,Stade Michel d'Ornano,2500787,"Caen - Troyes, 1 - 0",Regular,412,home,3783,1,away,3795,0
+Played,11,181189,2017-10-28 18:00:00,3804,Stade Gaston-G\u00e9rard,2500788,"Dijon - Nantes, 1 - 0",Regular,412,home,3804,1,away,3770,0
+Played,11,181189,2017-10-28 18:00:00,0,Stade du Roudourou,2500789,"Guingamp - Amiens SC, 1 - 1",Regular,412,away,3789,1,home,3785,1
+Played,11,181189,2017-10-28 18:00:00,3774,Stade de la Mosson,2500792,"Montpellier - Rennes, 0 - 1",Regular,412,home,3787,0,away,3774,1
+Played,11,181189,2017-10-28 18:00:00,0,Stade de la Meinau,2500794,"Strasbourg - Angers SCO, 2 - 2",Regular,412,away,3799,2,home,3779,2
+Played,11,181189,2017-10-28 15:00:00,19830,Stade Matmut-Atlantique,2500786,"Bordeaux - Monaco, 0 - 2",Regular,412,home,3772,0,away,19830,2
+Played,11,181189,2017-10-27 18:45:00,3767,Parc des Princes,2500793,"PSG - Nice, 3 - 0",Regular,412,home,3767,3,away,3775,0
+Played,10,181189,2017-10-22 19:00:00,0,Stade V\u00e9lodrome,2500778,"Olympique Marseille - PSG, 2 - 2",Regular,412,away,3767,2,home,3771,2
+Played,10,181189,2017-10-22 15:00:00,3766,Stade de l'Aube,2500785,"Troyes - Olympique Lyonnais, 0 - 5",Regular,412,away,3766,5,home,3795,0
+Played,10,181189,2017-10-22 13:00:00,3779,Allianz Riviera,2500782,"Nice - Strasbourg, 1 - 2",Regular,412,home,3775,1,away,3779,2
+Played,10,181189,2017-10-21 18:00:00,3789,Stade de la Licorne,2500776,"Amiens SC - Bordeaux, 1 - 0",Regular,412,home,3789,1,away,3772,0
+Played,10,181189,2017-10-21 18:00:00,3780,Stade Raymond Kopa,2500777,"Angers SCO - Toulouse, 0 - 1",Regular,412,home,3799,0,away,3780,1
+Played,10,181189,2017-10-21 18:00:00,3804,Stade Saint-Symphorien,2500779,"Metz - Dijon, 1 - 2",Regular,412,away,3804,2,home,3777,1
+Played,10,181189,2017-10-21 18:00:00,3770,Stade de la Beaujoire - Louis Fonteneau,2500781,"Nantes - Guingamp, 2 - 1",Regular,412,home,3770,2,away,3785,1
+Played,10,181189,2017-10-21 18:00:00,3774,Roazhon Park,2500783,"Rennes - Lille, 1 - 0",Regular,412,home,3774,1,away,3776,0
+Played,10,181189,2017-10-21 15:00:00,19830,Stade Louis II.,2500780,"Monaco - Caen, 2 - 0",Regular,412,away,3783,0,home,19830,2
+Played,10,181189,2017-10-20 18:45:00,3787,Stade Geoffroy-Guichard,2500784,"Saint-\u00c9tienne - Montpellier, 0 - 1",Regular,412,away,3787,1,home,3782,0
+Played,9,181189,2017-10-15 19:00:00,0,Stade de la Meinau,2500774,"Strasbourg - Olympique Marseille, 3 - 3",Regular,412,away,3771,3,home,3779,3
+Played,9,181189,2017-10-15 15:00:00,3787,Stade de la Mosson,2500772,"Montpellier - Nice, 2 - 0",Regular,412,away,3775,0,home,3787,2
+Played,9,181189,2017-10-15 13:00:00,0,Stade Matmut-Atlantique,2500766,"Bordeaux - Nantes, 1 - 1",Regular,412,home,3772,1,away,3770,1
+Played,9,181189,2017-10-14 18:00:00,3799,Stade Michel d'Ornano,2500767,"Caen - Angers SCO, 0 - 2",Regular,412,home,3783,0,away,3799,2
+Played,9,181189,2017-10-14 18:00:00,3785,Stade du Roudourou,2500769,"Guingamp - Rennes, 2 - 0",Regular,412,away,3774,0,home,3785,2
+Played,9,181189,2017-10-14 18:00:00,0,Stade Pierre-Mauroy,2500770,"Lille - Troyes, 2 - 2",Regular,412,home,3776,2,away,3795,2
+Played,9,181189,2017-10-14 18:00:00,3782,Stade Geoffroy-Guichard,2500773,"Saint-\u00c9tienne - Metz, 3 - 1",Regular,412,away,3777,1,home,3782,3
+Played,9,181189,2017-10-14 18:00:00,3780,Stadium Municipal,2500775,"Toulouse - Amiens SC, 1 - 0",Regular,412,away,3789,0,home,3780,1
+Played,9,181189,2017-10-14 15:00:00,3767,Stade Gaston-G\u00e9rard,2500768,"Dijon - PSG, 1 - 2",Regular,412,away,3767,2,home,3804,1
+Played,9,181189,2017-10-13 18:45:00,3766,Groupama Stadium,2500771,"Olympique Lyonnais - Monaco, 3 - 2",Regular,412,home,3766,3,away,19830,2
+Played,8,181189,2017-10-01 19:00:00,3771,Allianz Riviera,2500762,"Nice - Olympique Marseille, 2 - 4",Regular,412,home,3775,2,away,3771,4
+Played,8,181189,2017-10-01 15:00:00,0,Stade Raymond Kopa,2500757,"Angers SCO - Olympique Lyonnais, 3 - 3",Regular,412,home,3799,3,away,3766,3
+Played,8,181189,2017-10-01 13:00:00,3795,Stade de l'Aube,2500765,"Troyes - Saint-\u00c9tienne, 2 - 1",Regular,412,away,3782,1,home,3795,2
+Played,8,181189,2017-09-30 18:00:00,0,Stade Gaston-G\u00e9rard,2500758,"Dijon - Strasbourg, 1 - 1",Regular,412,home,3804,1,away,3779,1
+Played,8,181189,2017-09-30 18:00:00,0,Stade du Roudourou,2500759,"Guingamp - Toulouse, 1 - 1",Regular,412,away,3780,1,home,3785,1
+Played,8,181189,2017-09-30 18:00:00,3770,Stade de la Beaujoire - Louis Fonteneau,2500761,"Nantes - Metz, 1 - 0",Regular,412,away,3777,0,home,3770,1
+Played,8,181189,2017-09-30 18:00:00,3783,Roazhon Park,2500764,"Rennes - Caen, 0 - 1",Regular,412,away,3783,1,home,3774,0
+Played,8,181189,2017-09-30 15:00:00,3767,Parc des Princes,2500763,"PSG - Bordeaux, 6 - 2",Regular,412,home,3767,6,away,3772,2
+Played,8,181189,2017-09-29 18:45:00,0,Stade Louis II.,2500760,"Monaco - Montpellier, 1 - 1",Regular,412,away,3787,1,home,19830,1
+Played,7,181189,2017-09-24 19:00:00,3771,Stade V\u00e9lodrome,2500750,"Olympique Marseille - Toulouse, 2 - 0",Regular,412,home,3771,2,away,3780,0
+Played,7,181189,2017-09-24 15:00:00,3770,Stade de la Meinau,2500755,"Strasbourg - Nantes, 1 - 2",Regular,412,home,3779,1,away,3770,2
+Played,7,181189,2017-09-24 13:00:00,0,Stade Geoffroy-Guichard,2500754,"Saint-\u00c9tienne - Rennes, 2 - 2",Regular,412,away,3774,2,home,3782,2
+Played,7,181189,2017-09-23 18:00:00,3772,Stade Matmut-Atlantique,2500746,"Bordeaux - Guingamp, 3 - 1",Regular,412,home,3772,3,away,3785,1
+Played,7,181189,2017-09-23 18:00:00,3783,Stade Michel d'Ornano,2500747,"Caen - Amiens SC, 1 - 0",Regular,412,home,3783,1,away,3789,0
+Played,7,181189,2017-09-23 18:00:00,0,Groupama Stadium,2500749,"Olympique Lyonnais - Dijon, 3 - 3",Regular,412,away,3804,3,home,3766,3
+Played,7,181189,2017-09-23 18:00:00,3795,Stade Saint-Symphorien,2500751,"Metz - Troyes, 0 - 1",Regular,412,home,3777,0,away,3795,1
+Played,7,181189,2017-09-23 15:00:00,0,Stade de la Mosson,2500752,"Montpellier - PSG, 0 - 0",Regular,412,away,3767,0,home,3787,0
+Played,7,181189,2017-09-22 18:45:00,19830,Stade Pierre-Mauroy,2500748,"Lille - Monaco, 0 - 4",Regular,412,home,3776,0,away,19830,4
+Played,7,181189,2017-09-22 17:00:00,0,Allianz Riviera,2500753,"Nice - Angers SCO, 2 - 2",Regular,412,away,3799,2,home,3775,2
+Played,6,181189,2017-09-17 19:00:00,3767,Parc des Princes,2500742,"PSG - Olympique Lyonnais, 2 - 0",Regular,412,home,3767,2,away,3766,0
+Played,6,181189,2017-09-17 15:00:00,3777,Stade Raymond Kopa,2500737,"Angers SCO - Metz, 0 - 1",Regular,412,home,3799,0,away,3777,1
+Played,6,181189,2017-09-17 15:00:00,3775,Roazhon Park,2500743,"Rennes - Nice, 0 - 1",Regular,412,away,3775,1,home,3774,0
+Played,6,181189,2017-09-17 13:00:00,3771,Stade de la Licorne,2500736,"Amiens SC - Olympique Marseille, 0 - 2",Regular,412,away,3771,2,home,3789,0
+Played,6,181189,2017-09-16 18:00:00,3782,Stade Gaston-G\u00e9rard,2500738,"Dijon - Saint-\u00c9tienne, 0 - 1",Regular,412,home,3804,0,away,3782,1
+Played,6,181189,2017-09-16 18:00:00,3785,Stade du Roudourou,2500739,"Guingamp - Lille, 1 - 0",Regular,412,away,3776,0,home,3785,1
+Played,6,181189,2017-09-16 18:00:00,3770,Stade de la Beaujoire - Louis Fonteneau,2500741,"Nantes - Caen, 1 - 0",Regular,412,away,3783,0,home,3770,1
+Played,6,181189,2017-09-16 18:00:00,3787,Stade de l'Aube,2500745,"Troyes - Montpellier, 0 - 1",Regular,412,away,3787,1,home,3795,0
+Played,6,181189,2017-09-16 15:00:00,19830,Stade Louis II.,2500740,"Monaco - Strasbourg, 3 - 0",Regular,412,away,3779,0,home,19830,3
+Played,6,181189,2017-09-15 18:45:00,3772,Stadium Municipal,2500744,"Toulouse - Bordeaux, 0 - 1",Regular,412,away,3772,1,home,3780,0
+Played,5,181189,2017-09-10 19:00:00,3774,Stade V\u00e9lodrome,2500729,"Olympique Marseille - Rennes, 1 - 3",Regular,412,home,3771,1,away,3774,3
+Played,5,181189,2017-09-10 15:00:00,3766,Groupama Stadium,2500728,"Olympique Lyonnais - Guingamp, 2 - 1",Regular,412,home,3766,2,away,3785,1
+Played,5,181189,2017-09-10 13:00:00,0,Stade Geoffroy-Guichard,2500733,"Saint-\u00c9tienne - Angers SCO, 1 - 1",Regular,412,away,3799,1,home,3782,1
+Played,5,181189,2017-09-09 18:00:00,3783,Stade Michel d'Ornano,2500726,"Caen - Dijon, 2 - 1",Regular,412,home,3783,2,away,3804,1
+Played,5,181189,2017-09-09 18:00:00,3770,Stade de la Mosson,2500731,"Montpellier - Nantes, 0 - 1",Regular,412,away,3770,1,home,3787,0
+Played,5,181189,2017-09-09 18:00:00,3789,Stade de la Meinau,2500734,"Strasbourg - Amiens SC, 0 - 1",Regular,412,away,3789,1,home,3779,0
+Played,5,181189,2017-09-09 18:00:00,0,Stade de l'Aube,2500735,"Troyes - Toulouse, 0 - 0",Regular,412,away,3780,0,home,3795,0
+Played,5,181189,2017-09-09 15:00:00,3775,Allianz Riviera,2500732,"Nice - Monaco, 4 - 0",Regular,412,home,3775,4,away,19830,0
+Played,5,181189,2017-09-08 18:45:00,3767,Stade Saint-Symphorien,2500730,"Metz - PSG, 1 - 5",Regular,412,away,3767,5,home,3777,1
+Played,5,181189,2017-09-08 17:00:00,0,Stade Pierre-Mauroy,2500727,"Lille - Bordeaux, 0 - 0",Regular,412,away,3772,0,home,3776,0
+Played,4,181189,2017-08-27 19:00:00,19830,Stade Louis II.,2500722,"Monaco - Olympique Marseille, 6 - 1",Regular,412,away,3771,1,home,19830,6
+Played,4,181189,2017-08-27 15:00:00,0,Stade Raymond Kopa,2500717,"Angers SCO - Lille, 1 - 1",Regular,412,home,3799,1,away,3776,1
+Played,4,181189,2017-08-27 13:00:00,3785,Stade du Roudourou,2500721,"Guingamp - Strasbourg, 2 - 0",Regular,412,away,3779,0,home,3785,2
+Played,4,181189,2017-08-26 18:00:00,3789,Stade de la Licorne,2500716,"Amiens SC - Nice, 3 - 0",Regular,412,away,3775,0,home,3789,3
+Played,4,181189,2017-08-26 18:00:00,3772,Stade Matmut-Atlantique,2500718,"Bordeaux - Troyes, 2 - 1",Regular,412,home,3772,2,away,3795,1
+Played,4,181189,2017-08-26 18:00:00,3783,Stade Michel d'Ornano,2500719,"Caen - Metz, 1 - 0",Regular,412,home,3783,1,away,3777,0
+Played,4,181189,2017-08-26 18:00:00,3804,Stade Gaston-G\u00e9rard,2500720,"Dijon - Montpellier, 2 - 1",Regular,412,home,3804,2,away,3787,1
+Played,4,181189,2017-08-26 18:00:00,3780,Stadium Municipal,2500725,"Toulouse - Rennes, 3 - 2",Regular,412,away,3774,2,home,3780,3
+Played,4,181189,2017-08-26 15:15:00,0,Stade de la Beaujoire - Louis Fonteneau,2500723,"Nantes - Olympique Lyonnais, 0 - 0",Regular,412,away,3766,0,home,3770,0
+Played,4,181189,2017-08-25 18:45:00,3767,Parc des Princes,2500724,"PSG - Saint-\u00c9tienne, 3 - 0",Regular,412,home,3767,3,away,3782,0
+Played,3,181189,2017-08-20 19:00:00,3767,Parc des Princes,2500712,"PSG - Toulouse, 6 - 2",Regular,412,home,3767,6,away,3780,2
+Played,3,181189,2017-08-20 15:00:00,0,Stade V\u00e9lodrome,2500708,"Olympique Marseille - Angers SCO, 1 - 1",Regular,412,away,3799,1,home,3771,1
+Played,3,181189,2017-08-20 13:00:00,3783,Stade Pierre-Mauroy,2500706,"Lille - Caen, 0 - 2",Regular,412,away,3783,2,home,3776,0
+Played,3,181189,2017-08-19 18:00:00,0,Stade de la Mosson,2500710,"Montpellier - Strasbourg, 1 - 1",Regular,412,away,3779,1,home,3787,1
+Played,3,181189,2017-08-19 18:00:00,3775,Allianz Riviera,2500711,"Nice - Guingamp, 2 - 0",Regular,412,home,3775,2,away,3785,0
+Played,3,181189,2017-08-19 18:00:00,0,Roazhon Park,2500713,"Rennes - Dijon, 2 - 2",Regular,412,away,3804,2,home,3774,2
+Played,3,181189,2017-08-19 18:00:00,3782,Stade Geoffroy-Guichard,2500714,"Saint-\u00c9tienne - Amiens SC, 3 - 0",Regular,412,away,3789,0,home,3782,3
+Played,3,181189,2017-08-19 18:00:00,3770,Stade de l'Aube,2500715,"Troyes - Nantes, 0 - 1",Regular,412,away,3770,1,home,3795,0
+Played,3,181189,2017-08-19 15:00:00,0,Groupama Stadium,2500707,"Olympique Lyonnais - Bordeaux, 3 - 3",Regular,412,home,3766,3,away,3772,3
+Played,3,181189,2017-08-18 18:45:00,19830,Stade Saint-Symphorien,2500709,"Metz - Monaco, 0 - 1",Regular,412,home,3777,0,away,19830,1
+Played,2,181189,2017-08-13 19:00:00,3767,Stade du Roudourou,2500700,"Guingamp - PSG, 0 - 3",Regular,412,away,3767,3,home,3785,0
+Played,2,181189,2017-08-13 15:00:00,19830,Stade Gaston-G\u00e9rard,2500699,"Dijon - Monaco, 1 - 4",Regular,412,home,3804,1,away,19830,4
+Played,2,181189,2017-08-13 13:00:00,3779,Stade de la Meinau,2500704,"Strasbourg - Lille, 3 - 0",Regular,412,home,3779,3,away,3776,0
+Played,2,181189,2017-08-12 18:00:00,3799,Stade de la Licorne,2500696,"Amiens SC - Angers SCO, 0 - 2",Regular,412,away,3799,2,home,3789,0
+Played,2,181189,2017-08-12 18:00:00,3772,Stade Matmut-Atlantique,2500697,"Bordeaux - Metz, 2 - 0",Regular,412,home,3772,2,away,3777,0
+Played,2,181189,2017-08-12 18:00:00,3782,Stade Michel d'Ornano,2500698,"Caen - Saint-\u00c9tienne, 0 - 1",Regular,412,home,3783,0,away,3782,1
+Played,2,181189,2017-08-12 18:00:00,3780,Stadium Municipal,2500705,"Toulouse - Montpellier, 1 - 0",Regular,412,away,3787,0,home,3780,1
+Played,2,181189,2017-08-12 15:00:00,3771,Stade de la Beaujoire - Louis Fonteneau,2500701,"Nantes - Olympique Marseille, 0 - 1",Regular,412,away,3771,1,home,3770,0
+Played,2,181189,2017-08-11 18:45:00,3766,Roazhon Park,2500703,"Rennes - Olympique Lyonnais, 1 - 2",Regular,412,away,3766,2,home,3774,1
+Played,2,181189,2017-08-11 17:00:00,3795,Allianz Riviera,2500702,"Nice - Troyes, 1 - 2",Regular,412,home,3775,1,away,3795,2
+Played,1,181189,2017-08-06 19:00:00,3771,Stade V\u00e9lodrome,2500689,"Olympique Marseille - Dijon, 3 - 0",Regular,412,away,3804,0,home,3771,3
+Played,1,181189,2017-08-06 15:00:00,0,Stade Raymond Kopa,2500686,"Angers SCO - Bordeaux, 2 - 2",Regular,412,home,3799,2,away,3772,2
+Played,1,181189,2017-08-06 13:00:00,3776,Stade Pierre-Mauroy,2500687,"Lille - Nantes, 3 - 0",Regular,412,away,3770,0,home,3776,3
+Played,1,181189,2017-08-05 18:00:00,3766,Groupama Stadium,2500688,"Olympique Lyonnais - Strasbourg, 4 - 0",Regular,412,home,3766,4,away,3779,0
+Played,1,181189,2017-08-05 18:00:00,3785,Stade Saint-Symphorien,2500690,"Metz - Guingamp, 1 - 3",Regular,412,home,3777,1,away,3785,3
+Played,1,181189,2017-08-05 18:00:00,3787,Stade de la Mosson,2500692,"Montpellier - Caen, 1 - 0",Regular,412,away,3783,0,home,3787,1
+Played,1,181189,2017-08-05 18:00:00,3782,Stade Geoffroy-Guichard,2500694,"Saint-\u00c9tienne - Nice, 1 - 0",Regular,412,away,3775,0,home,3782,1
+Played,1,181189,2017-08-05 18:00:00,0,Stade de l'Aube,2500695,"Troyes - Rennes, 1 - 1",Regular,412,away,3774,1,home,3795,1
+Played,1,181189,2017-08-05 15:15:00,3767,Parc des Princes,2500693,"PSG - Amiens SC, 2 - 0",Regular,412,home,3767,2,away,3789,0
+Played,1,181189,2017-08-04 18:45:00,19830,Stade Louis II.,2500691,"Monaco - Toulouse, 3 - 2",Regular,412,away,3780,2,home,19830,3

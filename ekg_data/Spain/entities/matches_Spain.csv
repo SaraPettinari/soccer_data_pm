@@ -1,0 +1,381 @@
+status,gameweek,seasonId,dateutc,winner,venue,wyId,label,duration,competitionId,team1.side,team1.teamId,team1.score,team2.side,team2.teamId,team2.score
+Played,38,181144,2018-05-20 18:45:00,676,Camp Nou,2565922,"Barcelona - Real Sociedad, 1 - 0",Regular,795,home,676,1,away,687,0
+Played,38,181144,2018-05-20 16:30:00,0,Estadio Wanda Metropolitano,2565925,"Atl\u00e9tico Madrid - Eibar, 2 - 2",Regular,795,home,679,2,away,701,2
+Played,38,181144,2018-05-20 14:15:00,691,San Mam\u00e9s Barria,2565919,"Athletic Club - Espanyol, 0 - 1",Regular,795,away,691,1,home,678,0
+Played,38,181144,2018-05-20 10:00:00,674,Estadio de Mestalla,2565924,"Valencia - Deportivo La Coru\u00f1a, 2 - 1",Regular,795,home,674,2,away,677,1
+Played,38,181144,2018-05-19 18:45:00,0,Estadio de la Cer\u00e1mica,2565927,"Villarreal - Real Madrid, 2 - 2",Regular,795,away,675,2,home,682,2
+Played,38,181144,2018-05-19 16:30:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565920,"Sevilla - Deportivo Alav\u00e9s, 1 - 0",Regular,795,away,696,0,home,680,1
+Played,38,181144,2018-05-19 16:30:00,698,Estadio La Rosaleda,2565921,"M\u00e1laga - Getafe, 0 - 1",Regular,795,away,698,1,home,683,0
+Played,38,181144,2018-05-19 16:30:00,756,Estadio de Gran Canaria,2565923,"Las Palmas - Girona, 1 - 2",Regular,795,home,714,1,away,756,2
+Played,38,181144,2018-05-19 14:15:00,712,Estadio Municipal de Butarque,2565926,"Legan\u00e9s - Real Betis, 3 - 2",Regular,795,away,684,2,home,712,3
+Played,38,181144,2018-05-19 11:00:00,692,Estadio de Bala\u00eddos,2565918,"Celta de Vigo - Levante, 4 - 2",Regular,795,home,692,4,away,695,2
+Played,37,181144,2018-05-13 18:45:00,695,Estadio Ciudad de Valencia,2565917,"Levante - Barcelona, 5 - 4",Regular,795,away,676,4,home,695,5
+Played,37,181144,2018-05-13 14:15:00,691,RCDE Stadium,2565910,"Espanyol - M\u00e1laga, 4 - 1",Regular,795,home,691,4,away,683,1
+Played,37,181144,2018-05-12 18:45:00,675,Estadio Santiago Bernab\u00e9u,2565912,"Real Madrid - Celta de Vigo, 6 - 0",Regular,795,home,675,6,away,692,0
+Played,37,181144,2018-05-12 15:30:00,674,Estadi Municipal de Montilivi,2565908,"Girona - Valencia, 0 - 1",Regular,795,away,674,1,home,756,0
+Played,37,181144,2018-05-12 15:30:00,696,Estadio de Mendizorroza,2565909,"Deportivo Alav\u00e9s - Athletic Club, 3 - 1",Regular,795,away,678,1,home,696,3
+Played,37,181144,2018-05-12 16:30:00,682,Estadio Municipal de Riazor,2565911,"Deportivo La Coru\u00f1a - Villarreal, 2 - 4",Regular,795,home,677,2,away,682,4
+Played,37,181144,2018-05-12 15:30:00,679,Coliseum Alfonso P\u00e9rez,2565913,"Getafe - Atl\u00e9tico Madrid, 0 - 1",Regular,795,away,679,1,home,698,0
+Played,37,181144,2018-05-12 15:30:00,0,Estadio Benito Villamar\u00edn,2565914,"Real Betis - Sevilla, 2 - 2",Regular,795,away,680,2,home,684,2
+Played,37,181144,2018-05-12 15:30:00,701,Estadio Municipal de Ipur\u00faa,2565915,"Eibar - Las Palmas, 1 - 0",Regular,795,home,701,1,away,714,0
+Played,37,181144,2018-05-12 13:15:00,687,Estadio Municipal de Anoeta,2565916,"Real Sociedad - Legan\u00e9s, 3 - 2",Regular,795,home,687,3,away,712,2
+Played,34,181144,2018-05-09 19:30:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565882,"Sevilla - Real Madrid, 3 - 2",Regular,795,away,675,2,home,680,3
+Played,34,181144,2018-05-09 18:00:00,676,Camp Nou,2565884,"Barcelona - Villarreal, 5 - 1",Regular,795,home,676,5,away,682,1
+Played,36,181144,2018-05-07 19:00:00,695,Estadio Municipal de Butarque,2565900,"Legan\u00e9s - Levante, 0 - 3",Regular,795,home,712,0,away,695,3
+Played,36,181144,2018-05-06 18:45:00,0,Camp Nou,2565907,"Barcelona - Real Madrid, 2 - 2",Regular,795,home,676,2,away,675,2
+Played,36,181144,2018-05-06 16:30:00,698,Estadio de Gran Canaria,2565898,"Las Palmas - Getafe, 0 - 1",Regular,795,away,698,1,home,714,0
+Played,36,181144,2018-05-06 14:15:00,691,Estadio Wanda Metropolitano,2565899,"Atl\u00e9tico Madrid - Espanyol, 0 - 2",Regular,795,home,679,0,away,691,2
+Played,36,181144,2018-05-06 10:00:00,696,Estadio La Rosaleda,2565906,"M\u00e1laga - Deportivo Alav\u00e9s, 0 - 3",Regular,795,away,696,3,home,683,0
+Played,36,181144,2018-05-05 18:45:00,682,Estadio de la Cer\u00e1mica,2565901,"Villarreal - Valencia, 1 - 0",Regular,795,away,674,0,home,682,1
+Played,36,181144,2018-05-05 16:30:00,0,Estadio de Bala\u00eddos,2565902,"Celta de Vigo - Deportivo La Coru\u00f1a, 1 - 1",Regular,795,away,677,1,home,692,1
+Played,36,181144,2018-05-05 14:15:00,678,San Mam\u00e9s Barria,2565903,"Athletic Club - Real Betis, 2 - 0",Regular,795,home,678,2,away,684,0
+Played,36,181144,2018-05-05 11:00:00,701,Estadi Municipal de Montilivi,2565904,"Girona - Eibar, 1 - 4",Regular,795,away,701,4,home,756,1
+Played,36,181144,2018-05-04 19:00:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565905,"Sevilla - Real Sociedad, 1 - 0",Regular,795,away,687,0,home,680,1
+Played,35,181144,2018-04-30 19:00:00,684,Estadio Benito Villamar\u00edn,2565893,"Real Betis - M\u00e1laga, 2 - 1",Regular,795,away,683,1,home,684,2
+Played,35,181144,2018-04-29 18:45:00,676,Estadio Municipal de Riazor,2565889,"Deportivo La Coru\u00f1a - Barcelona, 2 - 4",Regular,795,away,676,4,home,677,2
+Played,35,181144,2018-04-29 16:30:00,0,Estadio de Mestalla,2565890,"Valencia - Eibar, 0 - 0",Regular,795,away,701,0,home,674,0
+Played,35,181144,2018-04-29 14:15:00,679,Estadio de Mendizorroza,2565896,"Deportivo Alav\u00e9s - Atl\u00e9tico Madrid, 0 - 1",Regular,795,away,679,1,home,696,0
+Played,35,181144,2018-04-29 10:00:00,0,Coliseum Alfonso P\u00e9rez,2565892,"Getafe - Girona, 1 - 1",Regular,795,home,698,1,away,756,1
+Played,35,181144,2018-04-28 18:45:00,682,Estadio de la Cer\u00e1mica,2565888,"Villarreal - Celta de Vigo, 4 - 1",Regular,795,home,682,4,away,692,1
+Played,35,181144,2018-04-28 16:30:00,675,Estadio Santiago Bernab\u00e9u,2565891,"Real Madrid - Legan\u00e9s, 2 - 1",Regular,795,home,675,2,away,712,1
+Played,35,181144,2018-04-28 14:15:00,687,Estadio Municipal de Anoeta,2565894,"Real Sociedad - Athletic Club, 3 - 1",Regular,795,home,687,3,away,678,1
+Played,35,181144,2018-04-28 11:00:00,0,RCDE Stadium,2565897,"Espanyol - Las Palmas, 1 - 1",Regular,795,home,691,1,away,714,1
+Played,35,181144,2018-04-27 19:00:00,695,Estadio Ciudad de Valencia,2565895,"Levante - Sevilla, 2 - 1",Regular,795,away,680,1,home,695,2
+Played,34,181144,2018-04-23 19:00:00,695,San Mam\u00e9s Barria,2565879,"Athletic Club - Levante, 1 - 3",Regular,795,home,678,1,away,695,3
+Played,34,181144,2018-04-22 18:45:00,0,Estadio Wanda Metropolitano,2565886,"Atl\u00e9tico Madrid - Real Betis, 0 - 0",Regular,795,home,679,0,away,684,0
+Played,34,181144,2018-04-22 16:30:00,696,Estadio de Gran Canaria,2565885,"Las Palmas - Deportivo Alav\u00e9s, 0 - 4",Regular,795,away,696,4,home,714,0
+Played,34,181144,2018-04-22 14:15:00,683,Estadio La Rosaleda,2565883,"M\u00e1laga - Real Sociedad, 2 - 0",Regular,795,away,687,0,home,683,2
+Played,34,181144,2018-04-22 10:00:00,691,Estadi Municipal de Montilivi,2565880,"Girona - Espanyol, 0 - 2",Regular,795,away,691,2,home,756,0
+Played,34,181144,2018-04-21 14:15:00,0,Estadio de Bala\u00eddos,2565878,"Celta de Vigo - Valencia, 1 - 1",Regular,795,away,674,1,home,692,1
+Played,34,181144,2018-04-21 11:00:00,698,Estadio Municipal de Ipur\u00faa,2565881,"Eibar - Getafe, 0 - 1",Regular,795,home,701,0,away,698,1
+Played,34,181144,2018-04-20 19:00:00,0,Estadio Municipal de Butarque,2565887,"Legan\u00e9s - Deportivo La Coru\u00f1a, 0 - 0",Regular,795,away,677,0,home,712,0
+Played,33,181144,2018-04-19 19:30:00,695,Estadio Ciudad de Valencia,2565869,"Levante - M\u00e1laga, 1 - 0",Regular,795,away,683,0,home,695,1
+Played,33,181144,2018-04-19 19:30:00,684,Estadio Benito Villamar\u00edn,2565877,"Real Betis - Las Palmas, 1 - 0",Regular,795,away,714,0,home,684,1
+Played,33,181144,2018-04-19 17:30:00,687,Estadio Municipal de Anoeta,2565868,"Real Sociedad - Atl\u00e9tico Madrid, 3 - 0",Regular,795,home,687,3,away,679,0
+Played,33,181144,2018-04-19 17:30:00,756,Estadio de Mendizorroza,2565870,"Deportivo Alav\u00e9s - Girona, 1 - 2",Regular,795,home,696,1,away,756,2
+Played,33,181144,2018-04-18 18:30:00,0,Estadio Santiago Bernab\u00e9u,2565876,"Real Madrid - Athletic Club, 1 - 1",Regular,795,away,678,1,home,675,1
+Played,33,181144,2018-04-18 16:30:00,701,RCDE Stadium,2565871,"Espanyol - Eibar, 0 - 1",Regular,795,away,701,1,home,691,0
+Played,33,181144,2018-04-18 16:30:00,698,Estadio de Mestalla,2565875,"Valencia - Getafe, 1 - 2",Regular,795,home,674,1,away,698,2
+Played,33,181144,2018-04-17 19:30:00,682,Estadio de la Cer\u00e1mica,2565872,"Villarreal - Legan\u00e9s, 2 - 1",Regular,795,home,682,2,away,712,1
+Played,33,181144,2018-04-17 19:00:00,0,Estadio de Bala\u00eddos,2565874,"Celta de Vigo - Barcelona, 2 - 2",Regular,795,away,676,2,home,692,2
+Played,33,181144,2018-04-17 17:30:00,0,Estadio Municipal de Riazor,2565873,"Deportivo La Coru\u00f1a - Sevilla, 0 - 0",Regular,795,home,677,0,away,680,0
+Played,32,181144,2018-04-15 18:45:00,675,Estadio La Rosaleda,2565867,"M\u00e1laga - Real Madrid, 1 - 2",Regular,795,away,675,2,home,683,1
+Played,32,181144,2018-04-15 16:30:00,0,Coliseum Alfonso P\u00e9rez,2565862,"Getafe - Espanyol, 1 - 0",Regular,795,away,691,0,home,698,1
+Played,32,181144,2018-04-15 14:15:00,679,Estadio Wanda Metropolitano,2565860,"Atl\u00e9tico Madrid - Levante, 3 - 0",Regular,795,home,679,3,away,695,0
+Played,32,181144,2018-04-15 10:00:00,696,Estadio Municipal de Ipur\u00faa,2565865,"Eibar - Deportivo Alav\u00e9s, 0 - 1",Regular,795,home,701,0,away,696,1
+Played,32,181144,2018-04-14 18:45:00,677,San Mam\u00e9s Barria,2565863,"Athletic Club - Deportivo La Coru\u00f1a, 2 - 3",Regular,795,home,678,2,away,677,3
+Played,32,181144,2018-04-14 16:30:00,687,Estadio de Gran Canaria,2565859,"Las Palmas - Real Sociedad, 0 - 1",Regular,795,away,687,1,home,714,0
+Played,32,181144,2018-04-14 16:30:00,712,Estadio Municipal de Butarque,2565861,"Legan\u00e9s - Celta de Vigo, 1 - 0",Regular,795,home,712,1,away,692,0
+Played,32,181144,2018-04-14 14:15:00,676,Camp Nou,2565858,"Barcelona - Valencia, 2 - 1",Regular,795,home,676,2,away,674,1
+Played,32,181144,2018-04-14 11:00:00,0,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565866,"Sevilla - Villarreal, 2 - 2",Regular,795,away,682,2,home,680,2
+Played,32,181144,2018-04-13 19:00:00,684,Estadi Municipal de Montilivi,2565864,"Girona - Real Betis, 0 - 1",Regular,795,home,756,0,away,684,1
+Played,31,181144,2018-04-09 19:00:00,678,Estadio de la Cer\u00e1mica,2565848,"Villarreal - Athletic Club, 1 - 3",Regular,795,away,678,3,home,682,1
+Played,31,181144,2018-04-08 18:45:00,674,Estadio de Mestalla,2565851,"Valencia - Espanyol, 1 - 0",Regular,795,away,691,0,home,674,1
+Played,31,181144,2018-04-08 16:30:00,687,Estadio Municipal de Anoeta,2565854,"Real Sociedad - Girona, 5 - 0",Regular,795,home,687,5,away,756,0
+Played,31,181144,2018-04-08 14:15:00,0,Estadio Santiago Bernab\u00e9u,2565852,"Real Madrid - Atl\u00e9tico Madrid, 1 - 1",Regular,795,away,679,1,home,675,1
+Played,31,181144,2018-04-08 10:00:00,695,Estadio Ciudad de Valencia,2565855,"Levante - Las Palmas, 2 - 1",Regular,795,away,714,1,home,695,2
+Played,31,181144,2018-04-07 18:45:00,676,Camp Nou,2565856,"Barcelona - Legan\u00e9s, 3 - 1",Regular,795,home,676,3,away,712,1
+Played,31,181144,2018-04-07 16:30:00,684,Estadio Benito Villamar\u00edn,2565853,"Real Betis - Eibar, 2 - 0",Regular,795,away,701,0,home,684,2
+Played,31,181144,2018-04-07 14:15:00,692,Estadio de Bala\u00eddos,2565850,"Celta de Vigo - Sevilla, 4 - 0",Regular,795,away,680,0,home,692,4
+Played,31,181144,2018-04-07 11:00:00,696,Estadio de Mendizorroza,2565857,"Deportivo Alav\u00e9s - Getafe, 2 - 0",Regular,795,home,696,2,away,698,0
+Played,31,181144,2018-04-06 19:00:00,677,Estadio Municipal de Riazor,2565849,"Deportivo La Coru\u00f1a - M\u00e1laga, 3 - 2",Regular,795,home,677,3,away,683,2
+Played,30,181144,2018-04-02 19:00:00,684,Coliseum Alfonso P\u00e9rez,2565841,"Getafe - Real Betis, 0 - 1",Regular,795,home,698,0,away,684,1
+Played,30,181144,2018-04-01 18:45:00,679,Estadio Wanda Metropolitano,2565839,"Atl\u00e9tico Madrid - Deportivo La Coru\u00f1a, 1 - 0",Regular,795,home,679,1,away,677,0
+Played,30,181144,2018-04-01 16:30:00,0,Estadio Municipal de Ipur\u00faa,2565844,"Eibar - Real Sociedad, 0 - 0",Regular,795,away,687,0,home,701,0
+Played,30,181144,2018-04-01 16:30:00,683,Estadio La Rosaleda,2565846,"M\u00e1laga - Villarreal, 1 - 0",Regular,795,away,682,0,home,683,1
+Played,30,181144,2018-04-01 14:15:00,674,Estadio Municipal de Butarque,2565840,"Legan\u00e9s - Valencia, 0 - 1",Regular,795,away,674,1,home,712,0
+Played,30,181144,2018-04-01 10:00:00,0,RCDE Stadium,2565838,"Espanyol - Deportivo Alav\u00e9s, 0 - 0",Regular,795,home,691,0,away,696,0
+Played,30,181144,2018-03-31 18:45:00,0,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565845,"Sevilla - Barcelona, 2 - 2",Regular,795,away,676,2,home,680,2
+Played,30,181144,2018-03-31 16:30:00,675,Estadio de Gran Canaria,2565847,"Las Palmas - Real Madrid, 0 - 3",Regular,795,away,675,3,home,714,0
+Played,30,181144,2018-03-31 14:15:00,0,San Mam\u00e9s Barria,2565842,"Athletic Club - Celta de Vigo, 1 - 1",Regular,795,home,678,1,away,692,1
+Played,30,181144,2018-03-31 11:00:00,0,Estadi Municipal de Montilivi,2565843,"Girona - Levante, 1 - 1",Regular,795,home,756,1,away,695,1
+Played,29,181144,2018-03-18 19:45:00,675,Estadio Santiago Bernab\u00e9u,2565836,"Real Madrid - Girona, 6 - 3",Regular,795,home,675,6,away,756,3
+Played,29,181144,2018-03-18 17:30:00,682,Estadio de la Cer\u00e1mica,2565832,"Villarreal - Atl\u00e9tico Madrid, 2 - 1",Regular,795,away,679,1,home,682,2
+Played,29,181144,2018-03-18 17:30:00,0,Estadio de Bala\u00eddos,2565834,"Celta de Vigo - M\u00e1laga, 0 - 0",Regular,795,away,683,0,home,692,0
+Played,29,181144,2018-03-18 15:15:00,676,Camp Nou,2565830,"Barcelona - Athletic Club, 2 - 0",Regular,795,home,676,2,away,678,0
+Played,29,181144,2018-03-18 11:00:00,712,Estadio Municipal de Butarque,2565831,"Legan\u00e9s - Sevilla, 2 - 1",Regular,795,away,680,1,home,712,2
+Played,29,181144,2018-03-17 19:45:00,684,Estadio Benito Villamar\u00edn,2565837,"Real Betis - Espanyol, 3 - 0",Regular,795,away,691,0,home,684,3
+Played,29,181144,2018-03-17 17:30:00,698,Estadio Municipal de Anoeta,2565828,"Real Sociedad - Getafe, 1 - 2",Regular,795,home,687,1,away,698,2
+Played,29,181144,2018-03-17 15:15:00,674,Estadio de Mestalla,2565835,"Valencia - Deportivo Alav\u00e9s, 3 - 1",Regular,795,home,674,3,away,696,1
+Played,29,181144,2018-03-17 12:00:00,0,Estadio Municipal de Riazor,2565833,"Deportivo La Coru\u00f1a - Las Palmas, 1 - 1",Regular,795,home,677,1,away,714,1
+Played,29,181144,2018-03-16 20:00:00,695,Estadio Ciudad de Valencia,2565829,"Levante - Eibar, 2 - 1",Regular,795,away,701,1,home,695,2
+Played,28,181144,2018-03-12 20:00:00,684,Estadio de Mendizorroza,2565822,"Deportivo Alav\u00e9s - Real Betis, 1 - 3",Regular,795,home,696,1,away,684,3
+Played,28,181144,2018-03-11 19:45:00,678,San Mam\u00e9s Barria,2565826,"Athletic Club - Legan\u00e9s, 2 - 0",Regular,795,home,678,2,away,712,0
+Played,28,181144,2018-03-11 17:30:00,682,Estadio de Gran Canaria,2565821,"Las Palmas - Villarreal, 0 - 2",Regular,795,away,682,2,home,714,0
+Played,28,181144,2018-03-11 15:15:00,679,Estadio Wanda Metropolitano,2565824,"Atl\u00e9tico Madrid - Celta de Vigo, 3 - 0",Regular,795,home,679,3,away,692,0
+Played,28,181144,2018-03-11 11:00:00,691,RCDE Stadium,2565823,"Espanyol - Real Sociedad, 2 - 1",Regular,795,away,687,1,home,691,2
+Played,28,181144,2018-03-10 19:45:00,676,Estadio La Rosaleda,2565820,"M\u00e1laga - Barcelona, 0 - 2",Regular,795,away,676,2,home,683,0
+Played,28,181144,2018-03-10 17:30:00,695,Coliseum Alfonso P\u00e9rez,2565825,"Getafe - Levante, 0 - 1",Regular,795,home,698,0,away,695,1
+Played,28,181144,2018-03-10 15:15:00,674,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565819,"Sevilla - Valencia, 0 - 2",Regular,795,away,674,2,home,680,0
+Played,28,181144,2018-03-10 12:00:00,675,Estadio Municipal de Ipur\u00faa,2565818,"Eibar - Real Madrid, 1 - 2",Regular,795,home,701,1,away,675,2
+Played,28,181144,2018-03-09 20:00:00,756,Estadi Municipal de Montilivi,2565827,"Girona - Deportivo La Coru\u00f1a, 2 - 0",Regular,795,away,677,0,home,756,2
+Played,27,181144,2018-03-05 20:00:00,692,Estadio de Bala\u00eddos,2565813,"Celta de Vigo - Las Palmas, 2 - 1",Regular,795,away,714,1,home,692,2
+Played,27,181144,2018-03-04 19:45:00,674,Estadio de Mestalla,2565811,"Valencia - Real Betis, 2 - 0",Regular,795,home,674,2,away,684,0
+Played,27,181144,2018-03-04 17:30:00,687,Estadio Municipal de Anoeta,2565815,"Real Sociedad - Deportivo Alav\u00e9s, 2 - 1",Regular,795,home,687,2,away,696,1
+Played,27,181144,2018-03-04 15:15:00,676,Camp Nou,2565817,"Barcelona - Atl\u00e9tico Madrid, 1 - 0",Regular,795,home,676,1,away,679,0
+Played,27,181144,2018-03-04 11:00:00,0,Estadio Ciudad de Valencia,2565816,"Levante - Espanyol, 1 - 1",Regular,795,away,691,1,home,695,1
+Played,27,181144,2018-03-03 19:45:00,675,Estadio Santiago Bernab\u00e9u,2565812,"Real Madrid - Getafe, 3 - 1",Regular,795,home,675,3,away,698,1
+Played,27,181144,2018-03-03 17:30:00,712,Estadio Municipal de Butarque,2565808,"Legan\u00e9s - M\u00e1laga, 2 - 0",Regular,795,away,683,0,home,712,2
+Played,27,181144,2018-03-03 17:30:00,0,Estadio Municipal de Riazor,2565810,"Deportivo La Coru\u00f1a - Eibar, 1 - 1",Regular,795,away,701,1,home,677,1
+Played,27,181144,2018-03-03 15:15:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565814,"Sevilla - Athletic Club, 2 - 0",Regular,795,away,678,0,home,680,2
+Played,27,181144,2018-03-03 12:00:00,756,Estadio de la Cer\u00e1mica,2565809,"Villarreal - Girona, 0 - 2",Regular,795,home,682,0,away,756,2
+Played,26,181144,2018-03-01 20:30:00,696,Estadio de Mendizorroza,2565798,"Deportivo Alav\u00e9s - Levante, 1 - 0",Regular,795,home,696,1,away,695,0
+Played,26,181144,2018-03-01 20:00:00,0,Estadio de Gran Canaria,2565807,"Las Palmas - Barcelona, 1 - 1",Regular,795,away,676,1,home,714,1
+Played,26,181144,2018-03-01 18:30:00,0,Estadio Benito Villamar\u00edn,2565804,"Real Betis - Real Sociedad, 0 - 0",Regular,795,away,687,0,home,684,0
+Played,26,181144,2018-02-28 20:30:00,679,Estadio Wanda Metropolitano,2565800,"Atl\u00e9tico Madrid - Legan\u00e9s, 4 - 0",Regular,795,home,679,4,away,712,0
+Played,26,181144,2018-02-28 20:30:00,701,Estadio Municipal de Ipur\u00faa,2565805,"Eibar - Villarreal, 1 - 0",Regular,795,home,701,1,away,682,0
+Played,26,181144,2018-02-28 18:30:00,698,Coliseum Alfonso P\u00e9rez,2565801,"Getafe - Deportivo La Coru\u00f1a, 3 - 0",Regular,795,away,677,0,home,698,3
+Played,26,181144,2018-02-28 18:30:00,0,San Mam\u00e9s Barria,2565802,"Athletic Club - Valencia, 1 - 1",Regular,795,home,678,1,away,674,1
+Played,26,181144,2018-02-28 18:30:00,680,Estadio La Rosaleda,2565806,"M\u00e1laga - Sevilla, 0 - 1",Regular,795,away,680,1,home,683,0
+Played,26,181144,2018-02-27 20:30:00,756,Estadi Municipal de Montilivi,2565803,"Girona - Celta de Vigo, 1 - 0",Regular,795,home,756,1,away,692,0
+Played,26,181144,2018-02-27 19:00:00,691,RCDE Stadium,2565799,"Espanyol - Real Madrid, 1 - 0",Regular,795,home,691,1,away,675,0
+Played,25,181144,2018-02-26 20:00:00,684,Estadio Ciudad de Valencia,2565790,"Levante - Real Betis, 0 - 2",Regular,795,away,684,2,home,695,0
+Played,25,181144,2018-02-25 19:45:00,679,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565789,"Sevilla - Atl\u00e9tico Madrid, 2 - 5",Regular,795,away,679,5,home,680,2
+Played,25,181144,2018-02-25 17:30:00,674,Estadio de Mestalla,2565795,"Valencia - Real Sociedad, 2 - 1",Regular,795,away,687,1,home,674,2
+Played,25,181144,2018-02-25 15:15:00,678,San Mam\u00e9s Barria,2565788,"Athletic Club - M\u00e1laga, 2 - 1",Regular,795,home,678,2,away,683,1
+Played,25,181144,2018-02-25 11:00:00,682,Estadio de la Cer\u00e1mica,2565793,"Villarreal - Getafe, 1 - 0",Regular,795,home,682,1,away,698,0
+Played,25,181144,2018-02-24 19:45:00,676,Camp Nou,2565791,"Barcelona - Girona, 6 - 1",Regular,795,home,676,6,away,756,1
+Played,25,181144,2018-02-24 17:30:00,0,Estadio Municipal de Butarque,2565792,"Legan\u00e9s - Las Palmas, 0 - 0",Regular,795,away,714,0,home,712,0
+Played,25,181144,2018-02-24 15:15:00,675,Estadio Santiago Bernab\u00e9u,2565796,"Real Madrid - Deportivo Alav\u00e9s, 4 - 0",Regular,795,home,675,4,away,696,0
+Played,25,181144,2018-02-24 12:00:00,692,Estadio de Bala\u00eddos,2565797,"Celta de Vigo - Eibar, 2 - 0",Regular,795,away,701,0,home,692,2
+Played,25,181144,2018-02-23 20:00:00,0,Estadio Municipal de Riazor,2565794,"Deportivo La Coru\u00f1a - Espanyol, 0 - 0",Regular,795,away,691,0,home,677,0
+Played,16,181144,2018-02-21 17:45:00,675,Estadio Municipal de Butarque,2565707,"Legan\u00e9s - Real Madrid, 1 - 3",Regular,795,away,675,3,home,712,1
+Played,24,181144,2018-02-19 20:00:00,698,Coliseum Alfonso P\u00e9rez,2565778,"Getafe - Celta de Vigo, 3 - 0",Regular,795,home,698,3,away,692,0
+Played,24,181144,2018-02-18 19:45:00,675,Estadio Benito Villamar\u00edn,2565780,"Real Betis - Real Madrid, 3 - 5",Regular,795,away,675,5,home,684,3
+Played,24,181144,2018-02-18 17:30:00,0,RCDE Stadium,2565786,"Espanyol - Villarreal, 1 - 1",Regular,795,home,691,1,away,682,1
+Played,24,181144,2018-02-18 15:15:00,679,Estadio Wanda Metropolitano,2565787,"Atl\u00e9tico Madrid - Athletic Club, 2 - 0",Regular,795,home,679,2,away,678,0
+Played,24,181144,2018-02-18 11:00:00,687,Estadio Municipal de Anoeta,2565783,"Real Sociedad - Levante, 3 - 0",Regular,795,home,687,3,away,695,0
+Played,24,181144,2018-02-17 19:45:00,674,Estadio La Rosaleda,2565782,"M\u00e1laga - Valencia, 1 - 2",Regular,795,away,674,2,home,683,1
+Played,24,181144,2018-02-17 17:30:00,696,Estadio de Mendizorroza,2565785,"Deportivo Alav\u00e9s - Deportivo La Coru\u00f1a, 1 - 0",Regular,795,away,677,0,home,696,1
+Played,24,181144,2018-02-17 15:15:00,676,Estadio Municipal de Ipur\u00faa,2565781,"Eibar - Barcelona, 0 - 2",Regular,795,away,676,2,home,701,0
+Played,24,181144,2018-02-17 12:00:00,680,Estadio de Gran Canaria,2565784,"Las Palmas - Sevilla, 1 - 2",Regular,795,away,680,2,home,714,1
+Played,24,181144,2018-02-16 20:00:00,756,Estadi Municipal de Montilivi,2565779,"Girona - Legan\u00e9s, 3 - 0",Regular,795,home,756,3,away,712,0
+Played,23,181144,2018-02-12 20:00:00,684,Estadio Municipal de Riazor,2565770,"Deportivo La Coru\u00f1a - Real Betis, 0 - 1",Regular,795,home,677,0,away,684,1
+Played,23,181144,2018-02-11 19:45:00,674,Estadio de Mestalla,2565771,"Valencia - Levante, 3 - 1",Regular,795,home,674,3,away,695,1
+Played,23,181144,2018-02-11 17:30:00,0,Estadio de Bala\u00eddos,2565773,"Celta de Vigo - Espanyol, 2 - 2",Regular,795,away,691,2,home,692,2
+Played,23,181144,2018-02-11 15:15:00,0,Camp Nou,2565777,"Barcelona - Getafe, 0 - 0",Regular,795,home,676,0,away,698,0
+Played,23,181144,2018-02-11 11:00:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565775,"Sevilla - Girona, 1 - 0",Regular,795,home,680,1,away,756,0
+Played,23,181144,2018-02-10 19:45:00,675,Estadio Santiago Bernab\u00e9u,2565772,"Real Madrid - Real Sociedad, 5 - 2",Regular,795,away,687,2,home,675,5
+Played,23,181144,2018-02-10 17:30:00,701,Estadio Municipal de Butarque,2565768,"Legan\u00e9s - Eibar, 0 - 1",Regular,795,away,701,1,home,712,0
+Played,23,181144,2018-02-10 15:15:00,679,Estadio La Rosaleda,2565776,"M\u00e1laga - Atl\u00e9tico Madrid, 0 - 1",Regular,795,away,679,1,home,683,0
+Played,23,181144,2018-02-10 12:00:00,696,Estadio de la Cer\u00e1mica,2565769,"Villarreal - Deportivo Alav\u00e9s, 1 - 2",Regular,795,home,682,1,away,696,2
+Played,23,181144,2018-02-09 20:00:00,0,San Mam\u00e9s Barria,2565774,"Athletic Club - Las Palmas, 0 - 0",Regular,795,home,678,0,away,714,0
+Played,22,181144,2018-02-05 20:00:00,714,Estadio de Gran Canaria,2565767,"Las Palmas - M\u00e1laga, 1 - 0",Regular,795,away,683,0,home,714,1
+Played,22,181144,2018-02-04 19:45:00,679,Estadio Wanda Metropolitano,2565760,"Atl\u00e9tico Madrid - Valencia, 1 - 0",Regular,795,home,679,1,away,674,0
+Played,22,181144,2018-02-04 17:30:00,756,Estadi Municipal de Montilivi,2565762,"Girona - Athletic Club, 2 - 0",Regular,795,away,678,0,home,756,2
+Played,22,181144,2018-02-04 15:15:00,0,RCDE Stadium,2565759,"Espanyol - Barcelona, 1 - 1",Regular,795,away,676,1,home,691,1
+Played,22,181144,2018-02-04 11:00:00,0,Coliseum Alfonso P\u00e9rez,2565761,"Getafe - Legan\u00e9s, 0 - 0",Regular,795,home,698,0,away,712,0
+Played,22,181144,2018-02-03 19:45:00,0,Estadio Ciudad de Valencia,2565766,"Levante - Real Madrid, 2 - 2",Regular,795,away,675,2,home,695,2
+Played,22,181144,2018-02-03 17:30:00,696,Estadio de Mendizorroza,2565758,"Deportivo Alav\u00e9s - Celta de Vigo, 2 - 1",Regular,795,home,696,2,away,692,1
+Played,22,181144,2018-02-03 15:15:00,684,Estadio Benito Villamar\u00edn,2565763,"Real Betis - Villarreal, 2 - 1",Regular,795,away,682,1,home,684,2
+Played,22,181144,2018-02-03 12:00:00,701,Estadio Municipal de Ipur\u00faa,2565764,"Eibar - Sevilla, 5 - 1",Regular,795,home,701,5,away,680,1
+Played,22,181144,2018-02-02 20:00:00,687,Estadio Municipal de Anoeta,2565765,"Real Sociedad - Deportivo La Coru\u00f1a, 5 - 0",Regular,795,home,687,5,away,677,0
+Played,21,181144,2018-01-29 20:00:00,692,Estadio de Bala\u00eddos,2565750,"Celta de Vigo - Real Betis, 3 - 2",Regular,795,away,684,2,home,692,3
+Played,21,181144,2018-01-28 19:45:00,676,Camp Nou,2565754,"Barcelona - Deportivo Alav\u00e9s, 2 - 1",Regular,795,home,676,2,away,696,1
+Played,21,181144,2018-01-28 17:30:00,0,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565752,"Sevilla - Getafe, 1 - 1",Regular,795,home,680,1,away,698,1
+Played,21,181144,2018-01-28 15:15:00,679,Estadio Wanda Metropolitano,2565755,"Atl\u00e9tico Madrid - Las Palmas, 3 - 0",Regular,795,home,679,3,away,714,0
+Played,21,181144,2018-01-28 11:00:00,712,Estadio Municipal de Butarque,2565756,"Legan\u00e9s - Espanyol, 3 - 2",Regular,795,away,691,2,home,712,3
+Played,21,181144,2018-01-27 19:45:00,682,Estadio de la Cer\u00e1mica,2565757,"Villarreal - Real Sociedad, 4 - 2",Regular,795,away,687,2,home,682,4
+Played,21,181144,2018-01-27 17:30:00,0,Estadio La Rosaleda,2565753,"M\u00e1laga - Girona, 0 - 0",Regular,795,home,683,0,away,756,0
+Played,21,181144,2018-01-27 15:15:00,675,Estadio de Mestalla,2565749,"Valencia - Real Madrid, 1 - 4",Regular,795,home,674,1,away,675,4
+Played,21,181144,2018-01-27 12:00:00,0,Estadio Municipal de Riazor,2565748,"Deportivo La Coru\u00f1a - Levante, 2 - 2",Regular,795,home,677,2,away,695,2
+Played,21,181144,2018-01-26 20:00:00,0,San Mam\u00e9s Barria,2565751,"Athletic Club - Eibar, 1 - 1",Regular,795,away,701,1,home,678,1
+Played,20,181144,2018-01-22 20:00:00,0,Estadio Municipal de Ipur\u00faa,2565741,"Eibar - M\u00e1laga, 1 - 1",Regular,795,home,701,1,away,683,1
+Played,20,181144,2018-01-21 19:45:00,676,Estadio Benito Villamar\u00edn,2565740,"Real Betis - Barcelona, 0 - 5",Regular,795,away,676,5,home,684,0
+Played,20,181144,2018-01-21 17:30:00,692,Estadio Municipal de Anoeta,2565742,"Real Sociedad - Celta de Vigo, 1 - 2",Regular,795,home,687,1,away,692,2
+Played,20,181144,2018-01-21 15:15:00,675,Estadio Santiago Bernab\u00e9u,2565738,"Real Madrid - Deportivo La Coru\u00f1a, 7 - 1",Regular,795,away,677,1,home,675,7
+Played,20,181144,2018-01-21 11:00:00,0,Estadio de Mendizorroza,2565746,"Deportivo Alav\u00e9s - Legan\u00e9s, 2 - 2",Regular,795,home,696,2,away,712,2
+Played,20,181144,2018-01-20 19:45:00,714,Estadio de Gran Canaria,2565744,"Las Palmas - Valencia, 2 - 1",Regular,795,away,674,1,home,714,2
+Played,20,181144,2018-01-20 17:30:00,682,Estadio de la Cer\u00e1mica,2565745,"Villarreal - Levante, 2 - 1",Regular,795,home,682,2,away,695,1
+Played,20,181144,2018-01-20 15:15:00,0,Estadio Wanda Metropolitano,2565743,"Atl\u00e9tico Madrid - Girona, 1 - 1",Regular,795,home,679,1,away,756,1
+Played,20,181144,2018-01-20 12:00:00,680,RCDE Stadium,2565747,"Espanyol - Sevilla, 0 - 3",Regular,795,home,691,0,away,680,3
+Played,20,181144,2018-01-19 20:00:00,0,Coliseum Alfonso P\u00e9rez,2565739,"Getafe - Athletic Club, 2 - 2",Regular,795,away,678,2,home,698,2
+Played,19,181144,2018-01-15 20:00:00,684,Estadio Benito Villamar\u00edn,2565735,"Real Betis - Legan\u00e9s, 3 - 2",Regular,795,home,684,3,away,712,2
+Played,19,181144,2018-01-14 19:45:00,676,Estadio Municipal de Anoeta,2565737,"Real Sociedad - Barcelona, 2 - 4",Regular,795,away,676,4,home,687,2
+Played,19,181144,2018-01-14 17:30:00,0,RCDE Stadium,2565730,"Espanyol - Athletic Club, 1 - 1",Regular,795,home,691,1,away,678,1
+Played,19,181144,2018-01-14 15:15:00,696,Estadio de Mendizorroza,2565729,"Deportivo Alav\u00e9s - Sevilla, 1 - 0",Regular,795,home,696,1,away,680,0
+Played,19,181144,2018-01-14 11:00:00,692,Estadio Ciudad de Valencia,2565731,"Levante - Celta de Vigo, 0 - 1",Regular,795,away,692,1,home,695,0
+Played,19,181144,2018-01-13 19:45:00,674,Estadio Municipal de Riazor,2565732,"Deportivo La Coru\u00f1a - Valencia, 1 - 2",Regular,795,away,674,2,home,677,1
+Played,19,181144,2018-01-13 17:30:00,679,Estadio Municipal de Ipur\u00faa,2565736,"Eibar - Atl\u00e9tico Madrid, 0 - 1",Regular,795,away,679,1,home,701,0
+Played,19,181144,2018-01-13 15:15:00,682,Estadio Santiago Bernab\u00e9u,2565733,"Real Madrid - Villarreal, 0 - 1",Regular,795,home,675,0,away,682,1
+Played,19,181144,2018-01-13 12:00:00,756,Estadi Municipal de Montilivi,2565728,"Girona - Las Palmas, 6 - 0",Regular,795,away,714,0,home,756,6
+Played,19,181144,2018-01-12 20:00:00,698,Coliseum Alfonso P\u00e9rez,2565734,"Getafe - M\u00e1laga, 1 - 0",Regular,795,home,698,1,away,683,0
+Played,18,181144,2018-01-08 20:00:00,691,Estadio La Rosaleda,2565726,"M\u00e1laga - Espanyol, 0 - 1",Regular,795,away,691,1,home,683,0
+Played,18,181144,2018-01-07 19:45:00,0,Estadio de Bala\u00eddos,2565723,"Celta de Vigo - Real Madrid, 2 - 2",Regular,795,away,675,2,home,692,2
+Played,18,181144,2018-01-07 17:30:00,0,Estadio de la Cer\u00e1mica,2565720,"Villarreal - Deportivo La Coru\u00f1a, 1 - 1",Regular,795,away,677,1,home,682,1
+Played,18,181144,2018-01-07 17:30:00,678,San Mam\u00e9s Barria,2565724,"Athletic Club - Deportivo Alav\u00e9s, 2 - 0",Regular,795,home,678,2,away,696,0
+Played,18,181144,2018-01-07 15:15:00,676,Camp Nou,2565718,"Barcelona - Levante, 3 - 0",Regular,795,home,676,3,away,695,0
+Played,18,181144,2018-01-07 11:00:00,712,Estadio Municipal de Butarque,2565721,"Legan\u00e9s - Real Sociedad, 1 - 0",Regular,795,away,687,0,home,712,1
+Played,18,181144,2018-01-06 19:45:00,684,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565725,"Sevilla - Real Betis, 3 - 5",Regular,795,home,680,3,away,684,5
+Played,18,181144,2018-01-06 17:30:00,701,Estadio de Gran Canaria,2565719,"Las Palmas - Eibar, 1 - 2",Regular,795,away,701,2,home,714,1
+Played,18,181144,2018-01-06 15:15:00,674,Estadio de Mestalla,2565722,"Valencia - Girona, 2 - 1",Regular,795,home,674,2,away,756,1
+Played,18,181144,2018-01-06 12:00:00,679,Estadio Wanda Metropolitano,2565727,"Atl\u00e9tico Madrid - Getafe, 2 - 0",Regular,795,home,679,2,away,698,0
+Played,17,181144,2017-12-23 17:30:00,692,Estadio Municipal de Riazor,2565709,"Deportivo La Coru\u00f1a - Celta de Vigo, 1 - 3",Regular,795,home,677,1,away,692,3
+Played,17,181144,2017-12-23 15:15:00,682,Estadio de Mestalla,2565710,"Valencia - Villarreal, 0 - 1",Regular,795,home,674,0,away,682,1
+Played,17,181144,2017-12-23 12:00:00,676,Estadio Santiago Bernab\u00e9u,2565711,"Real Madrid - Barcelona, 0 - 3",Regular,795,away,676,3,home,675,0
+Played,17,181144,2017-12-22 20:30:00,691,RCDE Stadium,2565717,"Espanyol - Atl\u00e9tico Madrid, 1 - 0",Regular,795,away,679,0,home,691,1
+Played,17,181144,2017-12-22 18:30:00,678,Estadio Benito Villamar\u00edn,2565713,"Real Betis - Athletic Club, 0 - 2",Regular,795,away,678,2,home,684,0
+Played,17,181144,2017-12-21 20:30:00,696,Estadio de Mendizorroza,2565716,"Deportivo Alav\u00e9s - M\u00e1laga, 1 - 0",Regular,795,home,696,1,away,683,0
+Played,17,181144,2017-12-21 18:30:00,701,Estadio Municipal de Ipur\u00faa,2565714,"Eibar - Girona, 4 - 1",Regular,795,home,701,4,away,756,1
+Played,17,181144,2017-12-20 20:30:00,687,Estadio Municipal de Anoeta,2565715,"Real Sociedad - Sevilla, 3 - 1",Regular,795,home,687,3,away,680,1
+Played,17,181144,2017-12-20 18:30:00,698,Coliseum Alfonso P\u00e9rez,2565712,"Getafe - Las Palmas, 2 - 0",Regular,795,home,698,2,away,714,0
+Played,17,181144,2017-12-19 20:30:00,0,Estadio Ciudad de Valencia,2565708,"Levante - Legan\u00e9s, 0 - 0",Regular,795,away,712,0,home,695,0
+Played,16,181144,2017-12-18 20:00:00,684,Estadio La Rosaleda,2565702,"M\u00e1laga - Real Betis, 0 - 2",Regular,795,home,683,0,away,684,2
+Played,16,181144,2017-12-17 19:45:00,676,Camp Nou,2565704,"Barcelona - Deportivo La Coru\u00f1a, 4 - 0",Regular,795,home,676,4,away,677,0
+Played,16,181144,2017-12-17 17:30:00,0,Estadio de Gran Canaria,2565705,"Las Palmas - Espanyol, 2 - 2",Regular,795,away,691,2,home,714,2
+Played,16,181144,2017-12-17 15:15:00,682,Estadio de Bala\u00eddos,2565699,"Celta de Vigo - Villarreal, 0 - 1",Regular,795,away,682,1,home,692,0
+Played,16,181144,2017-12-17 11:00:00,756,Estadi Municipal de Montilivi,2565706,"Girona - Getafe, 1 - 0",Regular,795,away,698,0,home,756,1
+Played,16,181144,2017-12-16 19:45:00,679,Estadio Wanda Metropolitano,2565703,"Atl\u00e9tico Madrid - Deportivo Alav\u00e9s, 1 - 0",Regular,795,home,679,1,away,696,0
+Played,16,181144,2017-12-16 17:30:00,701,Estadio Municipal de Ipur\u00faa,2565698,"Eibar - Valencia, 2 - 1",Regular,795,home,701,2,away,674,1
+Played,16,181144,2017-12-16 15:15:00,0,San Mam\u00e9s Barria,2565700,"Athletic Club - Real Sociedad, 0 - 0",Regular,795,away,687,0,home,678,0
+Played,16,181144,2017-12-15 20:00:00,0,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565701,"Sevilla - Levante, 0 - 0",Regular,795,home,680,0,away,695,0
+Played,15,181144,2017-12-11 20:00:00,756,RCDE Stadium,2565690,"Espanyol - Girona, 0 - 1",Regular,795,home,691,0,away,756,1
+Played,15,181144,2017-12-10 19:45:00,676,Estadio de la Cer\u00e1mica,2565692,"Villarreal - Barcelona, 0 - 2",Regular,795,away,676,2,home,682,0
+Played,15,181144,2017-12-10 17:30:00,678,Estadio Ciudad de Valencia,2565691,"Levante - Athletic Club, 1 - 2",Regular,795,away,678,2,home,695,1
+Played,15,181144,2017-12-10 15:15:00,679,Estadio Benito Villamar\u00edn,2565697,"Real Betis - Atl\u00e9tico Madrid, 0 - 1",Regular,795,away,679,1,home,684,0
+Played,15,181144,2017-12-10 11:00:00,683,Estadio Municipal de Anoeta,2565688,"Real Sociedad - M\u00e1laga, 0 - 2",Regular,795,home,687,0,away,683,2
+Played,15,181144,2017-12-09 19:45:00,674,Estadio de Mestalla,2565694,"Valencia - Celta de Vigo, 2 - 1",Regular,795,home,674,2,away,692,1
+Played,15,181144,2017-12-09 17:30:00,677,Estadio Municipal de Riazor,2565693,"Deportivo La Coru\u00f1a - Legan\u00e9s, 1 - 0",Regular,795,home,677,1,away,712,0
+Played,15,181144,2017-12-09 15:15:00,675,Estadio Santiago Bernab\u00e9u,2565695,"Real Madrid - Sevilla, 5 - 0",Regular,795,home,675,5,away,680,0
+Played,15,181144,2017-12-09 12:00:00,0,Coliseum Alfonso P\u00e9rez,2565696,"Getafe - Eibar, 0 - 0",Regular,795,away,701,0,home,698,0
+Played,15,181144,2017-12-08 20:00:00,696,Estadio de Mendizorroza,2565689,"Deportivo Alav\u00e9s - Las Palmas, 2 - 0",Regular,795,home,696,2,away,714,0
+Played,14,181144,2017-12-04 20:00:00,696,Estadi Municipal de Montilivi,2565683,"Girona - Deportivo Alav\u00e9s, 2 - 3",Regular,795,away,696,3,home,756,2
+Played,14,181144,2017-12-03 19:45:00,714,Estadio de Gran Canaria,2565682,"Las Palmas - Real Betis, 1 - 0",Regular,795,home,714,1,away,684,0
+Played,14,181144,2017-12-03 17:30:00,701,Estadio Municipal de Ipur\u00faa,2565686,"Eibar - Espanyol, 3 - 1",Regular,795,home,701,3,away,691,1
+Played,14,181144,2017-12-03 15:15:00,698,Coliseum Alfonso P\u00e9rez,2565684,"Getafe - Valencia, 1 - 0",Regular,795,away,674,0,home,698,1
+Played,14,181144,2017-12-03 11:00:00,712,Estadio Municipal de Butarque,2565685,"Legan\u00e9s - Villarreal, 3 - 1",Regular,795,away,682,1,home,712,3
+Played,14,181144,2017-12-02 19:45:00,0,San Mam\u00e9s Barria,2565687,"Athletic Club - Real Madrid, 0 - 0",Regular,795,home,678,0,away,675,0
+Played,14,181144,2017-12-02 17:30:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565678,"Sevilla - Deportivo La Coru\u00f1a, 2 - 0",Regular,795,away,677,0,home,680,2
+Played,14,181144,2017-12-02 15:15:00,679,Estadio Wanda Metropolitano,2565680,"Atl\u00e9tico Madrid - Real Sociedad, 2 - 1",Regular,795,away,687,1,home,679,2
+Played,14,181144,2017-12-02 12:00:00,0,Camp Nou,2565681,"Barcelona - Celta de Vigo, 2 - 2",Regular,795,home,676,2,away,692,2
+Played,14,181144,2017-12-01 20:00:00,0,Estadio La Rosaleda,2565679,"M\u00e1laga - Levante, 0 - 0",Regular,795,home,683,0,away,695,0
+Played,13,181144,2017-11-27 20:00:00,691,RCDE Stadium,2565668,"Espanyol - Getafe, 1 - 0",Regular,795,home,691,1,away,698,0
+Played,13,181144,2017-11-26 19:45:00,0,Estadio de Mestalla,2565672,"Valencia - Barcelona, 1 - 1",Regular,795,away,676,1,home,674,1
+Played,13,181144,2017-11-26 17:30:00,680,Estadio de la Cer\u00e1mica,2565670,"Villarreal - Sevilla, 2 - 3",Regular,795,home,682,2,away,680,3
+Played,13,181144,2017-11-26 15:15:00,0,Estadio Municipal de Anoeta,2565675,"Real Sociedad - Las Palmas, 2 - 2",Regular,795,home,687,2,away,714,2
+Played,13,181144,2017-11-26 11:00:00,0,Estadio Municipal de Riazor,2565671,"Deportivo La Coru\u00f1a - Athletic Club, 2 - 2",Regular,795,away,678,2,home,677,2
+Played,13,181144,2017-11-25 19:45:00,679,Estadio Ciudad de Valencia,2565669,"Levante - Atl\u00e9tico Madrid, 0 - 5",Regular,795,away,679,5,home,695,0
+Played,13,181144,2017-11-25 17:30:00,0,Estadio Benito Villamar\u00edn,2565674,"Real Betis - Girona, 2 - 2",Regular,795,away,756,2,home,684,2
+Played,13,181144,2017-11-25 15:15:00,675,Estadio Santiago Bernab\u00e9u,2565673,"Real Madrid - M\u00e1laga, 3 - 2",Regular,795,home,675,3,away,683,2
+Played,13,181144,2017-11-25 12:00:00,701,Estadio de Mendizorroza,2565677,"Deportivo Alav\u00e9s - Eibar, 1 - 2",Regular,795,away,701,2,home,696,1
+Played,13,181144,2017-11-24 20:00:00,692,Estadio de Bala\u00eddos,2565676,"Celta de Vigo - Legan\u00e9s, 1 - 0",Regular,795,away,712,0,home,692,1
+Played,12,181144,2017-11-20 20:00:00,701,Estadio Municipal de Ipur\u00faa,2565659,"Eibar - Real Betis, 5 - 0",Regular,795,home,701,5,away,684,0
+Played,12,181144,2017-11-19 19:45:00,0,San Mam\u00e9s Barria,2565660,"Athletic Club - Villarreal, 1 - 1",Regular,795,home,678,1,away,682,1
+Played,12,181144,2017-11-19 17:30:00,695,Estadio de Gran Canaria,2565665,"Las Palmas - Levante, 0 - 2",Regular,795,home,714,0,away,695,2
+Played,12,181144,2017-11-19 15:15:00,674,RCDE Stadium,2565663,"Espanyol - Valencia, 0 - 2",Regular,795,home,691,0,away,674,2
+Played,12,181144,2017-11-19 11:00:00,683,Estadio La Rosaleda,2565662,"M\u00e1laga - Deportivo La Coru\u00f1a, 3 - 2",Regular,795,away,677,2,home,683,3
+Played,12,181144,2017-11-18 19:45:00,0,Estadio Wanda Metropolitano,2565664,"Atl\u00e9tico Madrid - Real Madrid, 0 - 0",Regular,795,home,679,0,away,675,0
+Played,12,181144,2017-11-18 17:30:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565661,"Sevilla - Celta de Vigo, 2 - 1",Regular,795,home,680,2,away,692,1
+Played,12,181144,2017-11-18 15:15:00,676,Estadio Municipal de Butarque,2565658,"Legan\u00e9s - Barcelona, 0 - 3",Regular,795,away,676,3,home,712,0
+Played,12,181144,2017-11-18 12:00:00,698,Coliseum Alfonso P\u00e9rez,2565667,"Getafe - Deportivo Alav\u00e9s, 4 - 1",Regular,795,away,696,1,home,698,4
+Played,12,181144,2017-11-17 20:00:00,0,Estadi Municipal de Montilivi,2565666,"Girona - Real Sociedad, 1 - 1",Regular,795,away,687,1,home,756,1
+Played,11,181144,2017-11-05 19:45:00,675,Estadio Santiago Bernab\u00e9u,2565657,"Real Madrid - Las Palmas, 3 - 0",Regular,795,home,675,3,away,714,0
+Played,11,181144,2017-11-05 17:30:00,687,Estadio Municipal de Anoeta,2565649,"Real Sociedad - Eibar, 3 - 1",Regular,795,home,687,3,away,701,1
+Played,11,181144,2017-11-05 17:30:00,682,Estadio de la Cer\u00e1mica,2565654,"Villarreal - M\u00e1laga, 2 - 0",Regular,795,home,682,2,away,683,0
+Played,11,181144,2017-11-05 15:15:00,692,Estadio de Bala\u00eddos,2565650,"Celta de Vigo - Athletic Club, 3 - 1",Regular,795,away,678,1,home,692,3
+Played,11,181144,2017-11-05 11:00:00,756,Estadio Ciudad de Valencia,2565652,"Levante - Girona, 1 - 2",Regular,795,away,756,2,home,695,1
+Played,11,181144,2017-11-04 19:45:00,676,Camp Nou,2565653,"Barcelona - Sevilla, 2 - 1",Regular,795,home,676,2,away,680,1
+Played,11,181144,2017-11-04 17:30:00,696,Estadio de Mendizorroza,2565651,"Deportivo Alav\u00e9s - Espanyol, 1 - 0",Regular,795,away,691,0,home,696,1
+Played,11,181144,2017-11-04 15:15:00,679,Estadio Municipal de Riazor,2565655,"Deportivo La Coru\u00f1a - Atl\u00e9tico Madrid, 0 - 1",Regular,795,away,679,1,home,677,0
+Played,11,181144,2017-11-04 12:00:00,674,Estadio de Mestalla,2565656,"Valencia - Legan\u00e9s, 3 - 0",Regular,795,home,674,3,away,712,0
+Played,11,181144,2017-11-03 20:00:00,0,Estadio Benito Villamar\u00edn,2565648,"Real Betis - Getafe, 2 - 2",Regular,795,away,698,2,home,684,2
+Played,10,181144,2017-10-30 20:00:00,691,RCDE Stadium,2565641,"Espanyol - Real Betis, 1 - 0",Regular,795,home,691,1,away,684,0
+Played,10,181144,2017-10-30 20:00:00,677,Estadio de Gran Canaria,2565643,"Las Palmas - Deportivo La Coru\u00f1a, 1 - 3",Regular,795,away,677,3,home,714,1
+Played,10,181144,2017-10-29 19:45:00,683,Estadio La Rosaleda,2565640,"M\u00e1laga - Celta de Vigo, 2 - 1",Regular,795,home,683,2,away,692,1
+Played,10,181144,2017-10-29 17:30:00,0,Estadio Municipal de Ipur\u00faa,2565646,"Eibar - Levante, 2 - 2",Regular,795,home,701,2,away,695,2
+Played,10,181144,2017-10-29 15:15:00,756,Estadi Municipal de Montilivi,2565644,"Girona - Real Madrid, 2 - 1",Regular,795,away,675,1,home,756,2
+Played,10,181144,2017-10-29 11:00:00,698,Coliseum Alfonso P\u00e9rez,2565645,"Getafe - Real Sociedad, 2 - 1",Regular,795,away,687,1,home,698,2
+Played,10,181144,2017-10-28 20:30:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565639,"Sevilla - Legan\u00e9s, 2 - 1",Regular,795,home,680,2,away,712,1
+Played,10,181144,2017-10-28 18:45:00,676,San Mam\u00e9s Barria,2565647,"Athletic Club - Barcelona, 0 - 2",Regular,795,away,676,2,home,678,0
+Played,10,181144,2017-10-28 16:30:00,0,Estadio Wanda Metropolitano,2565642,"Atl\u00e9tico Madrid - Villarreal, 1 - 1",Regular,795,home,679,1,away,682,1
+Played,10,181144,2017-10-28 11:00:00,674,Estadio de Mendizorroza,2565638,"Deportivo Alav\u00e9s - Valencia, 1 - 2",Regular,795,away,674,2,home,696,1
+Played,9,181144,2017-10-23 19:00:00,756,Estadio Municipal de Riazor,2565631,"Deportivo La Coru\u00f1a - Girona, 1 - 2",Regular,795,home,677,1,away,756,2
+Played,9,181144,2017-10-23 18:00:00,0,Estadio Municipal de Anoeta,2565636,"Real Sociedad - Espanyol, 1 - 1",Regular,795,home,687,1,away,691,1
+Played,9,181144,2017-10-22 18:45:00,675,Estadio Santiago Bernab\u00e9u,2565633,"Real Madrid - Eibar, 3 - 0",Regular,795,away,701,0,home,675,3
+Played,9,181144,2017-10-22 16:30:00,712,Estadio Municipal de Butarque,2565635,"Legan\u00e9s - Athletic Club, 1 - 0",Regular,795,away,678,0,home,712,1
+Played,9,181144,2017-10-22 14:15:00,679,Estadio de Bala\u00eddos,2565637,"Celta de Vigo - Atl\u00e9tico Madrid, 0 - 1",Regular,795,away,679,1,home,692,0
+Played,9,181144,2017-10-22 10:00:00,682,Estadio de la Cer\u00e1mica,2565630,"Villarreal - Las Palmas, 4 - 0",Regular,795,home,682,4,away,714,0
+Played,9,181144,2017-10-21 18:45:00,676,Camp Nou,2565629,"Barcelona - M\u00e1laga, 2 - 0",Regular,795,home,676,2,away,683,0
+Played,9,181144,2017-10-21 16:30:00,674,Estadio de Mestalla,2565632,"Valencia - Sevilla, 4 - 0",Regular,795,home,674,4,away,680,0
+Played,9,181144,2017-10-21 14:15:00,684,Estadio Benito Villamar\u00edn,2565634,"Real Betis - Deportivo Alav\u00e9s, 2 - 0",Regular,795,away,696,0,home,684,2
+Played,9,181144,2017-10-21 11:00:00,0,Estadio Ciudad de Valencia,2565628,"Levante - Getafe, 1 - 1",Regular,795,away,698,1,home,695,1
+Played,8,181144,2017-10-16 19:00:00,692,Estadio de Gran Canaria,2565627,"Las Palmas - Celta de Vigo, 2 - 5",Regular,795,home,714,2,away,692,5
+Played,8,181144,2017-10-15 18:45:00,674,Estadio Benito Villamar\u00edn,2565620,"Real Betis - Valencia, 3 - 6",Regular,795,away,674,6,home,684,3
+Played,8,181144,2017-10-15 16:30:00,712,Estadio La Rosaleda,2565624,"M\u00e1laga - Legan\u00e9s, 0 - 2",Regular,795,home,683,0,away,712,2
+Played,8,181144,2017-10-15 14:15:00,682,Estadi Municipal de Montilivi,2565618,"Girona - Villarreal, 1 - 2",Regular,795,away,682,2,home,756,1
+Played,8,181144,2017-10-15 10:00:00,0,Estadio Municipal de Ipur\u00faa,2565621,"Eibar - Deportivo La Coru\u00f1a, 0 - 0",Regular,795,home,701,0,away,677,0
+Played,8,181144,2017-10-14 18:45:00,0,Estadio Wanda Metropolitano,2565626,"Atl\u00e9tico Madrid - Barcelona, 1 - 1",Regular,795,away,676,1,home,679,1
+Played,8,181144,2017-10-14 16:30:00,687,Estadio de Mendizorroza,2565623,"Deportivo Alav\u00e9s - Real Sociedad, 0 - 2",Regular,795,away,687,2,home,696,0
+Played,8,181144,2017-10-14 14:15:00,675,Coliseum Alfonso P\u00e9rez,2565619,"Getafe - Real Madrid, 1 - 2",Regular,795,away,675,2,home,698,1
+Played,8,181144,2017-10-14 11:00:00,678,San Mam\u00e9s Barria,2565622,"Athletic Club - Sevilla, 1 - 0",Regular,795,home,678,1,away,680,0
+Played,8,181144,2017-10-13 19:00:00,0,RCDE Stadium,2565625,"Espanyol - Levante, 0 - 0",Regular,795,home,691,0,away,695,0
+Played,7,181144,2017-10-01 18:45:00,675,Estadio Santiago Bernab\u00e9u,2565609,"Real Madrid - Espanyol, 2 - 0",Regular,795,away,691,0,home,675,2
+Played,7,181144,2017-10-01 16:30:00,674,Estadio de Mestalla,2565608,"Valencia - Athletic Club, 3 - 2",Regular,795,away,678,2,home,674,3
+Played,7,181144,2017-10-01 16:30:00,682,Estadio de la Cer\u00e1mica,2565616,"Villarreal - Eibar, 3 - 0",Regular,795,away,701,0,home,682,3
+Played,7,181144,2017-10-01 14:15:00,676,Camp Nou,2565615,"Barcelona - Las Palmas, 3 - 0",Regular,795,home,676,3,away,714,0
+Played,7,181144,2017-10-01 10:00:00,0,Estadio Municipal de Anoeta,2565611,"Real Sociedad - Real Betis, 4 - 4",Regular,795,home,687,4,away,684,4
+Played,7,181144,2017-09-30 18:45:00,0,Estadio Municipal de Butarque,2565610,"Legan\u00e9s - Atl\u00e9tico Madrid, 0 - 0",Regular,795,away,679,0,home,712,0
+Played,7,181144,2017-09-30 16:30:00,696,Estadio Ciudad de Valencia,2565614,"Levante - Deportivo Alav\u00e9s, 0 - 2",Regular,795,away,696,2,home,695,0
+Played,7,181144,2017-09-30 14:15:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565613,"Sevilla - M\u00e1laga, 2 - 0",Regular,795,home,680,2,away,683,0
+Played,7,181144,2017-09-30 11:00:00,677,Estadio Municipal de Riazor,2565617,"Deportivo La Coru\u00f1a - Getafe, 2 - 1",Regular,795,home,677,2,away,698,1
+Played,7,181144,2017-09-29 19:00:00,0,Estadio de Bala\u00eddos,2565612,"Celta de Vigo - Girona, 3 - 3",Regular,795,away,756,3,home,692,3
+Played,6,181144,2017-09-25 19:00:00,684,Estadio Benito Villamar\u00edn,2565605,"Real Betis - Levante, 4 - 0",Regular,795,home,684,4,away,695,0
+Played,6,181144,2017-09-24 18:45:00,674,Estadio Municipal de Anoeta,2565607,"Real Sociedad - Valencia, 2 - 3",Regular,795,home,687,2,away,674,3
+Played,6,181144,2017-09-24 16:30:00,712,Estadio de Gran Canaria,2565602,"Las Palmas - Legan\u00e9s, 0 - 2",Regular,795,home,714,0,away,712,2
+Played,6,181144,2017-09-24 16:30:00,692,Estadio Municipal de Ipur\u00faa,2565606,"Eibar - Celta de Vigo, 0 - 4",Regular,795,home,701,0,away,692,4
+Played,6,181144,2017-09-24 14:15:00,698,Coliseum Alfonso P\u00e9rez,2565604,"Getafe - Villarreal, 4 - 0",Regular,795,away,682,0,home,698,4
+Played,6,181144,2017-09-24 10:00:00,691,RCDE Stadium,2565600,"Espanyol - Deportivo La Coru\u00f1a, 4 - 1",Regular,795,home,691,4,away,677,1
+Played,6,181144,2017-09-23 18:45:00,676,Estadi Municipal de Montilivi,2565603,"Girona - Barcelona, 0 - 3",Regular,795,away,676,3,home,756,0
+Played,6,181144,2017-09-23 16:30:00,0,Estadio La Rosaleda,2565599,"M\u00e1laga - Athletic Club, 3 - 3",Regular,795,away,678,3,home,683,3
+Played,6,181144,2017-09-23 14:15:00,675,Estadio de Mendizorroza,2565598,"Deportivo Alav\u00e9s - Real Madrid, 1 - 2",Regular,795,away,675,2,home,696,1
+Played,6,181144,2017-09-23 11:00:00,679,Estadio Wanda Metropolitano,2565601,"Atl\u00e9tico Madrid - Sevilla, 2 - 0",Regular,795,home,679,2,away,680,0
+Played,5,181144,2017-09-21 20:00:00,695,Estadio Ciudad de Valencia,2565591,"Levante - Real Sociedad, 3 - 0",Regular,795,away,687,0,home,695,3
+Played,5,181144,2017-09-21 19:00:00,0,Estadio de Bala\u00eddos,2565588,"Celta de Vigo - Getafe, 1 - 1",Regular,795,away,698,1,home,692,1
+Played,5,181144,2017-09-21 18:00:00,0,Estadio de la Cer\u00e1mica,2565593,"Villarreal - Espanyol, 0 - 0",Regular,795,away,691,0,home,682,0
+Played,5,181144,2017-09-20 20:00:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565590,"Sevilla - Las Palmas, 1 - 0",Regular,795,home,680,1,away,714,0
+Played,5,181144,2017-09-20 20:00:00,684,Estadio Santiago Bernab\u00e9u,2565596,"Real Madrid - Real Betis, 0 - 1",Regular,795,home,675,0,away,684,1
+Played,5,181144,2017-09-20 19:00:00,677,Estadio Municipal de Riazor,2565594,"Deportivo La Coru\u00f1a - Deportivo Alav\u00e9s, 1 - 0",Regular,795,home,677,1,away,696,0
+Played,5,181144,2017-09-20 18:00:00,679,San Mam\u00e9s Barria,2565589,"Athletic Club - Atl\u00e9tico Madrid, 1 - 2",Regular,795,away,679,2,home,678,1
+Played,5,181144,2017-09-20 18:00:00,0,Estadio Municipal de Butarque,2565597,"Legan\u00e9s - Girona, 0 - 0",Regular,795,away,756,0,home,712,0
+Played,5,181144,2017-09-19 20:00:00,676,Camp Nou,2565592,"Barcelona - Eibar, 6 - 1",Regular,795,home,676,6,away,701,1
+Played,5,181144,2017-09-19 18:00:00,674,Estadio de Mestalla,2565595,"Valencia - M\u00e1laga, 5 - 0",Regular,795,home,674,5,away,683,0
+Played,4,181144,2017-09-18 19:00:00,691,RCDE Stadium,2565585,"Espanyol - Celta de Vigo, 2 - 1",Regular,795,home,691,2,away,692,1
+Played,4,181144,2017-09-17 18:45:00,675,Estadio Municipal de Anoeta,2565583,"Real Sociedad - Real Madrid, 1 - 3",Regular,795,home,687,1,away,675,3
+Played,4,181144,2017-09-17 16:30:00,714,Estadio de Gran Canaria,2565578,"Las Palmas - Athletic Club, 1 - 0",Regular,795,away,678,0,home,714,1
+Played,4,181144,2017-09-17 14:15:00,680,Estadi Municipal de Montilivi,2565579,"Girona - Sevilla, 0 - 1",Regular,795,away,680,1,home,756,0
+Played,4,181144,2017-09-17 10:00:00,682,Estadio de Mendizorroza,2565584,"Deportivo Alav\u00e9s - Villarreal, 0 - 3",Regular,795,away,682,3,home,696,0
+Played,4,181144,2017-09-16 18:45:00,679,Estadio Wanda Metropolitano,2565586,"Atl\u00e9tico Madrid - M\u00e1laga, 1 - 0",Regular,795,home,679,1,away,683,0
+Played,4,181144,2017-09-16 16:30:00,684,Estadio Benito Villamar\u00edn,2565581,"Real Betis - Deportivo La Coru\u00f1a, 2 - 1",Regular,795,away,677,1,home,684,2
+Played,4,181144,2017-09-16 14:15:00,676,Coliseum Alfonso P\u00e9rez,2565580,"Getafe - Barcelona, 1 - 2",Regular,795,away,676,2,home,698,1
+Played,4,181144,2017-09-16 11:00:00,0,Estadio Ciudad de Valencia,2565587,"Levante - Valencia, 1 - 1",Regular,795,away,674,1,home,695,1
+Played,4,181144,2017-09-15 19:00:00,701,Estadio Municipal de Ipur\u00faa,2565582,"Eibar - Legan\u00e9s, 1 - 0",Regular,795,home,701,1,away,712,0
+Played,3,181144,2017-09-11 19:00:00,714,Estadio La Rosaleda,2565576,"M\u00e1laga - Las Palmas, 1 - 3",Regular,795,home,683,1,away,714,3
+Played,3,181144,2017-09-10 18:45:00,682,Estadio de la Cer\u00e1mica,2565568,"Villarreal - Real Betis, 3 - 1",Regular,795,home,682,3,away,684,1
+Played,3,181144,2017-09-10 16:30:00,692,Estadio de Bala\u00eddos,2565573,"Celta de Vigo - Deportivo Alav\u00e9s, 1 - 0",Regular,795,away,696,0,home,692,1
+Played,3,181144,2017-09-10 14:15:00,678,San Mam\u00e9s Barria,2565574,"Athletic Club - Girona, 2 - 0",Regular,795,home,678,2,away,756,0
+Played,3,181144,2017-09-10 10:00:00,687,Estadio Municipal de Riazor,2565569,"Deportivo La Coru\u00f1a - Real Sociedad, 2 - 4",Regular,795,away,687,4,home,677,2
+Played,3,181144,2017-09-09 18:45:00,676,Camp Nou,2565577,"Barcelona - Espanyol, 5 - 0",Regular,795,home,676,5,away,691,0
+Played,3,181144,2017-09-09 16:30:00,680,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565575,"Sevilla - Eibar, 3 - 0",Regular,795,away,701,0,home,680,3
+Played,3,181144,2017-09-09 14:15:00,0,Estadio de Mestalla,2565570,"Valencia - Atl\u00e9tico Madrid, 0 - 0",Regular,795,away,679,0,home,674,0
+Played,3,181144,2017-09-09 11:00:00,0,Estadio Santiago Bernab\u00e9u,2565571,"Real Madrid - Levante, 1 - 1",Regular,795,home,675,1,away,695,1
+Played,3,181144,2017-09-08 19:00:00,698,Estadio Municipal de Butarque,2565572,"Legan\u00e9s - Getafe, 1 - 2",Regular,795,away,698,2,home,712,1
+Played,2,181144,2017-08-27 20:15:00,0,Estadio Santiago Bernab\u00e9u,2565564,"Real Madrid - Valencia, 2 - 2",Regular,795,away,674,2,home,675,2
+Played,2,181144,2017-08-27 18:15:00,680,Coliseum Alfonso P\u00e9rez,2565565,"Getafe - Sevilla, 0 - 1",Regular,795,away,680,1,home,698,0
+Played,2,181144,2017-08-27 16:15:00,712,RCDE Stadium,2565560,"Espanyol - Legan\u00e9s, 0 - 1",Regular,795,home,691,0,away,712,1
+Played,2,181144,2017-08-27 16:15:00,678,Estadio Municipal de Ipur\u00faa,2565567,"Eibar - Athletic Club, 0 - 1",Regular,795,home,701,0,away,678,1
+Played,2,181144,2017-08-26 20:15:00,679,Estadio de Gran Canaria,2565562,"Las Palmas - Atl\u00e9tico Madrid, 1 - 5",Regular,795,away,679,5,home,714,1
+Played,2,181144,2017-08-26 18:15:00,0,Estadio Ciudad de Valencia,2565561,"Levante - Deportivo La Coru\u00f1a, 2 - 2",Regular,795,away,677,2,home,695,2
+Played,2,181144,2017-08-26 18:15:00,756,Estadi Municipal de Montilivi,2565563,"Girona - M\u00e1laga, 1 - 0",Regular,795,away,683,0,home,756,1
+Played,2,181144,2017-08-26 16:15:00,676,Estadio de Mendizorroza,2565559,"Deportivo Alav\u00e9s - Barcelona, 0 - 2",Regular,795,away,676,2,home,696,0
+Played,2,181144,2017-08-25 20:00:00,684,Estadio Benito Villamar\u00edn,2565566,"Real Betis - Celta de Vigo, 2 - 1",Regular,795,home,684,2,away,692,1
+Played,2,181144,2017-08-25 18:15:00,687,Estadio Municipal de Anoeta,2565558,"Real Sociedad - Villarreal, 3 - 0",Regular,795,home,687,3,away,682,0
+Played,1,181144,2017-08-21 20:00:00,701,Estadio La Rosaleda,2565553,"M\u00e1laga - Eibar, 0 - 1",Regular,795,away,701,1,home,683,0
+Played,1,181144,2017-08-21 18:15:00,695,Estadio Ciudad de Valencia,2565548,"Levante - Villarreal, 1 - 0",Regular,795,away,682,0,home,695,1
+Played,1,181144,2017-08-20 20:15:00,675,Estadio Municipal de Riazor,2565555,"Deportivo La Coru\u00f1a - Real Madrid, 0 - 3",Regular,795,home,677,0,away,675,3
+Played,1,181144,2017-08-20 18:15:00,676,Camp Nou,2565554,"Barcelona - Real Betis, 2 - 0",Regular,795,home,676,2,away,684,0
+Played,1,181144,2017-08-20 16:15:00,0,San Mam\u00e9s Barria,2565550,"Athletic Club - Getafe, 0 - 0",Regular,795,home,678,0,away,698,0
+Played,1,181144,2017-08-19 20:15:00,0,Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n,2565552,"Sevilla - Espanyol, 1 - 1",Regular,795,away,691,1,home,680,1
+Played,1,181144,2017-08-19 18:15:00,0,Estadi Municipal de Montilivi,2565551,"Girona - Atl\u00e9tico Madrid, 2 - 2",Regular,795,away,679,2,home,756,2
+Played,1,181144,2017-08-19 16:15:00,687,Estadio de Bala\u00eddos,2565549,"Celta de Vigo - Real Sociedad, 2 - 3",Regular,795,away,687,3,home,692,2
+Played,1,181144,2017-08-18 20:15:00,674,Estadio de Mestalla,2565556,"Valencia - Las Palmas, 1 - 0",Regular,795,home,674,1,away,714,0
+Played,1,181144,2017-08-18 18:15:00,712,Estadio Municipal de Butarque,2565557,"Legan\u00e9s - Deportivo Alav\u00e9s, 1 - 0",Regular,795,away,696,0,home,712,1

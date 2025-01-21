@@ -1,0 +1,307 @@
+status,gameweek,seasonId,dateutc,winner,venue,wyId,label,duration,competitionId,team1.side,team1.teamId,team1.score,team2.side,team2.teamId,team2.score
+Played,34,181137,2018-05-12 13:30:00,2445,Allianz Arena,2517036,"Bayern M\u00fcnchen - Stuttgart, 1 - 4",Regular,426,home,2444,1,away,2445,4
+Played,34,181137,2018-05-12 13:30:00,2482,WIRSOL Rhein-Neckar-Arena,2517037,"Hoffenheim - Borussia Dortmund, 3 - 1",Regular,426,home,2482,3,away,2447,1
+Played,34,181137,2018-05-12 13:30:00,2975,Olympiastadion Berlin,2517038,"Hertha BSC - RB Leipzig, 2 - 6",Regular,426,home,2457,2,away,2975,6
+Played,34,181137,2018-05-12 13:30:00,2453,Schwarzwald-Stadion,2517039,"Freiburg - Augsburg, 2 - 0",Regular,426,home,2453,2,away,2481,0
+Played,34,181137,2018-05-12 13:30:00,2449,VELTINS-Arena,2517040,"Schalke 04 - Eintracht Frankfurt, 1 - 0",Regular,426,home,2449,1,away,2462,0
+Played,34,181137,2018-05-12 13:30:00,2446,BayArena,2517041,"Bayer Leverkusen - Hannover 96, 3 - 2",Regular,426,away,2455,2,home,2446,3
+Played,34,181137,2018-05-12 13:30:00,2450,Volksparkstadion,2517042,"Hamburger SV - Borussia M'gladbach, 2 - 1",Regular,426,away,2454,1,home,2450,2
+Played,34,181137,2018-05-12 13:30:00,2443,OPEL ARENA,2517043,"Mainz 05 - Werder Bremen, 1 - 2",Regular,426,away,2443,2,home,2460,1
+Played,34,181137,2018-05-12 13:30:00,2451,VOLKSWAGEN ARENA,2517044,"Wolfsburg - K\u00f6ln, 4 - 1",Regular,426,home,2451,4,away,2463,1
+Played,33,181137,2018-05-05 13:30:00,2460,Signal-Iduna-Park,2517027,"Borussia Dortmund - Mainz 05, 1 - 2",Regular,426,home,2447,1,away,2460,2
+Played,33,181137,2018-05-05 13:30:00,2975,Red Bull Arena,2517028,"RB Leipzig - Wolfsburg, 4 - 1",Regular,426,home,2975,4,away,2451,1
+Played,33,181137,2018-05-05 13:30:00,2444,RheinEnergieStadion,2517029,"K\u00f6ln - Bayern M\u00fcnchen, 1 - 3",Regular,426,away,2444,3,home,2463,1
+Played,33,181137,2018-05-05 13:30:00,0,Weserstadion,2517030,"Werder Bremen - Bayer Leverkusen, 0 - 0",Regular,426,away,2446,0,home,2443,0
+Played,33,181137,2018-05-05 13:30:00,2454,Stadion im BORUSSIA-PARK,2517031,"Borussia M'gladbach - Freiburg, 3 - 1",Regular,426,away,2453,1,home,2454,3
+Played,33,181137,2018-05-05 13:30:00,2462,Commerzbank-Arena,2517032,"Eintracht Frankfurt - Hamburger SV, 3 - 0",Regular,426,home,2462,3,away,2450,0
+Played,33,181137,2018-05-05 13:30:00,2449,WWK Arena,2517033,"Augsburg - Schalke 04, 1 - 2",Regular,426,home,2481,1,away,2449,2
+Played,33,181137,2018-05-05 13:30:00,2455,HDI-Arena,2517034,"Hannover 96 - Hertha BSC, 3 - 1",Regular,426,away,2457,1,home,2455,3
+Played,33,181137,2018-05-05 13:30:00,2445,Mercedes-Benz-Arena,2517035,"Stuttgart - Hoffenheim, 2 - 0",Regular,426,home,2445,2,away,2482,0
+Played,32,181137,2018-04-29 16:00:00,0,Weserstadion,2517022,"Werder Bremen - Borussia Dortmund, 1 - 1",Regular,426,away,2447,1,home,2443,1
+Played,32,181137,2018-04-29 13:30:00,2460,OPEL ARENA,2517025,"Mainz 05 - RB Leipzig, 3 - 0",Regular,426,away,2975,0,home,2460,3
+Played,32,181137,2018-04-28 16:30:00,2445,BayArena,2517024,"Bayer Leverkusen - Stuttgart, 0 - 1",Regular,426,away,2445,1,home,2446,0
+Played,32,181137,2018-04-28 13:30:00,2444,Allianz Arena,2517018,"Bayern M\u00fcnchen - Eintracht Frankfurt, 4 - 1",Regular,426,home,2444,4,away,2462,1
+Played,32,181137,2018-04-28 13:30:00,0,Olympiastadion Berlin,2517020,"Hertha BSC - Augsburg, 2 - 2",Regular,426,home,2457,2,away,2481,2
+Played,32,181137,2018-04-28 13:30:00,2453,Schwarzwald-Stadion,2517021,"Freiburg - K\u00f6ln, 3 - 2",Regular,426,home,2453,3,away,2463,2
+Played,32,181137,2018-04-28 13:30:00,0,VELTINS-Arena,2517023,"Schalke 04 - Borussia M'gladbach, 1 - 1",Regular,426,home,2449,1,away,2454,1
+Played,32,181137,2018-04-28 13:30:00,2450,VOLKSWAGEN ARENA,2517026,"Wolfsburg - Hamburger SV, 1 - 3",Regular,426,away,2450,3,home,2451,1
+Played,32,181137,2018-04-27 18:30:00,2482,WIRSOL Rhein-Neckar-Arena,2517019,"Hoffenheim - Hannover 96, 3 - 1",Regular,426,home,2482,3,away,2455,1
+Played,31,181137,2018-04-22 16:00:00,0,RheinEnergieStadion,2517011,"K\u00f6ln - Schalke 04, 2 - 2",Regular,426,away,2449,2,home,2463,2
+Played,31,181137,2018-04-22 13:30:00,2481,WWK Arena,2517014,"Augsburg - Mainz 05, 2 - 0",Regular,426,home,2481,2,away,2460,0
+Played,31,181137,2018-04-21 16:30:00,2447,Signal-Iduna-Park,2517009,"Borussia Dortmund - Bayer Leverkusen, 4 - 0",Regular,426,home,2447,4,away,2446,0
+Played,31,181137,2018-04-21 13:30:00,2482,Red Bull Arena,2517010,"RB Leipzig - Hoffenheim, 2 - 5",Regular,426,away,2482,5,home,2975,2
+Played,31,181137,2018-04-21 13:30:00,2457,Commerzbank-Arena,2517013,"Eintracht Frankfurt - Hertha BSC, 0 - 3",Regular,426,away,2457,3,home,2462,0
+Played,31,181137,2018-04-21 13:30:00,2450,Volksparkstadion,2517015,"Hamburger SV - Freiburg, 1 - 0",Regular,426,away,2453,0,home,2450,1
+Played,31,181137,2018-04-21 13:30:00,2444,HDI-Arena,2517016,"Hannover 96 - Bayern M\u00fcnchen, 0 - 3",Regular,426,away,2444,3,home,2455,0
+Played,31,181137,2018-04-21 13:30:00,2445,Mercedes-Benz-Arena,2517017,"Stuttgart - Werder Bremen, 2 - 0",Regular,426,home,2445,2,away,2443,0
+Played,31,181137,2018-04-20 18:30:00,2454,Stadion im BORUSSIA-PARK,2517012,"Borussia M'gladbach - Wolfsburg, 3 - 0",Regular,426,home,2454,3,away,2451,0
+Played,30,181137,2018-04-16 17:30:00,2460,OPEL ARENA,2517006,"Mainz 05 - Freiburg, 2 - 0",Regular,426,away,2453,0,home,2460,2
+Played,30,181137,2018-04-15 16:00:00,0,Weserstadion,2517003,"Werder Bremen - RB Leipzig, 1 - 1",Regular,426,away,2975,1,home,2443,1
+Played,30,181137,2018-04-15 13:30:00,2449,VELTINS-Arena,2517004,"Schalke 04 - Borussia Dortmund, 2 - 0",Regular,426,away,2447,0,home,2449,2
+Played,30,181137,2018-04-14 16:30:00,2444,Allianz Arena,2517000,"Bayern M\u00fcnchen - Borussia M'gladbach, 5 - 1",Regular,426,home,2444,5,away,2454,1
+Played,30,181137,2018-04-14 13:30:00,2482,WIRSOL Rhein-Neckar-Arena,2517001,"Hoffenheim - Hamburger SV, 2 - 0",Regular,426,home,2482,2,away,2450,0
+Played,30,181137,2018-04-14 13:30:00,2457,Olympiastadion Berlin,2517002,"Hertha BSC - K\u00f6ln, 2 - 1",Regular,426,home,2457,2,away,2463,1
+Played,30,181137,2018-04-14 13:30:00,2446,BayArena,2517005,"Bayer Leverkusen - Eintracht Frankfurt, 4 - 1",Regular,426,away,2462,1,home,2446,4
+Played,30,181137,2018-04-14 13:30:00,0,Mercedes-Benz-Arena,2517008,"Stuttgart - Hannover 96, 1 - 1",Regular,426,home,2445,1,away,2455,1
+Played,30,181137,2018-04-13 18:30:00,0,VOLKSWAGEN ARENA,2517007,"Wolfsburg - Augsburg, 0 - 0",Regular,426,away,2481,0,home,2451,0
+Played,29,181137,2018-04-09 18:30:00,2446,Red Bull Arena,2516992,"RB Leipzig - Bayer Leverkusen, 1 - 4",Regular,426,home,2975,1,away,2446,4
+Played,29,181137,2018-04-08 16:00:00,0,Commerzbank-Arena,2516996,"Eintracht Frankfurt - Hoffenheim, 1 - 1",Regular,426,away,2482,1,home,2462,1
+Played,29,181137,2018-04-08 13:30:00,2447,Signal-Iduna-Park,2516991,"Borussia Dortmund - Stuttgart, 3 - 0",Regular,426,away,2445,0,home,2447,3
+Played,29,181137,2018-04-07 16:30:00,0,Volksparkstadion,2516998,"Hamburger SV - Schalke 04, 3 - 2",Regular,426,away,2449,2,home,2450,3
+Played,29,181137,2018-04-07 13:30:00,0,RheinEnergieStadion,2516993,"K\u00f6ln - Mainz 05, 1 - 1",Regular,426,away,2460,1,home,2463,1
+Played,29,181137,2018-04-07 13:30:00,2451,Schwarzwald-Stadion,2516994,"Freiburg - Wolfsburg, 0 - 2",Regular,426,home,2453,0,away,2451,2
+Played,29,181137,2018-04-07 13:30:00,2454,Stadion im BORUSSIA-PARK,2516995,"Borussia M'gladbach - Hertha BSC, 2 - 1",Regular,426,away,2457,1,home,2454,2
+Played,29,181137,2018-04-07 13:30:00,2444,WWK Arena,2516997,"Augsburg - Bayern M\u00fcnchen, 1 - 4",Regular,426,away,2444,4,home,2481,1
+Played,29,181137,2018-04-06 18:30:00,2455,HDI-Arena,2516999,"Hannover 96 - Werder Bremen, 2 - 1",Regular,426,home,2455,2,away,2443,1
+Played,28,181137,2018-04-01 16:00:00,0,OPEL ARENA,2516988,"Mainz 05 - Borussia M'gladbach, 0 - 0",Regular,426,away,2454,0,home,2460,0
+Played,28,181137,2018-04-01 13:30:00,2443,Weserstadion,2516985,"Werder Bremen - Eintracht Frankfurt, 2 - 1",Regular,426,away,2462,1,home,2443,2
+Played,28,181137,2018-03-31 18:30:00,0,Olympiastadion Berlin,2516984,"Hertha BSC - Wolfsburg, 0 - 0",Regular,426,home,2457,0,away,2451,0
+Played,28,181137,2018-03-31 16:30:00,2444,Allianz Arena,2516982,"Bayern M\u00fcnchen - Borussia Dortmund, 6 - 0",Regular,426,home,2444,6,away,2447,0
+Played,28,181137,2018-03-31 13:30:00,2482,WIRSOL Rhein-Neckar-Arena,2516983,"Hoffenheim - K\u00f6ln, 6 - 0",Regular,426,home,2482,6,away,2463,0
+Played,28,181137,2018-03-31 13:30:00,2449,VELTINS-Arena,2516986,"Schalke 04 - Freiburg, 2 - 0",Regular,426,away,2453,0,home,2449,2
+Played,28,181137,2018-03-31 13:30:00,0,BayArena,2516987,"Bayer Leverkusen - Augsburg, 0 - 0",Regular,426,away,2481,0,home,2446,0
+Played,28,181137,2018-03-31 13:30:00,2975,HDI-Arena,2516989,"Hannover 96 - RB Leipzig, 2 - 3",Regular,426,away,2975,3,home,2455,2
+Played,28,181137,2018-03-31 13:30:00,0,Mercedes-Benz-Arena,2516990,"Stuttgart - Hamburger SV, 1 - 1",Regular,426,home,2445,1,away,2450,1
+Played,27,181137,2018-03-18 17:00:00,2975,Red Bull Arena,2516974,"RB Leipzig - Bayern M\u00fcnchen, 2 - 1",Regular,426,away,2444,1,home,2975,2
+Played,27,181137,2018-03-18 14:30:00,2463,RheinEnergieStadion,2516975,"K\u00f6ln - Bayer Leverkusen, 2 - 0",Regular,426,away,2446,0,home,2463,2
+Played,27,181137,2018-03-18 12:30:00,2447,Signal-Iduna-Park,2516973,"Borussia Dortmund - Hannover 96, 1 - 0",Regular,426,home,2447,1,away,2455,0
+Played,27,181137,2018-03-17 17:30:00,2449,VOLKSWAGEN ARENA,2516981,"Wolfsburg - Schalke 04, 0 - 1",Regular,426,away,2449,1,home,2451,0
+Played,27,181137,2018-03-17 14:30:00,0,Stadion im BORUSSIA-PARK,2516977,"Borussia M'gladbach - Hoffenheim, 3 - 3",Regular,426,away,2482,3,home,2454,3
+Played,27,181137,2018-03-17 14:30:00,2462,Commerzbank-Arena,2516978,"Eintracht Frankfurt - Mainz 05, 3 - 0",Regular,426,home,2462,3,away,2460,0
+Played,27,181137,2018-03-17 14:30:00,2443,WWK Arena,2516979,"Augsburg - Werder Bremen, 1 - 3",Regular,426,home,2481,1,away,2443,3
+Played,27,181137,2018-03-17 14:30:00,2457,Volksparkstadion,2516980,"Hamburger SV - Hertha BSC, 1 - 2",Regular,426,away,2457,2,home,2450,1
+Played,27,181137,2018-03-16 19:30:00,2445,Schwarzwald-Stadion,2516976,"Freiburg - Stuttgart, 1 - 2",Regular,426,away,2445,2,home,2453,1
+Played,26,181137,2018-03-12 19:30:00,2443,Weserstadion,2516968,"Werder Bremen - K\u00f6ln, 3 - 1",Regular,426,home,2443,3,away,2463,1
+Played,26,181137,2018-03-11 17:00:00,2447,Signal-Iduna-Park,2516965,"Borussia Dortmund - Eintracht Frankfurt, 3 - 2",Regular,426,home,2447,3,away,2462,2
+Played,26,181137,2018-03-11 14:30:00,0,Mercedes-Benz-Arena,2516972,"Stuttgart - RB Leipzig, 0 - 0",Regular,426,home,2445,0,away,2975,0
+Played,26,181137,2018-03-10 17:30:00,2446,BayArena,2516969,"Bayer Leverkusen - Borussia M'gladbach, 2 - 0",Regular,426,home,2446,2,away,2454,0
+Played,26,181137,2018-03-10 14:30:00,2444,Allianz Arena,2516964,"Bayern M\u00fcnchen - Hamburger SV, 6 - 0",Regular,426,home,2444,6,away,2450,0
+Played,26,181137,2018-03-10 14:30:00,2482,WIRSOL Rhein-Neckar-Arena,2516966,"Hoffenheim - Wolfsburg, 3 - 0",Regular,426,home,2482,3,away,2451,0
+Played,26,181137,2018-03-10 14:30:00,0,Olympiastadion Berlin,2516967,"Hertha BSC - Freiburg, 0 - 0",Regular,426,home,2457,0,away,2453,0
+Played,26,181137,2018-03-10 14:30:00,2481,HDI-Arena,2516971,"Hannover 96 - Augsburg, 1 - 3",Regular,426,away,2481,3,home,2455,1
+Played,26,181137,2018-03-09 19:30:00,2449,OPEL ARENA,2516970,"Mainz 05 - Schalke 04, 0 - 1",Regular,426,away,2449,1,home,2460,0
+Played,25,181137,2018-03-04 17:00:00,2444,Schwarzwald-Stadion,2516957,"Freiburg - Bayern M\u00fcnchen, 0 - 4",Regular,426,away,2444,4,home,2453,0
+Played,25,181137,2018-03-04 14:30:00,2445,RheinEnergieStadion,2516956,"K\u00f6ln - Stuttgart, 2 - 3",Regular,426,away,2445,3,home,2463,2
+Played,25,181137,2018-03-03 17:30:00,0,Red Bull Arena,2516955,"RB Leipzig - Borussia Dortmund, 1 - 1",Regular,426,away,2447,1,home,2975,1
+Played,25,181137,2018-03-03 14:30:00,2449,VELTINS-Arena,2516959,"Schalke 04 - Hertha BSC, 1 - 0",Regular,426,away,2457,0,home,2449,1
+Played,25,181137,2018-03-03 14:30:00,2462,Commerzbank-Arena,2516960,"Eintracht Frankfurt - Hannover 96, 1 - 0",Regular,426,home,2462,1,away,2455,0
+Played,25,181137,2018-03-03 14:30:00,2482,WWK Arena,2516961,"Augsburg - Hoffenheim, 0 - 2",Regular,426,away,2482,2,home,2481,0
+Played,25,181137,2018-03-03 14:30:00,0,Volksparkstadion,2516962,"Hamburger SV - Mainz 05, 0 - 0",Regular,426,home,2450,0,away,2460,0
+Played,25,181137,2018-03-03 14:30:00,2446,VOLKSWAGEN ARENA,2516963,"Wolfsburg - Bayer Leverkusen, 1 - 2",Regular,426,away,2446,2,home,2451,1
+Played,25,181137,2018-03-02 19:30:00,0,Stadion im BORUSSIA-PARK,2516958,"Borussia M'gladbach - Werder Bremen, 2 - 2",Regular,426,home,2454,2,away,2443,2
+Played,24,181137,2018-02-26 19:30:00,0,Signal-Iduna-Park,2516947,"Borussia Dortmund - Augsburg, 1 - 1",Regular,426,home,2447,1,away,2481,1
+Played,24,181137,2018-02-25 17:00:00,2463,Red Bull Arena,2516948,"RB Leipzig - K\u00f6ln, 1 - 2",Regular,426,home,2975,1,away,2463,2
+Played,24,181137,2018-02-25 14:30:00,2449,BayArena,2516951,"Bayer Leverkusen - Schalke 04, 0 - 2",Regular,426,away,2449,2,home,2446,0
+Played,24,181137,2018-02-24 17:30:00,2443,Weserstadion,2516950,"Werder Bremen - Hamburger SV, 1 - 0",Regular,426,away,2450,0,home,2443,1
+Played,24,181137,2018-02-24 14:30:00,0,Allianz Arena,2516946,"Bayern M\u00fcnchen - Hertha BSC, 0 - 0",Regular,426,home,2444,0,away,2457,0
+Played,24,181137,2018-02-24 14:30:00,0,WIRSOL Rhein-Neckar-Arena,2516949,"Hoffenheim - Freiburg, 1 - 1",Regular,426,home,2482,1,away,2453,1
+Played,24,181137,2018-02-24 14:30:00,2454,HDI-Arena,2516953,"Hannover 96 - Borussia M'gladbach, 0 - 1",Regular,426,home,2455,0,away,2454,1
+Played,24,181137,2018-02-24 14:30:00,2445,Mercedes-Benz-Arena,2516954,"Stuttgart - Eintracht Frankfurt, 1 - 0",Regular,426,home,2445,1,away,2462,0
+Played,24,181137,2018-02-23 19:30:00,0,OPEL ARENA,2516952,"Mainz 05 - Wolfsburg, 1 - 1",Regular,426,home,2460,1,away,2451,1
+Played,23,181137,2018-02-19 19:30:00,2462,Commerzbank-Arena,2516942,"Eintracht Frankfurt - RB Leipzig, 2 - 1",Regular,426,away,2975,1,home,2462,2
+Played,23,181137,2018-02-18 17:00:00,2447,Stadion im BORUSSIA-PARK,2516940,"Borussia M'gladbach - Borussia Dortmund, 0 - 1",Regular,426,away,2447,1,home,2454,0
+Played,23,181137,2018-02-18 14:30:00,2445,WWK Arena,2516943,"Augsburg - Stuttgart, 0 - 1",Regular,426,away,2445,1,home,2481,0
+Played,23,181137,2018-02-17 17:30:00,0,VELTINS-Arena,2516941,"Schalke 04 - Hoffenheim, 2 - 1",Regular,426,away,2482,1,home,2449,2
+Played,23,181137,2018-02-17 14:30:00,0,RheinEnergieStadion,2516937,"K\u00f6ln - Hannover 96, 1 - 1",Regular,426,away,2455,1,home,2463,1
+Played,23,181137,2018-02-17 14:30:00,2453,Schwarzwald-Stadion,2516939,"Freiburg - Werder Bremen, 1 - 0",Regular,426,home,2453,1,away,2443,0
+Played,23,181137,2018-02-17 14:30:00,2446,Volksparkstadion,2516944,"Hamburger SV - Bayer Leverkusen, 1 - 2",Regular,426,away,2446,2,home,2450,1
+Played,23,181137,2018-02-17 14:30:00,2444,VOLKSWAGEN ARENA,2516945,"Wolfsburg - Bayern M\u00fcnchen, 1 - 2",Regular,426,away,2444,2,home,2451,1
+Played,23,181137,2018-02-16 19:30:00,2460,Olympiastadion Berlin,2516938,"Hertha BSC - Mainz 05, 0 - 2",Regular,426,home,2457,0,away,2460,2
+Played,22,181137,2018-02-11 17:00:00,2443,Weserstadion,2516932,"Werder Bremen - Wolfsburg, 3 - 1",Regular,426,home,2443,3,away,2451,1
+Played,22,181137,2018-02-11 14:30:00,2445,Mercedes-Benz-Arena,2516936,"Stuttgart - Borussia M'gladbach, 1 - 0",Regular,426,home,2445,1,away,2454,0
+Played,22,181137,2018-02-10 17:30:00,2444,Allianz Arena,2516928,"Bayern M\u00fcnchen - Schalke 04, 2 - 1",Regular,426,home,2444,2,away,2449,1
+Played,22,181137,2018-02-10 14:30:00,2447,Signal-Iduna-Park,2516929,"Borussia Dortmund - Hamburger SV, 2 - 0",Regular,426,home,2447,2,away,2450,0
+Played,22,181137,2018-02-10 14:30:00,2482,WIRSOL Rhein-Neckar-Arena,2516931,"Hoffenheim - Mainz 05, 4 - 2",Regular,426,home,2482,4,away,2460,2
+Played,22,181137,2018-02-10 14:30:00,2462,Commerzbank-Arena,2516933,"Eintracht Frankfurt - K\u00f6ln, 4 - 2",Regular,426,home,2462,4,away,2463,2
+Played,22,181137,2018-02-10 14:30:00,2457,BayArena,2516934,"Bayer Leverkusen - Hertha BSC, 0 - 2",Regular,426,away,2457,2,home,2446,0
+Played,22,181137,2018-02-10 14:30:00,2455,HDI-Arena,2516935,"Hannover 96 - Freiburg, 2 - 1",Regular,426,away,2453,1,home,2455,2
+Played,22,181137,2018-02-09 19:30:00,2975,Red Bull Arena,2516930,"RB Leipzig - Augsburg, 2 - 0",Regular,426,home,2975,2,away,2481,0
+Played,21,181137,2018-02-04 17:00:00,0,Volksparkstadion,2516925,"Hamburger SV - Hannover 96, 1 - 1",Regular,426,away,2455,1,home,2450,1
+Played,21,181137,2018-02-04 14:30:00,2481,WWK Arena,2516924,"Augsburg - Eintracht Frankfurt, 3 - 0",Regular,426,home,2481,3,away,2462,0
+Played,21,181137,2018-02-03 17:30:00,2975,Stadion im BORUSSIA-PARK,2516922,"Borussia M'gladbach - RB Leipzig, 0 - 1",Regular,426,away,2975,1,home,2454,0
+Played,21,181137,2018-02-03 14:30:00,0,Olympiastadion Berlin,2516920,"Hertha BSC - Hoffenheim, 1 - 1",Regular,426,away,2482,1,home,2457,1
+Played,21,181137,2018-02-03 14:30:00,0,Schwarzwald-Stadion,2516921,"Freiburg - Bayer Leverkusen, 0 - 0",Regular,426,home,2453,0,away,2446,0
+Played,21,181137,2018-02-03 14:30:00,2443,VELTINS-Arena,2516923,"Schalke 04 - Werder Bremen, 1 - 2",Regular,426,home,2449,1,away,2443,2
+Played,21,181137,2018-02-03 14:30:00,2444,OPEL ARENA,2516926,"Mainz 05 - Bayern M\u00fcnchen, 0 - 2",Regular,426,away,2444,2,home,2460,0
+Played,21,181137,2018-02-03 14:30:00,0,VOLKSWAGEN ARENA,2516927,"Wolfsburg - Stuttgart, 1 - 1",Regular,426,away,2445,1,home,2451,1
+Played,21,181137,2018-02-02 19:30:00,2447,RheinEnergieStadion,2516919,"K\u00f6ln - Borussia Dortmund, 2 - 3",Regular,426,away,2447,3,home,2463,2
+Played,20,181137,2018-01-28 17:00:00,2451,HDI-Arena,2516917,"Hannover 96 - Wolfsburg, 0 - 1",Regular,426,home,2455,0,away,2451,1
+Played,20,181137,2018-01-28 14:30:00,2446,BayArena,2516916,"Bayer Leverkusen - Mainz 05, 2 - 0",Regular,426,home,2446,2,away,2460,0
+Played,20,181137,2018-01-27 17:30:00,0,Weserstadion,2516914,"Werder Bremen - Hertha BSC, 0 - 0",Regular,426,away,2457,0,home,2443,0
+Played,20,181137,2018-01-27 14:30:00,2444,Allianz Arena,2516910,"Bayern M\u00fcnchen - Hoffenheim, 5 - 2",Regular,426,home,2444,5,away,2482,2
+Played,20,181137,2018-01-27 14:30:00,0,Signal-Iduna-Park,2516911,"Borussia Dortmund - Freiburg, 2 - 2",Regular,426,home,2447,2,away,2453,2
+Played,20,181137,2018-01-27 14:30:00,0,Red Bull Arena,2516912,"RB Leipzig - Hamburger SV, 1 - 1",Regular,426,home,2975,1,away,2450,1
+Played,20,181137,2018-01-27 14:30:00,0,RheinEnergieStadion,2516913,"K\u00f6ln - Augsburg, 1 - 1",Regular,426,away,2481,1,home,2463,1
+Played,20,181137,2018-01-27 14:30:00,2449,Mercedes-Benz-Arena,2516918,"Stuttgart - Schalke 04, 0 - 2",Regular,426,home,2445,0,away,2449,2
+Played,20,181137,2018-01-26 19:30:00,2462,Commerzbank-Arena,2516915,"Eintracht Frankfurt - Borussia M'gladbach, 2 - 0",Regular,426,home,2462,2,away,2454,0
+Played,19,181137,2018-01-21 17:00:00,0,VELTINS-Arena,2516906,"Schalke 04 - Hannover 96, 1 - 1",Regular,426,home,2449,1,away,2455,1
+Played,19,181137,2018-01-21 14:30:00,2444,Allianz Arena,2516901,"Bayern M\u00fcnchen - Werder Bremen, 4 - 2",Regular,426,home,2444,4,away,2443,2
+Played,19,181137,2018-01-20 17:30:00,2463,Volksparkstadion,2516907,"Hamburger SV - K\u00f6ln, 0 - 2",Regular,426,home,2450,0,away,2463,2
+Played,19,181137,2018-01-20 14:30:00,2446,WIRSOL Rhein-Neckar-Arena,2516902,"Hoffenheim - Bayer Leverkusen, 1 - 4",Regular,426,home,2482,1,away,2446,4
+Played,19,181137,2018-01-20 14:30:00,2453,Schwarzwald-Stadion,2516904,"Freiburg - RB Leipzig, 2 - 1",Regular,426,away,2975,1,home,2453,2
+Played,19,181137,2018-01-20 14:30:00,2454,Stadion im BORUSSIA-PARK,2516905,"Borussia M'gladbach - Augsburg, 2 - 0",Regular,426,away,2481,0,home,2454,2
+Played,19,181137,2018-01-20 14:30:00,2460,OPEL ARENA,2516908,"Mainz 05 - Stuttgart, 3 - 2",Regular,426,away,2445,2,home,2460,3
+Played,19,181137,2018-01-20 14:30:00,2462,VOLKSWAGEN ARENA,2516909,"Wolfsburg - Eintracht Frankfurt, 1 - 3",Regular,426,away,2462,3,home,2451,1
+Played,19,181137,2018-01-19 19:30:00,0,Olympiastadion Berlin,2516903,"Hertha BSC - Borussia Dortmund, 1 - 1",Regular,426,away,2447,1,home,2457,1
+Played,18,181137,2018-01-14 17:00:00,0,Signal-Iduna-Park,2516892,"Borussia Dortmund - Wolfsburg, 0 - 0",Regular,426,home,2447,0,away,2451,0
+Played,18,181137,2018-01-14 14:30:00,2463,RheinEnergieStadion,2516894,"K\u00f6ln - Borussia M'gladbach, 2 - 1",Regular,426,away,2454,1,home,2463,2
+Played,18,181137,2018-01-13 17:30:00,2975,Red Bull Arena,2516893,"RB Leipzig - Schalke 04, 3 - 1",Regular,426,home,2975,3,away,2449,1
+Played,18,181137,2018-01-13 14:30:00,0,Commerzbank-Arena,2516896,"Eintracht Frankfurt - Freiburg, 1 - 1",Regular,426,away,2453,1,home,2462,1
+Played,18,181137,2018-01-13 14:30:00,0,Weserstadion,2516895,"Werder Bremen - Hoffenheim, 1 - 1",Regular,426,away,2482,1,home,2443,1
+Played,18,181137,2018-01-13 14:30:00,2481,WWK Arena,2516898,"Augsburg - Hamburger SV, 1 - 0",Regular,426,home,2481,1,away,2450,0
+Played,18,181137,2018-01-13 14:30:00,2455,HDI-Arena,2516899,"Hannover 96 - Mainz 05, 3 - 2",Regular,426,home,2455,3,away,2460,2
+Played,18,181137,2018-01-13 14:30:00,2445,Mercedes-Benz-Arena,2516900,"Stuttgart - Hertha BSC, 1 - 0",Regular,426,home,2445,1,away,2457,0
+Played,18,181137,2018-01-12 19:30:00,2444,BayArena,2516897,"Bayer Leverkusen - Bayern M\u00fcnchen, 1 - 3",Regular,426,away,2444,3,home,2446,1
+Played,17,181137,2017-12-17 17:00:00,2457,Red Bull Arena,2516884,"RB Leipzig - Hertha BSC, 2 - 3",Regular,426,away,2457,3,home,2975,2
+Played,17,181137,2017-12-17 14:30:00,0,HDI-Arena,2516890,"Hannover 96 - Bayer Leverkusen, 4 - 4",Regular,426,home,2455,4,away,2446,4
+Played,17,181137,2017-12-16 17:30:00,2447,Signal-Iduna-Park,2516883,"Borussia Dortmund - Hoffenheim, 2 - 1",Regular,426,away,2482,1,home,2447,2
+Played,17,181137,2017-12-16 14:30:00,0,Commerzbank-Arena,2516888,"Eintracht Frankfurt - Schalke 04, 2 - 2",Regular,426,away,2449,2,home,2462,2
+Played,17,181137,2017-12-16 14:30:00,2463,RheinEnergieStadion,2516885,"K\u00f6ln - Wolfsburg, 1 - 0",Regular,426,away,2451,0,home,2463,1
+Played,17,181137,2017-12-16 14:30:00,0,Weserstadion,2516886,"Werder Bremen - Mainz 05, 2 - 2",Regular,426,home,2443,2,away,2460,2
+Played,17,181137,2017-12-16 14:30:00,0,WWK Arena,2516889,"Augsburg - Freiburg, 3 - 3",Regular,426,away,2453,3,home,2481,3
+Played,17,181137,2017-12-16 14:30:00,2444,Mercedes-Benz-Arena,2516891,"Stuttgart - Bayern M\u00fcnchen, 0 - 1",Regular,426,away,2444,1,home,2445,0
+Played,17,181137,2017-12-15 19:30:00,2454,Stadion im BORUSSIA-PARK,2516887,"Borussia M'gladbach - Hamburger SV, 3 - 1",Regular,426,home,2454,3,away,2450,1
+Played,16,181137,2017-12-13 19:30:00,2444,Allianz Arena,2516874,"Bayern M\u00fcnchen - K\u00f6ln, 1 - 0",Regular,426,home,2444,1,away,2463,0
+Played,16,181137,2017-12-13 19:30:00,2457,Olympiastadion Berlin,2516876,"Hertha BSC - Hannover 96, 3 - 1",Regular,426,home,2457,3,away,2455,1
+Played,16,181137,2017-12-13 19:30:00,2449,VELTINS-Arena,2516878,"Schalke 04 - Augsburg, 3 - 2",Regular,426,away,2481,2,home,2449,3
+Played,16,181137,2017-12-13 19:30:00,2446,BayArena,2516879,"Bayer Leverkusen - Werder Bremen, 1 - 0",Regular,426,home,2446,1,away,2443,0
+Played,16,181137,2017-12-13 17:30:00,2482,WIRSOL Rhein-Neckar-Arena,2516875,"Hoffenheim - Stuttgart, 1 - 0",Regular,426,away,2445,0,home,2482,1
+Played,16,181137,2017-12-12 19:30:00,2462,Volksparkstadion,2516880,"Hamburger SV - Eintracht Frankfurt, 1 - 2",Regular,426,away,2462,2,home,2450,1
+Played,16,181137,2017-12-12 19:30:00,2447,OPEL ARENA,2516881,"Mainz 05 - Borussia Dortmund, 0 - 2",Regular,426,away,2447,2,home,2460,0
+Played,16,181137,2017-12-12 19:30:00,2453,Schwarzwald-Stadion,2516877,"Freiburg - Borussia M'gladbach, 1 - 0",Regular,426,home,2453,1,away,2454,0
+Played,16,181137,2017-12-12 17:30:00,0,VOLKSWAGEN ARENA,2516882,"Wolfsburg - RB Leipzig, 1 - 1",Regular,426,away,2975,1,home,2451,1
+Played,15,181137,2017-12-10 17:00:00,0,WWK Arena,2516870,"Augsburg - Hertha BSC, 1 - 1",Regular,426,away,2457,1,home,2481,1
+Played,15,181137,2017-12-10 14:30:00,2455,HDI-Arena,2516872,"Hannover 96 - Hoffenheim, 2 - 0",Regular,426,away,2482,0,home,2455,2
+Played,15,181137,2017-12-10 12:30:00,2453,RheinEnergieStadion,2516867,"K\u00f6ln - Freiburg, 3 - 4",Regular,426,away,2453,4,home,2463,3
+Played,15,181137,2017-12-09 17:30:00,0,Stadion im BORUSSIA-PARK,2516868,"Borussia M'gladbach - Schalke 04, 1 - 1",Regular,426,away,2449,1,home,2454,1
+Played,15,181137,2017-12-09 14:30:00,2443,Signal-Iduna-Park,2516865,"Borussia Dortmund - Werder Bremen, 1 - 2",Regular,426,home,2447,1,away,2443,2
+Played,15,181137,2017-12-09 14:30:00,0,Red Bull Arena,2516866,"RB Leipzig - Mainz 05, 2 - 2",Regular,426,home,2975,2,away,2460,2
+Played,15,181137,2017-12-09 14:30:00,2444,Commerzbank-Arena,2516869,"Eintracht Frankfurt - Bayern M\u00fcnchen, 0 - 1",Regular,426,away,2444,1,home,2462,0
+Played,15,181137,2017-12-09 14:30:00,0,Volksparkstadion,2516871,"Hamburger SV - Wolfsburg, 0 - 0",Regular,426,home,2450,0,away,2451,0
+Played,15,181137,2017-12-08 19:30:00,2446,Mercedes-Benz-Arena,2516873,"Stuttgart - Bayer Leverkusen, 0 - 2",Regular,426,home,2445,0,away,2446,2
+Played,14,181137,2017-12-03 17:00:00,2451,VOLKSWAGEN ARENA,2516864,"Wolfsburg - Borussia M'gladbach, 3 - 0",Regular,426,away,2454,0,home,2451,3
+Played,14,181137,2017-12-03 14:30:00,2462,Olympiastadion Berlin,2516858,"Hertha BSC - Eintracht Frankfurt, 1 - 2",Regular,426,home,2457,1,away,2462,2
+Played,14,181137,2017-12-02 17:30:00,0,VELTINS-Arena,2516861,"Schalke 04 - K\u00f6ln, 2 - 2",Regular,426,home,2449,2,away,2463,2
+Played,14,181137,2017-12-02 14:30:00,2444,Allianz Arena,2516856,"Bayern M\u00fcnchen - Hannover 96, 3 - 1",Regular,426,home,2444,3,away,2455,1
+Played,14,181137,2017-12-02 14:30:00,2482,WIRSOL Rhein-Neckar-Arena,2516857,"Hoffenheim - RB Leipzig, 4 - 0",Regular,426,home,2482,4,away,2975,0
+Played,14,181137,2017-12-02 14:30:00,2443,Weserstadion,2516860,"Werder Bremen - Stuttgart, 1 - 0",Regular,426,away,2445,0,home,2443,1
+Played,14,181137,2017-12-02 14:30:00,0,BayArena,2516862,"Bayer Leverkusen - Borussia Dortmund, 1 - 1",Regular,426,away,2447,1,home,2446,1
+Played,14,181137,2017-12-02 14:30:00,2481,OPEL ARENA,2516863,"Mainz 05 - Augsburg, 1 - 3",Regular,426,away,2481,3,home,2460,1
+Played,14,181137,2017-12-01 19:30:00,0,Schwarzwald-Stadion,2516859,"Freiburg - Hamburger SV, 0 - 0",Regular,426,home,2453,0,away,2450,0
+Played,13,181137,2017-11-26 17:00:00,2457,RheinEnergieStadion,2516849,"K\u00f6ln - Hertha BSC, 0 - 2",Regular,426,away,2457,2,home,2463,0
+Played,13,181137,2017-11-26 14:30:00,2450,Volksparkstadion,2516854,"Hamburger SV - Hoffenheim, 3 - 0",Regular,426,away,2482,0,home,2450,3
+Played,13,181137,2017-11-25 17:30:00,2454,Stadion im BORUSSIA-PARK,2516851,"Borussia M'gladbach - Bayern M\u00fcnchen, 2 - 1",Regular,426,away,2444,1,home,2454,2
+Played,13,181137,2017-11-25 14:30:00,0,Signal-Iduna-Park,2516847,"Borussia Dortmund - Schalke 04, 4 - 4",Regular,426,home,2447,4,away,2449,4
+Played,13,181137,2017-11-25 14:30:00,2975,Red Bull Arena,2516848,"RB Leipzig - Werder Bremen, 2 - 0",Regular,426,home,2975,2,away,2443,0
+Played,13,181137,2017-11-25 14:30:00,2453,Schwarzwald-Stadion,2516850,"Freiburg - Mainz 05, 2 - 1",Regular,426,home,2453,2,away,2460,1
+Played,13,181137,2017-11-25 14:30:00,2481,WWK Arena,2516853,"Augsburg - Wolfsburg, 2 - 1",Regular,426,home,2481,2,away,2451,1
+Played,13,181137,2017-11-25 14:30:00,2446,Commerzbank-Arena,2516852,"Eintracht Frankfurt - Bayer Leverkusen, 0 - 1",Regular,426,home,2462,0,away,2446,1
+Played,13,181137,2017-11-24 19:30:00,0,HDI-Arena,2516855,"Hannover 96 - Stuttgart, 1 - 1",Regular,426,away,2445,1,home,2455,1
+Played,12,181137,2017-11-19 17:00:00,2443,Weserstadion,2516841,"Werder Bremen - Hannover 96, 4 - 0",Regular,426,away,2455,0,home,2443,4
+Played,12,181137,2017-11-19 14:30:00,2449,VELTINS-Arena,2516842,"Schalke 04 - Hamburger SV, 2 - 0",Regular,426,home,2449,2,away,2450,0
+Played,12,181137,2017-11-18 17:30:00,2454,Olympiastadion Berlin,2516840,"Hertha BSC - Borussia M'gladbach, 2 - 4",Regular,426,home,2457,2,away,2454,4
+Played,12,181137,2017-11-18 14:30:00,2444,Allianz Arena,2516838,"Bayern M\u00fcnchen - Augsburg, 3 - 0",Regular,426,home,2444,3,away,2481,0
+Played,12,181137,2017-11-18 14:30:00,0,WIRSOL Rhein-Neckar-Arena,2516839,"Hoffenheim - Eintracht Frankfurt, 1 - 1",Regular,426,home,2482,1,away,2462,1
+Played,12,181137,2017-11-18 14:30:00,0,BayArena,2516843,"Bayer Leverkusen - RB Leipzig, 2 - 2",Regular,426,away,2975,2,home,2446,2
+Played,12,181137,2017-11-18 14:30:00,2460,OPEL ARENA,2516844,"Mainz 05 - K\u00f6ln, 1 - 0",Regular,426,home,2460,1,away,2463,0
+Played,12,181137,2017-11-18 14:30:00,2451,VOLKSWAGEN ARENA,2516845,"Wolfsburg - Freiburg, 3 - 1",Regular,426,away,2453,1,home,2451,3
+Played,12,181137,2017-11-17 19:30:00,2445,Mercedes-Benz-Arena,2516846,"Stuttgart - Borussia Dortmund, 2 - 1",Regular,426,home,2445,2,away,2447,1
+Played,11,181137,2017-11-05 17:00:00,0,VOLKSWAGEN ARENA,2516837,"Wolfsburg - Hertha BSC, 3 - 3",Regular,426,away,2457,3,home,2451,3
+Played,11,181137,2017-11-05 14:30:00,2482,RheinEnergieStadion,2516831,"K\u00f6ln - Hoffenheim, 0 - 3",Regular,426,away,2482,3,home,2463,0
+Played,11,181137,2017-11-04 17:30:00,2444,Signal-Iduna-Park,2516829,"Borussia Dortmund - Bayern M\u00fcnchen, 1 - 3",Regular,426,away,2444,3,home,2447,1
+Played,11,181137,2017-11-04 14:30:00,2975,Red Bull Arena,2516830,"RB Leipzig - Hannover 96, 2 - 1",Regular,426,home,2975,2,away,2455,1
+Played,11,181137,2017-11-04 14:30:00,2449,Schwarzwald-Stadion,2516832,"Freiburg - Schalke 04, 0 - 1",Regular,426,home,2453,0,away,2449,1
+Played,11,181137,2017-11-04 14:30:00,0,Stadion im BORUSSIA-PARK,2516833,"Borussia M'gladbach - Mainz 05, 1 - 1",Regular,426,home,2454,1,away,2460,1
+Played,11,181137,2017-11-04 14:30:00,0,WWK Arena,2516835,"Augsburg - Bayer Leverkusen, 1 - 1",Regular,426,home,2481,1,away,2446,1
+Played,11,181137,2017-11-04 14:30:00,2450,Volksparkstadion,2516836,"Hamburger SV - Stuttgart, 3 - 1",Regular,426,away,2445,1,home,2450,3
+Played,11,181137,2017-11-03 19:30:00,2462,Commerzbank-Arena,2516834,"Eintracht Frankfurt - Werder Bremen, 2 - 1",Regular,426,home,2462,2,away,2443,1
+Played,10,181137,2017-10-29 17:00:00,2445,Mercedes-Benz-Arena,2516828,"Stuttgart - Freiburg, 3 - 0",Regular,426,home,2445,3,away,2453,0
+Played,10,181137,2017-10-29 14:30:00,2481,Weserstadion,2516823,"Werder Bremen - Augsburg, 0 - 3",Regular,426,away,2481,3,home,2443,0
+Played,10,181137,2017-10-28 16:30:00,2444,Allianz Arena,2516820,"Bayern M\u00fcnchen - RB Leipzig, 2 - 0",Regular,426,home,2444,2,away,2975,0
+Played,10,181137,2017-10-28 13:30:00,2454,WIRSOL Rhein-Neckar-Arena,2516821,"Hoffenheim - Borussia M'gladbach, 1 - 3",Regular,426,home,2482,1,away,2454,3
+Played,10,181137,2017-10-28 13:30:00,2457,Olympiastadion Berlin,2516822,"Hertha BSC - Hamburger SV, 2 - 1",Regular,426,home,2457,2,away,2450,1
+Played,10,181137,2017-10-28 13:30:00,0,VELTINS-Arena,2516824,"Schalke 04 - Wolfsburg, 1 - 1",Regular,426,home,2449,1,away,2451,1
+Played,10,181137,2017-10-28 13:30:00,2446,BayArena,2516825,"Bayer Leverkusen - K\u00f6ln, 2 - 1",Regular,426,home,2446,2,away,2463,1
+Played,10,181137,2017-10-28 13:30:00,2455,HDI-Arena,2516827,"Hannover 96 - Borussia Dortmund, 4 - 2",Regular,426,away,2447,2,home,2455,4
+Played,10,181137,2017-10-27 18:30:00,0,OPEL ARENA,2516826,"Mainz 05 - Eintracht Frankfurt, 1 - 1",Regular,426,away,2462,1,home,2460,1
+Played,9,181137,2017-10-22 16:00:00,0,VOLKSWAGEN ARENA,2516819,"Wolfsburg - Hoffenheim, 1 - 1",Regular,426,away,2482,1,home,2451,1
+Played,9,181137,2017-10-22 13:30:00,0,Schwarzwald-Stadion,2516813,"Freiburg - Hertha BSC, 1 - 1",Regular,426,away,2457,1,home,2453,1
+Played,9,181137,2017-10-22 11:30:00,0,RheinEnergieStadion,2516812,"K\u00f6ln - Werder Bremen, 0 - 0",Regular,426,away,2443,0,home,2463,0
+Played,9,181137,2017-10-21 16:30:00,2444,Volksparkstadion,2516818,"Hamburger SV - Bayern M\u00fcnchen, 0 - 1",Regular,426,away,2444,1,home,2450,0
+Played,9,181137,2017-10-21 13:30:00,2975,Red Bull Arena,2516811,"RB Leipzig - Stuttgart, 1 - 0",Regular,426,away,2445,0,home,2975,1
+Played,9,181137,2017-10-21 13:30:00,2446,Stadion im BORUSSIA-PARK,2516814,"Borussia M'gladbach - Bayer Leverkusen, 1 - 5",Regular,426,away,2446,5,home,2454,1
+Played,9,181137,2017-10-21 13:30:00,0,Commerzbank-Arena,2516816,"Eintracht Frankfurt - Borussia Dortmund, 2 - 2",Regular,426,away,2447,2,home,2462,2
+Played,9,181137,2017-10-21 13:30:00,2455,WWK Arena,2516817,"Augsburg - Hannover 96, 1 - 2",Regular,426,home,2481,1,away,2455,2
+Played,9,181137,2017-10-20 18:30:00,2449,VELTINS-Arena,2516815,"Schalke 04 - Mainz 05, 2 - 0",Regular,426,home,2449,2,away,2460,0
+Played,8,181137,2017-10-15 16:00:00,2454,Weserstadion,2516806,"Werder Bremen - Borussia M'gladbach, 0 - 2",Regular,426,away,2454,2,home,2443,0
+Played,8,181137,2017-10-15 13:30:00,0,BayArena,2516807,"Bayer Leverkusen - Wolfsburg, 2 - 2",Regular,426,home,2446,2,away,2451,2
+Played,8,181137,2017-10-14 16:30:00,2975,Signal-Iduna-Park,2516803,"Borussia Dortmund - RB Leipzig, 2 - 3",Regular,426,home,2447,2,away,2975,3
+Played,8,181137,2017-10-14 13:30:00,2444,Allianz Arena,2516802,"Bayern M\u00fcnchen - Freiburg, 5 - 0",Regular,426,home,2444,5,away,2453,0
+Played,8,181137,2017-10-14 13:30:00,0,WIRSOL Rhein-Neckar-Arena,2516804,"Hoffenheim - Augsburg, 2 - 2",Regular,426,home,2482,2,away,2481,2
+Played,8,181137,2017-10-14 13:30:00,2449,Olympiastadion Berlin,2516805,"Hertha BSC - Schalke 04, 0 - 2",Regular,426,home,2457,0,away,2449,2
+Played,8,181137,2017-10-14 13:30:00,2460,OPEL ARENA,2516808,"Mainz 05 - Hamburger SV, 3 - 2",Regular,426,away,2450,2,home,2460,3
+Played,8,181137,2017-10-14 13:30:00,2462,HDI-Arena,2516809,"Hannover 96 - Eintracht Frankfurt, 1 - 2",Regular,426,away,2462,2,home,2455,1
+Played,8,181137,2017-10-13 18:30:00,2445,Mercedes-Benz-Arena,2516810,"Stuttgart - K\u00f6ln, 2 - 1",Regular,426,home,2445,2,away,2463,1
+Played,7,181137,2017-10-01 16:00:00,2975,RheinEnergieStadion,2516793,"K\u00f6ln - RB Leipzig, 1 - 2",Regular,426,away,2975,2,home,2463,1
+Played,7,181137,2017-10-01 13:30:00,0,Olympiastadion Berlin,2516794,"Hertha BSC - Bayern M\u00fcnchen, 2 - 2",Regular,426,away,2444,2,home,2457,2
+Played,7,181137,2017-10-01 11:30:00,2453,Schwarzwald-Stadion,2516795,"Freiburg - Hoffenheim, 3 - 2",Regular,426,away,2482,2,home,2453,3
+Played,7,181137,2017-09-30 16:30:00,0,Volksparkstadion,2516800,"Hamburger SV - Werder Bremen, 0 - 0",Regular,426,home,2450,0,away,2443,0
+Played,7,181137,2017-09-30 13:30:00,2454,Stadion im BORUSSIA-PARK,2516796,"Borussia M'gladbach - Hannover 96, 2 - 1",Regular,426,away,2455,1,home,2454,2
+Played,7,181137,2017-09-30 13:30:00,2462,Commerzbank-Arena,2516798,"Eintracht Frankfurt - Stuttgart, 2 - 1",Regular,426,away,2445,1,home,2462,2
+Played,7,181137,2017-09-30 13:30:00,2447,WWK Arena,2516799,"Augsburg - Borussia Dortmund, 1 - 2",Regular,426,away,2447,2,home,2481,1
+Played,7,181137,2017-09-30 13:30:00,0,VOLKSWAGEN ARENA,2516801,"Wolfsburg - Mainz 05, 1 - 1",Regular,426,away,2460,1,home,2451,1
+Played,7,181137,2017-09-29 18:30:00,0,VELTINS-Arena,2516797,"Schalke 04 - Bayer Leverkusen, 1 - 1",Regular,426,home,2449,1,away,2446,1
+Played,6,181137,2017-09-24 16:00:00,2446,BayArena,2516789,"Bayer Leverkusen - Hamburger SV, 3 - 0",Regular,426,home,2446,3,away,2450,0
+Played,6,181137,2017-09-24 13:30:00,0,HDI-Arena,2516791,"Hannover 96 - K\u00f6ln, 0 - 0",Regular,426,home,2455,0,away,2463,0
+Played,6,181137,2017-09-23 16:30:00,2447,Signal-Iduna-Park,2516785,"Borussia Dortmund - Borussia M'gladbach, 6 - 1",Regular,426,home,2447,6,away,2454,1
+Played,6,181137,2017-09-23 13:30:00,2975,Red Bull Arena,2516786,"RB Leipzig - Eintracht Frankfurt, 2 - 1",Regular,426,home,2975,2,away,2462,1
+Played,6,181137,2017-09-23 13:30:00,2482,WIRSOL Rhein-Neckar-Arena,2516787,"Hoffenheim - Schalke 04, 2 - 0",Regular,426,home,2482,2,away,2449,0
+Played,6,181137,2017-09-23 13:30:00,0,Weserstadion,2516788,"Werder Bremen - Freiburg, 0 - 0",Regular,426,away,2453,0,home,2443,0
+Played,6,181137,2017-09-23 13:30:00,2460,OPEL ARENA,2516790,"Mainz 05 - Hertha BSC, 1 - 0",Regular,426,away,2457,0,home,2460,1
+Played,6,181137,2017-09-23 13:30:00,0,Mercedes-Benz-Arena,2516792,"Stuttgart - Augsburg, 0 - 0",Regular,426,home,2445,0,away,2481,0
+Played,6,181137,2017-09-22 18:30:00,0,Allianz Arena,2516784,"Bayern M\u00fcnchen - Wolfsburg, 2 - 2",Regular,426,home,2444,2,away,2451,2
+Played,5,181137,2017-09-20 18:30:00,2457,Olympiastadion Berlin,2516776,"Hertha BSC - Bayer Leverkusen, 2 - 1",Regular,426,home,2457,2,away,2446,1
+Played,5,181137,2017-09-20 18:30:00,0,Schwarzwald-Stadion,2516777,"Freiburg - Hannover 96, 1 - 1",Regular,426,home,2453,1,away,2455,1
+Played,5,181137,2017-09-20 18:30:00,2447,Volksparkstadion,2516781,"Hamburger SV - Borussia Dortmund, 0 - 3",Regular,426,away,2447,3,home,2450,0
+Played,5,181137,2017-09-20 18:30:00,2482,OPEL ARENA,2516782,"Mainz 05 - Hoffenheim, 2 - 3",Regular,426,away,2482,3,home,2460,2
+Played,5,181137,2017-09-20 16:30:00,2462,RheinEnergieStadion,2516775,"K\u00f6ln - Eintracht Frankfurt, 0 - 1",Regular,426,away,2462,1,home,2463,0
+Played,5,181137,2017-09-19 18:30:00,2444,VELTINS-Arena,2516779,"Schalke 04 - Bayern M\u00fcnchen, 0 - 3",Regular,426,away,2444,3,home,2449,0
+Played,5,181137,2017-09-19 18:30:00,2481,WWK Arena,2516780,"Augsburg - RB Leipzig, 1 - 0",Regular,426,away,2975,0,home,2481,1
+Played,5,181137,2017-09-19 18:30:00,0,VOLKSWAGEN ARENA,2516783,"Wolfsburg - Werder Bremen, 1 - 1",Regular,426,away,2443,1,home,2451,1
+Played,5,181137,2017-09-19 16:30:00,2454,Stadion im BORUSSIA-PARK,2516778,"Borussia M'gladbach - Stuttgart, 2 - 0",Regular,426,away,2445,0,home,2454,2
+Played,4,181137,2017-09-17 16:00:00,2447,Signal-Iduna-Park,2516767,"Borussia Dortmund - K\u00f6ln, 5 - 0",Regular,426,home,2447,5,away,2463,0
+Played,4,181137,2017-09-17 13:30:00,2446,BayArena,2516772,"Bayer Leverkusen - Freiburg, 4 - 0",Regular,426,away,2453,0,home,2446,4
+Played,4,181137,2017-09-17 11:30:00,0,WIRSOL Rhein-Neckar-Arena,2516769,"Hoffenheim - Hertha BSC, 1 - 1",Regular,426,home,2482,1,away,2457,1
+Played,4,181137,2017-09-16 16:30:00,0,Red Bull Arena,2516768,"RB Leipzig - Borussia M'gladbach, 2 - 2",Regular,426,home,2975,2,away,2454,2
+Played,4,181137,2017-09-16 13:30:00,2444,Allianz Arena,2516766,"Bayern M\u00fcnchen - Mainz 05, 4 - 0",Regular,426,home,2444,4,away,2460,0
+Played,4,181137,2017-09-16 13:30:00,2449,Weserstadion,2516770,"Werder Bremen - Schalke 04, 1 - 2",Regular,426,away,2449,2,home,2443,1
+Played,4,181137,2017-09-16 13:30:00,2481,Commerzbank-Arena,2516771,"Eintracht Frankfurt - Augsburg, 1 - 2",Regular,426,away,2481,2,home,2462,1
+Played,4,181137,2017-09-16 13:30:00,2445,Mercedes-Benz-Arena,2516774,"Stuttgart - Wolfsburg, 1 - 0",Regular,426,home,2445,1,away,2451,0
+Played,4,181137,2017-09-15 18:30:00,2455,HDI-Arena,2516773,"Hannover 96 - Hamburger SV, 2 - 0",Regular,426,home,2455,2,away,2450,0
+Played,3,181137,2017-09-10 16:00:00,2449,VELTINS-Arena,2516761,"Schalke 04 - Stuttgart, 3 - 1",Regular,426,away,2445,1,home,2449,3
+Played,3,181137,2017-09-10 13:30:00,0,Olympiastadion Berlin,2516758,"Hertha BSC - Werder Bremen, 1 - 1",Regular,426,home,2457,1,away,2443,1
+Played,3,181137,2017-09-09 16:30:00,2482,WIRSOL Rhein-Neckar-Arena,2516757,"Hoffenheim - Bayern M\u00fcnchen, 2 - 0",Regular,426,away,2444,0,home,2482,2
+Played,3,181137,2017-09-09 13:30:00,0,Schwarzwald-Stadion,2516759,"Freiburg - Borussia Dortmund, 0 - 0",Regular,426,away,2447,0,home,2453,0
+Played,3,181137,2017-09-09 13:30:00,2462,Stadion im BORUSSIA-PARK,2516760,"Borussia M'gladbach - Eintracht Frankfurt, 0 - 1",Regular,426,away,2462,1,home,2454,0
+Played,3,181137,2017-09-09 13:30:00,2481,WWK Arena,2516762,"Augsburg - K\u00f6ln, 3 - 0",Regular,426,home,2481,3,away,2463,0
+Played,3,181137,2017-09-09 13:30:00,2460,OPEL ARENA,2516764,"Mainz 05 - Bayer Leverkusen, 3 - 1",Regular,426,away,2446,1,home,2460,3
+Played,3,181137,2017-09-09 13:30:00,0,VOLKSWAGEN ARENA,2516765,"Wolfsburg - Hannover 96, 1 - 1",Regular,426,away,2455,1,home,2451,1
+Played,3,181137,2017-09-08 18:30:00,2975,Volksparkstadion,2516763,"Hamburger SV - RB Leipzig, 0 - 2",Regular,426,away,2975,2,home,2450,0
+Played,2,181137,2017-08-27 16:00:00,2455,HDI-Arena,2516755,"Hannover 96 - Schalke 04, 1 - 0",Regular,426,away,2449,0,home,2455,1
+Played,2,181137,2017-08-27 13:30:00,2975,Red Bull Arena,2516749,"RB Leipzig - Freiburg, 4 - 1",Regular,426,home,2975,4,away,2453,1
+Played,2,181137,2017-08-26 16:30:00,2447,Signal-Iduna-Park,2516748,"Borussia Dortmund - Hertha BSC, 2 - 0",Regular,426,home,2447,2,away,2457,0
+Played,2,181137,2017-08-26 13:30:00,2444,Weserstadion,2516751,"Werder Bremen - Bayern M\u00fcnchen, 0 - 2",Regular,426,away,2444,2,home,2443,0
+Played,2,181137,2017-08-26 13:30:00,2451,Commerzbank-Arena,2516752,"Eintracht Frankfurt - Wolfsburg, 0 - 1",Regular,426,home,2462,0,away,2451,1
+Played,2,181137,2017-08-26 13:30:00,0,BayArena,2516753,"Bayer Leverkusen - Hoffenheim, 2 - 2",Regular,426,away,2482,2,home,2446,2
+Played,2,181137,2017-08-26 13:30:00,0,WWK Arena,2516754,"Augsburg - Borussia M'gladbach, 2 - 2",Regular,426,home,2481,2,away,2454,2
+Played,2,181137,2017-08-26 13:30:00,2445,Mercedes-Benz-Arena,2516756,"Stuttgart - Mainz 05, 1 - 0",Regular,426,home,2445,1,away,2460,0
+Played,2,181137,2017-08-25 18:30:00,2450,RheinEnergieStadion,2516750,"K\u00f6ln - Hamburger SV, 1 - 3",Regular,426,away,2450,3,home,2463,1
+Played,1,181137,2017-08-20 16:00:00,2454,Stadion im BORUSSIA-PARK,2516743,"Borussia M'gladbach - K\u00f6ln, 1 - 0",Regular,426,home,2454,1,away,2463,0
+Played,1,181137,2017-08-20 13:30:00,0,Schwarzwald-Stadion,2516742,"Freiburg - Eintracht Frankfurt, 0 - 0",Regular,426,home,2453,0,away,2462,0
+Played,1,181137,2017-08-19 16:30:00,2449,VELTINS-Arena,2516744,"Schalke 04 - RB Leipzig, 2 - 0",Regular,426,away,2975,0,home,2449,2
+Played,1,181137,2017-08-19 13:30:00,2482,WIRSOL Rhein-Neckar-Arena,2516740,"Hoffenheim - Werder Bremen, 1 - 0",Regular,426,home,2482,1,away,2443,0
+Played,1,181137,2017-08-19 13:30:00,2457,Olympiastadion Berlin,2516741,"Hertha BSC - Stuttgart, 2 - 0",Regular,426,away,2445,0,home,2457,2
+Played,1,181137,2017-08-19 13:30:00,2450,Volksparkstadion,2516745,"Hamburger SV - Augsburg, 1 - 0",Regular,426,away,2481,0,home,2450,1
+Played,1,181137,2017-08-19 13:30:00,2455,OPEL ARENA,2516746,"Mainz 05 - Hannover 96, 0 - 1",Regular,426,away,2455,1,home,2460,0
+Played,1,181137,2017-08-19 13:30:00,2447,VOLKSWAGEN ARENA,2516747,"Wolfsburg - Borussia Dortmund, 0 - 3",Regular,426,away,2447,3,home,2451,0
+Played,1,181137,2017-08-18 18:30:00,2444,Allianz Arena,2516739,"Bayern M\u00fcnchen - Bayer Leverkusen, 3 - 1",Regular,426,home,2444,3,away,2446,1

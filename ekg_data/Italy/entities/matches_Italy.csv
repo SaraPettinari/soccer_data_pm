@@ -1,0 +1,381 @@
+status,gameweek,seasonId,dateutc,winner,venue,wyId,label,duration,competitionId,team1.side,team1.teamId,team1.score,team2.side,team2.teamId,team2.score
+Played,38,181248,2018-05-20 18:45:00,3161,,2576335,"Lazio - Internazionale, 2 - 3",Regular,524,home,3162,2,away,3161,3
+Played,38,181248,2018-05-20 18:45:00,3158,MAPEI Stadium - Citt\u00e0 del Tricolore,2576336,"Sassuolo - Roma, 0 - 1",Regular,524,away,3158,1,home,3315,0
+Played,38,181248,2018-05-20 16:00:00,3173,,2576329,"Cagliari - Atalanta, 1 - 0",Regular,524,home,3173,1,away,3172,0
+Played,38,181248,2018-05-20 16:00:00,3165,,2576330,"Chievo - Benevento, 1 - 0",Regular,524,home,3165,1,away,3219,0
+Played,38,181248,2018-05-20 16:00:00,3163,,2576331,"Udinese - Bologna, 1 - 0",Regular,524,away,3166,0,home,3163,1
+Played,38,181248,2018-05-20 16:00:00,3187,,2576332,"Napoli - Crotone, 2 - 1",Regular,524,away,3197,1,home,3187,2
+Played,38,181248,2018-05-20 16:00:00,3157,,2576333,"Milan - Fiorentina, 5 - 1",Regular,524,home,3157,5,away,3176,1
+Played,38,181248,2018-05-20 16:00:00,3204,,2576337,"SPAL - Sampdoria, 3 - 1",Regular,524,away,3164,1,home,3204,3
+Played,38,181248,2018-05-20 13:00:00,3185,,2576338,"Genoa - Torino, 1 - 2",Regular,524,away,3185,2,home,3193,1
+Played,38,181248,2018-05-19 13:00:00,3159,,2576334,"Juventus - Hellas Verona, 2 - 1",Regular,524,home,3159,2,away,3194,1
+Played,37,181248,2018-05-13 18:45:00,0,,2576322,"Roma - Juventus, 0 - 0",Regular,524,home,3158,0,away,3159,0
+Played,37,181248,2018-05-13 18:45:00,3187,,2576325,"Sampdoria - Napoli, 0 - 2",Regular,524,away,3187,2,home,3164,0
+Played,37,181248,2018-05-13 16:00:00,0,,2576324,"Atalanta - Milan, 1 - 1",Regular,524,home,3172,1,away,3157,1
+Played,37,181248,2018-05-13 13:00:00,3173,,2576319,"Fiorentina - Cagliari, 0 - 1",Regular,524,away,3173,1,home,3176,0
+Played,37,181248,2018-05-13 13:00:00,3165,,2576320,"Bologna - Chievo, 1 - 2",Regular,524,away,3165,2,home,3166,1
+Played,37,181248,2018-05-13 13:00:00,0,,2576323,"Crotone - Lazio, 2 - 2",Regular,524,away,3162,2,home,3197,2
+Played,37,181248,2018-05-13 13:00:00,3185,,2576327,"Torino - SPAL, 2 - 1",Regular,524,away,3204,1,home,3185,2
+Played,37,181248,2018-05-13 13:00:00,3163,,2576328,"Hellas Verona - Udinese, 0 - 1",Regular,524,away,3163,1,home,3194,0
+Played,37,181248,2018-05-12 18:45:00,3315,,2576326,"Internazionale - Sassuolo, 1 - 2",Regular,524,home,3161,1,away,3315,2
+Played,37,181248,2018-05-12 16:00:00,3219,,2576321,"Benevento - Genoa, 1 - 0",Regular,524,home,3219,1,away,3193,0
+Played,36,181248,2018-05-06 18:45:00,3158,,2576316,"Cagliari - Roma, 0 - 1",Regular,524,away,3158,1,home,3173,0
+Played,36,181248,2018-05-06 16:00:00,3315,,2576317,"Sassuolo - Sampdoria, 1 - 0",Regular,524,home,3315,1,away,3164,0
+Played,36,181248,2018-05-06 13:00:00,0,,2576309,"Lazio - Atalanta, 1 - 1",Regular,524,home,3162,1,away,3172,1
+Played,36,181248,2018-05-06 13:00:00,3204,,2576310,"SPAL - Benevento, 2 - 0",Regular,524,away,3219,0,home,3204,2
+Played,36,181248,2018-05-06 13:00:00,3165,,2576312,"Chievo - Crotone, 2 - 1",Regular,524,home,3165,2,away,3197,1
+Played,36,181248,2018-05-06 13:00:00,3176,,2576313,"Genoa - Fiorentina, 2 - 3",Regular,524,away,3176,3,home,3193,2
+Played,36,181248,2018-05-06 13:00:00,0,,2576318,"Napoli - Torino, 2 - 2",Regular,524,home,3187,2,away,3185,2
+Played,36,181248,2018-05-06 10:30:00,3161,,2576315,"Udinese - Internazionale, 0 - 4",Regular,524,away,3161,4,home,3163,0
+Played,36,181248,2018-05-05 18:45:00,3159,,2576311,"Juventus - Bologna, 3 - 1",Regular,524,away,3166,1,home,3159,3
+Played,36,181248,2018-05-05 16:00:00,3157,,2576314,"Milan - Hellas Verona, 4 - 1",Regular,524,home,3157,4,away,3194,1
+Played,35,181248,2018-04-29 18:45:00,3162,,2576303,"Torino - Lazio, 0 - 1",Regular,524,away,3162,1,home,3185,0
+Played,35,181248,2018-04-29 16:00:00,3176,,2576305,"Fiorentina - Napoli, 3 - 0",Regular,524,away,3187,0,home,3176,3
+Played,35,181248,2018-04-29 13:00:00,3164,,2576299,"Sampdoria - Cagliari, 4 - 1",Regular,524,away,3173,1,home,3164,4
+Played,35,181248,2018-04-29 13:00:00,3172,,2576301,"Atalanta - Genoa, 3 - 1",Regular,524,home,3172,3,away,3193,1
+Played,35,181248,2018-04-29 13:00:00,3157,,2576304,"Bologna - Milan, 1 - 2",Regular,524,home,3166,1,away,3157,2
+Played,35,181248,2018-04-29 13:00:00,3204,,2576307,"Hellas Verona - SPAL, 1 - 3",Regular,524,away,3204,3,home,3194,1
+Played,35,181248,2018-04-29 13:00:00,0,,2576308,"Benevento - Udinese, 3 - 3",Regular,524,home,3219,3,away,3163,3
+Played,35,181248,2018-04-29 10:30:00,3197,,2576306,"Crotone - Sassuolo, 4 - 1",Regular,524,away,3315,1,home,3197,4
+Played,35,181248,2018-04-28 18:45:00,3159,,2576302,"Internazionale - Juventus, 2 - 3",Regular,524,home,3161,2,away,3159,3
+Played,35,181248,2018-04-28 16:00:00,3158,,2576300,"Roma - Chievo, 4 - 1",Regular,524,home,3158,4,away,3165,1
+Played,34,181248,2018-04-23 18:45:00,3193,Stadio Comunale Luigi Ferraris,2576293,"Genoa - Hellas Verona, 3 - 1",Regular,524,home,3193,3,away,3194,1
+Played,34,181248,2018-04-22 18:45:00,3187,,2576295,"Juventus - Napoli, 0 - 1",Regular,524,away,3187,1,home,3159,0
+Played,34,181248,2018-04-22 13:00:00,3197,,2576291,"Udinese - Crotone, 1 - 2",Regular,524,home,3163,1,away,3197,2
+Played,34,181248,2018-04-22 13:00:00,3161,,2576294,"Chievo - Internazionale, 1 - 2",Regular,524,away,3161,2,home,3165,1
+Played,34,181248,2018-04-22 13:00:00,3162,,2576297,"Lazio - Sampdoria, 4 - 0",Regular,524,home,3162,4,away,3164,0
+Played,34,181248,2018-04-22 13:00:00,3172,,2576298,"Atalanta - Torino, 2 - 1",Regular,524,home,3172,2,away,3185,1
+Played,34,181248,2018-04-22 10:30:00,0,,2576290,"Cagliari - Bologna, 0 - 0",Regular,524,home,3173,0,away,3166,0
+Played,34,181248,2018-04-21 18:45:00,3219,,2576289,"Milan - Benevento, 0 - 1",Regular,524,away,3219,1,home,3157,0
+Played,34,181248,2018-04-21 16:00:00,3315,,2576292,"Sassuolo - Fiorentina, 1 - 0",Regular,524,home,3315,1,away,3176,0
+Played,34,181248,2018-04-21 13:00:00,3158,,2576296,"SPAL - Roma, 0 - 3",Regular,524,away,3158,3,home,3204,0
+Played,33,181248,2018-04-18 18:45:00,3164,,2576280,"Sampdoria - Bologna, 1 - 0",Regular,524,away,3166,0,home,3164,1
+Played,33,181248,2018-04-18 17:45:00,0,,2576282,"SPAL - Chievo, 0 - 0",Regular,524,away,3165,0,home,3204,0
+Played,33,181248,2018-04-18 18:45:00,3158,,2576283,"Roma - Genoa, 2 - 1",Regular,524,home,3158,2,away,3193,1
+Played,33,181248,2018-04-18 18:45:00,0,,2576284,"Crotone - Juventus, 1 - 1",Regular,524,home,3197,1,away,3159,1
+Played,33,181248,2018-04-18 18:45:00,3162,,2576285,"Fiorentina - Lazio, 3 - 4",Regular,524,away,3162,4,home,3176,3
+Played,33,181248,2018-04-18 18:45:00,0,,2576286,"Torino - Milan, 1 - 1",Regular,524,away,3157,1,home,3185,1
+Played,33,181248,2018-04-18 17:45:00,3315,,2576287,"Hellas Verona - Sassuolo, 0 - 1",Regular,524,away,3315,1,home,3194,0
+Played,33,181248,2018-04-18 18:45:00,3187,,2576288,"Napoli - Udinese, 4 - 2",Regular,524,away,3163,2,home,3187,4
+Played,33,181248,2018-04-18 16:00:00,3172,,2576279,"Benevento - Atalanta, 0 - 3",Regular,524,away,3172,3,home,3219,0
+Played,33,181248,2018-04-17 18:45:00,3161,,2576281,"Internazionale - Cagliari, 4 - 0",Regular,524,home,3161,4,away,3173,0
+Played,32,181248,2018-04-15 18:45:00,0,,2576274,"Lazio - Roma, 0 - 0",Regular,524,home,3162,0,away,3158,0
+Played,32,181248,2018-04-15 16:00:00,3159,,2576275,"Juventus - Sampdoria, 3 - 0",Regular,524,away,3164,0,home,3159,3
+Played,32,181248,2018-04-15 13:00:00,0,MAPEI Stadium - Citt\u00e0 del Tricolore,2576269,"Sassuolo - Benevento, 2 - 2",Regular,524,home,3315,2,away,3219,2
+Played,32,181248,2018-04-15 13:00:00,3166,,2576271,"Bologna - Hellas Verona, 2 - 0",Regular,524,home,3166,2,away,3194,0
+Played,32,181248,2018-04-15 13:00:00,0,,2576273,"Milan - Napoli, 0 - 0",Regular,524,away,3187,0,home,3157,0
+Played,32,181248,2018-04-15 10:30:00,0,,2576276,"Fiorentina - SPAL, 0 - 0",Regular,524,home,3176,0,away,3204,0
+Played,32,181248,2018-04-14 18:45:00,0,,2576272,"Atalanta - Internazionale, 0 - 0",Regular,524,away,3161,0,home,3172,0
+Played,32,181248,2018-04-14 16:00:00,3193,,2576270,"Genoa - Crotone, 1 - 0",Regular,524,away,3197,0,home,3193,1
+Played,32,181248,2018-04-14 16:00:00,0,,2576277,"Chievo - Torino, 0 - 0",Regular,524,home,3165,0,away,3185,0
+Played,32,181248,2018-04-14 13:00:00,3173,,2576278,"Cagliari - Udinese, 2 - 1",Regular,524,home,3173,2,away,3163,1
+Played,31,181248,2018-04-08 18:45:00,0,,2576268,"Milan - Sassuolo, 1 - 1",Regular,524,away,3315,1,home,3157,1
+Played,31,181248,2018-04-08 16:00:00,3162,,2576267,"Udinese - Lazio, 1 - 2",Regular,524,away,3162,2,home,3163,1
+Played,31,181248,2018-04-08 13:00:00,3197,,2576260,"Crotone - Bologna, 1 - 0",Regular,524,away,3166,0,home,3197,1
+Played,31,181248,2018-04-08 13:00:00,3194,,2576261,"Hellas Verona - Cagliari, 1 - 0",Regular,524,away,3173,0,home,3194,1
+Played,31,181248,2018-04-08 13:00:00,3187,,2576262,"Napoli - Chievo, 2 - 1",Regular,524,away,3165,1,home,3187,2
+Played,31,181248,2018-04-08 10:30:00,3185,,2576265,"Torino - Internazionale, 1 - 0",Regular,524,away,3161,0,home,3185,1
+Played,31,181248,2018-04-07 18:45:00,0,,2576264,"Sampdoria - Genoa, 0 - 0",Regular,524,home,3164,0,away,3193,0
+Played,31,181248,2018-04-07 16:00:00,0,,2576259,"SPAL - Atalanta, 1 - 1",Regular,524,away,3172,1,home,3204,1
+Played,31,181248,2018-04-07 16:00:00,3176,,2576263,"Roma - Fiorentina, 0 - 2",Regular,524,home,3158,0,away,3176,2
+Played,31,181248,2018-04-07 13:00:00,3159,Stadio Ciro Vigorito ,2576266,"Benevento - Juventus, 2 - 4",Regular,524,home,3219,2,away,3159,4
+Played,27,181248,2018-04-04 16:30:00,3185,Stadio Olimpico Grande Torino,2576221,"Torino - Crotone, 4 - 1",Regular,524,away,3197,1,home,3185,4
+Played,27,181248,2018-04-04 16:30:00,0,Stadio Giuseppe Meazza,2576224,"Milan - Internazionale, 0 - 0",Regular,524,away,3161,0,home,3157,0
+Played,27,181248,2018-04-04 16:30:00,0,Stadio Marc'Antonio Bentegodi,2576228,"Chievo - Sassuolo, 1 - 1",Regular,524,away,3315,1,home,3165,1
+Played,27,181248,2018-04-04 15:00:00,3219,Stadio Ciro Vigorito,2576223,"Benevento - Hellas Verona, 3 - 0",Regular,524,home,3219,3,away,3194,0
+Played,27,181248,2018-04-03 16:30:00,3193,Stadio Comunale Luigi Ferraris,2576220,"Genoa - Cagliari, 2 - 1",Regular,524,away,3173,1,home,3193,2
+Played,27,181248,2018-04-03 16:30:00,3176,Dacia Arena,2576222,"Udinese - Fiorentina, 0 - 2",Regular,524,home,3163,0,away,3176,2
+Played,27,181248,2018-04-03 16:30:00,3164,Stadio Atleti Azzurri d'Italia,2576227,"Atalanta - Sampdoria, 1 - 2",Regular,524,home,3172,1,away,3164,2
+Played,30,181248,2018-03-31 18:45:00,3159,,2576252,"Juventus - Milan, 3 - 1",Regular,524,away,3157,1,home,3159,3
+Played,30,181248,2018-03-31 16:00:00,0,,2576253,"Sassuolo - Napoli, 1 - 1",Regular,524,home,3315,1,away,3187,1
+Played,30,181248,2018-03-31 16:00:00,3165,,2576255,"Chievo - Sampdoria, 2 - 1",Regular,524,home,3165,2,away,3164,1
+Played,30,181248,2018-03-31 13:00:00,3162,,2576249,"Lazio - Benevento, 6 - 2",Regular,524,home,3162,6,away,3219,2
+Played,30,181248,2018-03-31 13:00:00,3176,,2576250,"Fiorentina - Crotone, 2 - 0",Regular,524,away,3197,0,home,3176,2
+Played,30,181248,2018-03-31 13:00:00,3161,,2576251,"Internazionale - Hellas Verona, 3 - 0",Regular,524,home,3161,3,away,3194,0
+Played,30,181248,2018-03-31 13:00:00,0,,2576256,"Genoa - SPAL, 1 - 1",Regular,524,away,3204,1,home,3193,1
+Played,30,181248,2018-03-31 13:00:00,3185,,2576257,"Cagliari - Torino, 0 - 4",Regular,524,home,3173,0,away,3185,4
+Played,30,181248,2018-03-31 13:00:00,3172,,2576258,"Atalanta - Udinese, 2 - 0",Regular,524,home,3172,2,away,3163,0
+Played,30,181248,2018-03-31 10:30:00,0,,2576254,"Bologna - Roma, 1 - 1",Regular,524,away,3158,1,home,3166,1
+Played,29,181248,2018-03-18 19:45:00,0,,2576240,"Lazio - Bologna, 1 - 1",Regular,524,home,3162,1,away,3166,1
+Played,29,181248,2018-03-18 19:45:00,3187,,2576244,"Napoli - Genoa, 1 - 0",Regular,524,home,3187,1,away,3193,0
+Played,29,181248,2018-03-18 14:00:00,3172,,2576239,"Hellas Verona - Atalanta, 0 - 5",Regular,524,away,3172,5,home,3194,0
+Played,29,181248,2018-03-18 14:00:00,3173,,2576241,"Benevento - Cagliari, 1 - 2",Regular,524,away,3173,2,home,3219,1
+Played,29,181248,2018-03-18 14:00:00,3157,,2576242,"Milan - Chievo, 3 - 2",Regular,524,away,3165,2,home,3157,3
+Played,29,181248,2018-03-18 14:00:00,3176,,2576243,"Torino - Fiorentina, 1 - 2",Regular,524,away,3176,2,home,3185,1
+Played,29,181248,2018-03-18 14:00:00,3158,,2576247,"Crotone - Roma, 0 - 2",Regular,524,away,3158,2,home,3197,0
+Played,29,181248,2018-03-18 11:30:00,3161,,2576245,"Sampdoria - Internazionale, 0 - 5",Regular,524,away,3161,5,home,3164,0
+Played,29,181248,2018-03-17 19:45:00,0,,2576246,"SPAL - Juventus, 0 - 0",Regular,524,home,3204,0,away,3159,0
+Played,29,181248,2018-03-17 17:00:00,3315,,2576248,"Udinese - Sassuolo, 1 - 2",Regular,524,away,3315,2,home,3163,1
+Played,26,181248,2018-03-14 17:00:00,3159,Allianz Stadium,2576209,"Juventus - Atalanta, 2 - 0",Regular,524,away,3172,0,home,3159,2
+Played,28,181248,2018-03-11 19:45:00,0,,2576234,"Internazionale - Napoli, 0 - 0",Regular,524,home,3161,0,away,3187,0
+Played,28,181248,2018-03-11 17:00:00,3157,,2576233,"Genoa - Milan, 0 - 1",Regular,524,away,3157,1,home,3193,0
+Played,28,181248,2018-03-11 14:00:00,3172,,2576229,"Bologna - Atalanta, 0 - 1",Regular,524,away,3172,1,home,3166,0
+Played,28,181248,2018-03-11 14:00:00,0,,2576232,"Cagliari - Lazio, 2 - 2",Regular,524,away,3162,2,home,3173,2
+Played,28,181248,2018-03-11 14:00:00,3197,,2576235,"Crotone - Sampdoria, 4 - 1",Regular,524,home,3197,4,away,3164,1
+Played,28,181248,2018-03-11 14:00:00,0,,2576236,"Sassuolo - SPAL, 1 - 1",Regular,524,home,3315,1,away,3204,1
+Played,28,181248,2018-03-11 14:00:00,3159,,2576238,"Juventus - Udinese, 2 - 0",Regular,524,away,3163,0,home,3159,2
+Played,28,181248,2018-03-11 11:30:00,3176,,2576230,"Fiorentina - Benevento, 1 - 0",Regular,524,away,3219,0,home,3176,1
+Played,28,181248,2018-03-10 19:45:00,3194,,2576231,"Hellas Verona - Chievo, 1 - 0",Regular,524,away,3165,0,home,3194,1
+Played,28,181248,2018-03-09 19:45:00,3158,,2576237,"Roma - Torino, 3 - 0",Regular,524,home,3158,3,away,3185,0
+Played,27,181248,2018-03-03 19:45:00,3158,Stadio San Paolo,2576226,"Napoli - Roma, 2 - 4",Regular,524,away,3158,4,home,3187,2
+Played,27,181248,2018-03-03 17:00:00,3159,Stadio Olimpico,2576225,"Lazio - Juventus, 0 - 1",Regular,524,home,3162,0,away,3159,1
+Played,27,181248,2018-03-03 14:00:00,3204,Stadio Paolo Mazza,2576219,"SPAL - Bologna, 1 - 0",Regular,524,away,3166,0,home,3204,1
+Played,26,181248,2018-02-26 19:45:00,3187,Sardegna Arena,2576215,"Cagliari - Napoli, 0 - 5",Regular,524,home,3173,0,away,3187,5
+Played,26,181248,2018-02-25 19:45:00,3157,Stadio Olimpico,2576214,"Roma - Milan, 0 - 2",Regular,524,home,3158,0,away,3157,2
+Played,26,181248,2018-02-25 14:00:00,3176,Stadio Artemio Franchi,2576211,"Fiorentina - Chievo, 1 - 0",Regular,524,away,3165,0,home,3176,1
+Played,26,181248,2018-02-25 14:00:00,3162,MAPEI Stadium - Citt\u00e0 del Tricolore,2576213,"Sassuolo - Lazio, 0 - 3",Regular,524,away,3162,3,home,3315,0
+Played,26,181248,2018-02-25 14:00:00,3194,Stadio Marc'Antonio Bentegodi,2576217,"Hellas Verona - Torino, 2 - 1",Regular,524,away,3185,1,home,3194,2
+Played,26,181248,2018-02-25 14:00:00,3164,Stadio Comunale Luigi Ferraris,2576218,"Sampdoria - Udinese, 2 - 1",Regular,524,away,3163,1,home,3164,2
+Played,26,181248,2018-02-25 11:30:00,3204,Stadio Ezio Scida,2576216,"Crotone - SPAL, 2 - 3",Regular,524,home,3197,2,away,3204,3
+Played,26,181248,2018-02-24 19:45:00,3161,Stadio Giuseppe Meazza,2576210,"Internazionale - Benevento, 2 - 0",Regular,524,home,3161,2,away,3219,0
+Played,26,181248,2018-02-24 17:00:00,3166,Stadio Renato Dall'Ara,2576212,"Bologna - Genoa, 2 - 0",Regular,524,home,3166,2,away,3193,0
+Played,25,181248,2018-02-19 19:45:00,3162,Stadio Olimpico,2576202,"Lazio - Hellas Verona, 2 - 0",Regular,524,home,3162,2,away,3194,0
+Played,25,181248,2018-02-18 19:45:00,3157,Stadio Giuseppe Meazza,2576206,"Milan - Sampdoria, 1 - 0",Regular,524,home,3157,1,away,3164,0
+Played,25,181248,2018-02-18 17:00:00,0,Stadio Atleti Azzurri d'Italia,2576201,"Atalanta - Fiorentina, 1 - 1",Regular,524,home,3172,1,away,3176,1
+Played,25,181248,2018-02-18 14:00:00,3219,Stadio Ciro Vigorito,2576200,"Benevento - Crotone, 3 - 2",Regular,524,home,3219,3,away,3197,2
+Played,25,181248,2018-02-18 14:00:00,3166,Stadio Renato Dall'Ara,2576207,"Bologna - Sassuolo, 2 - 1",Regular,524,away,3315,1,home,3166,2
+Played,25,181248,2018-02-18 14:00:00,3187,Stadio San Paolo,2576208,"Napoli - SPAL, 1 - 0",Regular,524,home,3187,1,away,3204,0
+Played,25,181248,2018-02-18 11:30:00,3159,Stadio Olimpico Grande Torino,2576204,"Torino - Juventus, 0 - 1",Regular,524,home,3185,0,away,3159,1
+Played,25,181248,2018-02-17 19:45:00,3193,Stadio Comunale Luigi Ferraris,2576203,"Genoa - Internazionale, 2 - 0",Regular,524,away,3161,0,home,3193,2
+Played,25,181248,2018-02-17 17:00:00,3165,Stadio Marc'Antonio Bentegodi,2576199,"Chievo - Cagliari, 2 - 1",Regular,524,away,3173,1,home,3165,2
+Played,25,181248,2018-02-17 14:00:00,3158,Dacia Arena,2576205,"Udinese - Roma, 0 - 2",Regular,524,away,3158,2,home,3163,0
+Played,24,181248,2018-02-11 19:45:00,3158,Stadio Olimpico,2576190,"Roma - Benevento, 5 - 2",Regular,524,home,3158,5,away,3219,2
+Played,24,181248,2018-02-11 14:00:00,3161,Stadio Giuseppe Meazza,2576191,"Internazionale - Bologna, 2 - 1",Regular,524,home,3161,2,away,3166,1
+Played,24,181248,2018-02-11 14:00:00,3193,Stadio Marc'Antonio Bentegodi,2576193,"Chievo - Genoa, 0 - 1",Regular,524,home,3165,0,away,3193,1
+Played,24,181248,2018-02-11 14:00:00,3164,Stadio Comunale Luigi Ferraris,2576194,"Sampdoria - Hellas Verona, 2 - 0",Regular,524,home,3164,2,away,3194,0
+Played,24,181248,2018-02-11 14:00:00,3185,Stadio Olimpico Grande Torino,2576198,"Torino - Udinese, 2 - 0",Regular,524,away,3163,0,home,3185,2
+Played,24,181248,2018-02-11 11:30:00,0,MAPEI Stadium - Citt\u00e0 del Tricolore,2576192,"Sassuolo - Cagliari, 0 - 0",Regular,524,home,3315,0,away,3173,0
+Played,24,181248,2018-02-10 19:45:00,3187,Stadio San Paolo,2576196,"Napoli - Lazio, 4 - 1",Regular,524,away,3162,1,home,3187,4
+Played,24,181248,2018-02-10 17:00:00,0,Stadio Ezio Scida,2576189,"Crotone - Atalanta, 1 - 1",Regular,524,away,3172,1,home,3197,1
+Played,24,181248,2018-02-10 14:00:00,3157,Stadio Paolo Mazza,2576197,"SPAL - Milan, 0 - 4",Regular,524,away,3157,4,home,3204,0
+Played,24,181248,2018-02-09 19:45:00,3159,Stadio Artemio Franchi,2576195,"Fiorentina - Juventus, 0 - 2",Regular,524,home,3176,0,away,3159,2
+Played,23,181248,2018-02-05 19:45:00,3193,Stadio Olimpico,2576182,"Lazio - Genoa, 1 - 2",Regular,524,home,3162,1,away,3193,2
+Played,23,181248,2018-02-04 19:45:00,3187,Stadio Ciro Vigorito,2576184,"Benevento - Napoli, 0 - 2",Regular,524,home,3219,0,away,3187,2
+Played,23,181248,2018-02-04 14:00:00,3172,Stadio Atleti Azzurri d'Italia,2576179,"Atalanta - Chievo, 1 - 0",Regular,524,home,3172,1,away,3165,0
+Played,23,181248,2018-02-04 14:00:00,3176,Stadio Renato Dall'Ara,2576181,"Bologna - Fiorentina, 1 - 2",Regular,524,home,3166,1,away,3176,2
+Played,23,181248,2018-02-04 14:00:00,0,Dacia Arena,2576183,"Udinese - Milan, 1 - 1",Regular,524,home,3163,1,away,3157,1
+Played,23,181248,2018-02-04 14:00:00,3159,Allianz Stadium,2576186,"Juventus - Sassuolo, 7 - 0",Regular,524,away,3315,0,home,3159,7
+Played,23,181248,2018-02-04 14:00:00,3173,Sardegna Arena,2576187,"Cagliari - SPAL, 2 - 0",Regular,524,home,3173,2,away,3204,0
+Played,23,181248,2018-02-04 11:30:00,3158,Stadio Marc'Antonio Bentegodi,2576185,"Hellas Verona - Roma, 0 - 1",Regular,524,away,3158,1,home,3194,0
+Played,23,181248,2018-02-03 19:45:00,0,Stadio Giuseppe Meazza,2576180,"Internazionale - Crotone, 1 - 1",Regular,524,home,3161,1,away,3197,1
+Played,23,181248,2018-02-03 17:00:00,0,Stadio Comunale Luigi Ferraris,2576188,"Sampdoria - Torino, 1 - 1",Regular,524,home,3164,1,away,3185,1
+Played,22,181248,2018-01-28 19:45:00,3164,Stadio Olimpico,2576177,"Roma - Sampdoria, 0 - 1",Regular,524,home,3158,0,away,3164,1
+Played,22,181248,2018-01-28 17:00:00,3157,Stadio Giuseppe Meazza,2576176,"Milan - Lazio, 2 - 1",Regular,524,away,3162,1,home,3157,2
+Played,22,181248,2018-01-28 14:00:00,3185,Stadio Olimpico Grande Torino,2576170,"Torino - Benevento, 3 - 0",Regular,524,away,3219,0,home,3185,3
+Played,22,181248,2018-01-28 14:00:00,3187,Stadio San Paolo,2576171,"Napoli - Bologna, 3 - 1",Regular,524,away,3166,1,home,3187,3
+Played,22,181248,2018-01-28 14:00:00,0,Stadio Ezio Scida,2576172,"Crotone - Cagliari, 1 - 1",Regular,524,away,3173,1,home,3197,1
+Played,22,181248,2018-01-28 14:00:00,3194,Stadio Artemio Franchi,2576173,"Fiorentina - Hellas Verona, 1 - 4",Regular,524,home,3176,1,away,3194,4
+Played,22,181248,2018-01-28 14:00:00,3163,Stadio Comunale Luigi Ferraris,2576178,"Genoa - Udinese, 0 - 1",Regular,524,away,3163,1,home,3193,0
+Played,22,181248,2018-01-28 11:30:00,0,Stadio Paolo Mazza,2576174,"SPAL - Internazionale, 1 - 1",Regular,524,away,3161,1,home,3204,1
+Played,22,181248,2018-01-27 19:45:00,3159,Stadio Marc'Antonio Bentegodi,2576175,"Chievo - Juventus, 0 - 2",Regular,524,home,3165,0,away,3159,2
+Played,22,181248,2018-01-27 17:00:00,3172,MAPEI Stadium - Citt\u00e0 del Tricolore,2576169,"Sassuolo - Atalanta, 0 - 3",Regular,524,home,3315,0,away,3172,3
+Played,3,181248,2018-01-24 19:45:00,0,Stadio Comunale Luigi Ferraris,2575987,"Sampdoria - Roma, 1 - 1",Regular,524,away,3158,1,home,3164,1
+Played,12,181248,2018-01-24 17:30:00,3162,Stadio Olimpico,2576077,"Lazio - Udinese, 3 - 0",Regular,524,home,3162,3,away,3163,0
+Played,21,181248,2018-01-22 19:45:00,3159,Allianz Stadium,2576163,"Juventus - Genoa, 1 - 0",Regular,524,away,3193,0,home,3159,1
+Played,21,181248,2018-01-21 19:45:00,0,Stadio Giuseppe Meazza,2576166,"Internazionale - Roma, 1 - 1",Regular,524,home,3161,1,away,3158,1
+Played,21,181248,2018-01-21 17:00:00,3157,Sardegna Arena,2576164,"Cagliari - Milan, 1 - 2",Regular,524,home,3173,1,away,3157,2
+Played,21,181248,2018-01-21 14:00:00,3166,Stadio Renato Dall'Ara,2576159,"Bologna - Benevento, 3 - 0",Regular,524,away,3219,0,home,3166,3
+Played,21,181248,2018-01-21 14:00:00,3162,Stadio Olimpico,2576160,"Lazio - Chievo, 5 - 1",Regular,524,home,3162,5,away,3165,1
+Played,21,181248,2018-01-21 14:00:00,3197,Stadio Marc'Antonio Bentegodi,2576161,"Hellas Verona - Crotone, 0 - 3",Regular,524,away,3197,3,home,3194,0
+Played,21,181248,2018-01-21 14:00:00,3164,Stadio Comunale Luigi Ferraris,2576162,"Sampdoria - Fiorentina, 3 - 1",Regular,524,away,3176,1,home,3164,3
+Played,21,181248,2018-01-21 14:00:00,0,Dacia Arena,2576167,"Udinese - SPAL, 1 - 1",Regular,524,home,3163,1,away,3204,1
+Played,21,181248,2018-01-21 14:00:00,0,MAPEI Stadium - Citt\u00e0 del Tricolore,2576168,"Sassuolo - Torino, 1 - 1",Regular,524,home,3315,1,away,3185,1
+Played,21,181248,2018-01-21 11:30:00,3187,Stadio Atleti Azzurri d'Italia,2576165,"Atalanta - Napoli, 0 - 1",Regular,524,home,3172,0,away,3187,1
+Played,20,181248,2018-01-06 19:45:00,3159,Sardegna Arena,2576154,"Cagliari - Juventus, 0 - 1",Regular,524,home,3173,0,away,3159,1
+Played,20,181248,2018-01-06 17:00:00,3172,Stadio Olimpico,2576149,"Roma - Atalanta, 1 - 2",Regular,524,home,3158,1,away,3172,2
+Played,20,181248,2018-01-06 14:00:00,3157,Stadio Giuseppe Meazza,2576151,"Milan - Crotone, 1 - 0",Regular,524,away,3197,0,home,3157,1
+Played,20,181248,2018-01-06 14:00:00,3187,Stadio San Paolo,2576152,"Napoli - Hellas Verona, 2 - 0",Regular,524,home,3187,2,away,3194,0
+Played,20,181248,2018-01-06 14:00:00,3162,Stadio Paolo Mazza,2576155,"SPAL - Lazio, 2 - 5",Regular,524,away,3162,5,home,3204,2
+Played,20,181248,2018-01-06 14:00:00,3219,Stadio Ciro Vigorito,2576156,"Benevento - Sampdoria, 3 - 2",Regular,524,home,3219,3,away,3164,2
+Played,20,181248,2018-01-06 14:00:00,3193,Stadio Comunale Luigi Ferraris,2576157,"Genoa - Sassuolo, 1 - 0",Regular,524,away,3315,0,home,3193,1
+Played,20,181248,2018-01-06 11:30:00,3185,Stadio Olimpico Grande Torino,2576150,"Torino - Bologna, 3 - 0",Regular,524,away,3166,0,home,3185,3
+Played,20,181248,2018-01-05 19:45:00,0,Stadio Artemio Franchi,2576153,"Fiorentina - Internazionale, 1 - 1",Regular,524,away,3161,1,home,3176,1
+Played,20,181248,2018-01-05 17:00:00,0,Stadio Marc'Antonio Bentegodi,2576158,"Chievo - Udinese, 1 - 1",Regular,524,home,3165,1,away,3163,1
+Played,19,181248,2017-12-30 19:45:00,3159,Stadio Marc'Antonio Bentegodi,2576144,"Hellas Verona - Juventus, 1 - 3",Regular,524,away,3159,3,home,3194,1
+Played,19,181248,2017-12-30 17:00:00,0,Stadio Giuseppe Meazza,2576145,"Internazionale - Lazio, 0 - 0",Regular,524,away,3162,0,home,3161,0
+Played,19,181248,2017-12-30 14:00:00,3173,Stadio Atleti Azzurri d'Italia,2576139,"Atalanta - Cagliari, 1 - 2",Regular,524,away,3173,2,home,3172,1
+Played,19,181248,2017-12-30 14:00:00,3219,Stadio Ciro Vigorito,2576140,"Benevento - Chievo, 1 - 0",Regular,524,away,3165,0,home,3219,1
+Played,19,181248,2017-12-30 14:00:00,3163,Stadio Renato Dall'Ara,2576141,"Bologna - Udinese, 1 - 2",Regular,524,home,3166,1,away,3163,2
+Played,19,181248,2017-12-30 14:00:00,0,Stadio Olimpico,2576146,"Roma - Sassuolo, 1 - 1",Regular,524,home,3158,1,away,3315,1
+Played,19,181248,2017-12-30 14:00:00,3164,Stadio Comunale Luigi Ferraris,2576147,"Sampdoria - SPAL, 2 - 0",Regular,524,home,3164,2,away,3204,0
+Played,19,181248,2017-12-30 14:00:00,0,Stadio Olimpico Grande Torino,2576148,"Torino - Genoa, 0 - 0",Regular,524,home,3185,0,away,3193,0
+Played,19,181248,2017-12-30 11:30:00,0,Stadio Artemio Franchi,2576143,"Fiorentina - Milan, 1 - 1",Regular,524,away,3157,1,home,3176,1
+Played,19,181248,2017-12-29 19:45:00,3187,Stadio Ezio Scida,2576142,"Crotone - Napoli, 0 - 1",Regular,524,home,3197,0,away,3187,1
+Played,18,181248,2017-12-23 19:45:00,3159,Allianz Stadium,2576132,"Juventus - Roma, 1 - 0",Regular,524,away,3158,0,home,3159,1
+Played,18,181248,2017-12-23 17:00:00,3172,Stadio Giuseppe Meazza,2576134,"Milan - Atalanta, 0 - 2",Regular,524,away,3172,2,home,3157,0
+Played,18,181248,2017-12-23 14:00:00,3193,Stadio Comunale Luigi Ferraris,2576131,"Genoa - Benevento, 1 - 0",Regular,524,away,3219,0,home,3193,1
+Played,18,181248,2017-12-23 14:00:00,3187,Stadio San Paolo,2576135,"Napoli - Sampdoria, 3 - 2",Regular,524,home,3187,3,away,3164,2
+Played,18,181248,2017-12-23 14:00:00,3315,MAPEI Stadium - Citt\u00e0 del Tricolore,2576136,"Sassuolo - Internazionale, 1 - 0",Regular,524,away,3161,0,home,3315,1
+Played,18,181248,2017-12-23 14:00:00,0,Stadio Paolo Mazza,2576137,"SPAL - Torino, 2 - 2",Regular,524,home,3204,2,away,3185,2
+Played,18,181248,2017-12-23 14:00:00,3163,Dacia Arena,2576138,"Udinese - Hellas Verona, 4 - 0",Regular,524,home,3163,4,away,3194,0
+Played,18,181248,2017-12-23 11:30:00,3162,Stadio Olimpico,2576133,"Lazio - Crotone, 4 - 0",Regular,524,home,3162,4,away,3197,0
+Played,18,181248,2017-12-22 19:45:00,3176,Sardegna Arena,2576129,"Cagliari - Fiorentina, 0 - 1",Regular,524,home,3173,0,away,3176,1
+Played,18,181248,2017-12-22 17:00:00,3166,Stadio Marc'Antonio Bentegodi,2576130,"Chievo - Bologna, 2 - 3",Regular,524,home,3165,2,away,3166,3
+Played,17,181248,2017-12-17 19:45:00,0,Stadio Atleti Azzurri d'Italia,2576119,"Atalanta - Lazio, 3 - 3",Regular,524,away,3162,3,home,3172,3
+Played,17,181248,2017-12-17 17:00:00,3204,Stadio Ciro Vigorito,2576120,"Benevento - SPAL, 1 - 2",Regular,524,home,3219,1,away,3204,2
+Played,17,181248,2017-12-17 14:00:00,3159,Stadio Renato Dall'Ara,2576121,"Bologna - Juventus, 0 - 3",Regular,524,home,3166,0,away,3159,3
+Played,17,181248,2017-12-17 14:00:00,3197,Stadio Ezio Scida,2576122,"Crotone - Chievo, 1 - 0",Regular,524,away,3165,0,home,3197,1
+Played,17,181248,2017-12-17 14:00:00,0,Stadio Artemio Franchi,2576123,"Fiorentina - Genoa, 0 - 0",Regular,524,home,3176,0,away,3193,0
+Played,17,181248,2017-12-17 14:00:00,3315,Stadio Comunale Luigi Ferraris,2576127,"Sampdoria - Sassuolo, 0 - 1",Regular,524,away,3315,1,home,3164,0
+Played,17,181248,2017-12-17 11:30:00,3194,Stadio Marc'Antonio Bentegodi,2576124,"Hellas Verona - Milan, 3 - 0",Regular,524,away,3157,0,home,3194,3
+Played,17,181248,2017-12-16 19:45:00,3158,Stadio Olimpico,2576126,"Roma - Cagliari, 1 - 0",Regular,524,home,3158,1,away,3173,0
+Played,17,181248,2017-12-16 17:00:00,3187,Stadio Olimpico Grande Torino,2576128,"Torino - Napoli, 1 - 3",Regular,524,away,3187,3,home,3185,1
+Played,17,181248,2017-12-16 14:00:00,3163,Stadio Giuseppe Meazza,2576125,"Internazionale - Udinese, 1 - 3",Regular,524,home,3161,1,away,3163,3
+Played,16,181248,2017-12-12 18:00:00,3172,Stadio Comunale Luigi Ferraris,2576111,"Genoa - Atalanta, 1 - 2",Regular,524,away,3172,2,home,3193,1
+Played,16,181248,2017-12-11 20:00:00,3185,Stadio Olimpico,2576113,"Lazio - Torino, 1 - 3",Regular,524,home,3162,1,away,3185,3
+Played,16,181248,2017-12-10 19:45:00,3157,Stadio Giuseppe Meazza,2576114,"Milan - Bologna, 2 - 1",Regular,524,away,3166,1,home,3157,2
+Played,16,181248,2017-12-10 17:00:00,3315,MAPEI Stadium - Citt\u00e0 del Tricolore,2576116,"Sassuolo - Crotone, 2 - 1",Regular,524,home,3315,2,away,3197,1
+Played,16,181248,2017-12-10 14:00:00,0,Stadio San Paolo,2576115,"Napoli - Fiorentina, 0 - 0",Regular,524,home,3187,0,away,3176,0
+Played,16,181248,2017-12-10 14:00:00,0,Stadio Paolo Mazza,2576117,"SPAL - Hellas Verona, 2 - 2",Regular,524,home,3204,2,away,3194,2
+Played,16,181248,2017-12-10 14:00:00,3163,Dacia Arena,2576118,"Udinese - Benevento, 2 - 0",Regular,524,away,3219,0,home,3163,2
+Played,16,181248,2017-12-10 11:30:00,0,Stadio Marc'Antonio Bentegodi,2576110,"Chievo - Roma, 0 - 0",Regular,524,away,3158,0,home,3165,0
+Played,16,181248,2017-12-09 19:45:00,0,Allianz Stadium,2576112,"Juventus - Internazionale, 0 - 0",Regular,524,away,3161,0,home,3159,0
+Played,16,181248,2017-12-09 17:00:00,0,Sardegna Arena,2576109,"Cagliari - Sampdoria, 2 - 2",Regular,524,home,3173,2,away,3164,2
+Played,15,181248,2017-12-04 20:00:00,3193,Stadio Marc'Antonio Bentegodi,2576103,"Hellas Verona - Genoa, 0 - 1",Regular,524,away,3193,1,home,3194,0
+Played,15,181248,2017-12-04 18:00:00,3163,Stadio Ezio Scida,2576101,"Crotone - Udinese, 0 - 3",Regular,524,away,3163,3,home,3197,0
+Played,15,181248,2017-12-03 19:45:00,3162,Stadio Comunale Luigi Ferraris,2576107,"Sampdoria - Lazio, 1 - 2",Regular,524,away,3162,2,home,3164,1
+Played,15,181248,2017-12-03 14:00:00,0,Stadio Renato Dall'Ara,2576100,"Bologna - Cagliari, 1 - 1",Regular,524,away,3173,1,home,3166,1
+Played,15,181248,2017-12-03 14:00:00,3176,Stadio Artemio Franchi,2576102,"Fiorentina - Sassuolo, 3 - 0",Regular,524,away,3315,0,home,3176,3
+Played,15,181248,2017-12-03 14:00:00,3161,Stadio Giuseppe Meazza,2576104,"Internazionale - Chievo, 5 - 0",Regular,524,home,3161,5,away,3165,0
+Played,15,181248,2017-12-03 11:30:00,0,Stadio Ciro Vigorito,2576099,"Benevento - Milan, 2 - 2",Regular,524,home,3219,2,away,3157,2
+Played,15,181248,2017-12-02 19:45:00,0,Stadio Olimpico Grande Torino,2576108,"Torino - Atalanta, 1 - 1",Regular,524,away,3172,1,home,3185,1
+Played,15,181248,2017-12-01 19:45:00,3159,Stadio San Paolo,2576105,"Napoli - Juventus, 0 - 1",Regular,524,home,3187,0,away,3159,1
+Played,15,181248,2017-12-01 17:30:00,3158,Stadio Olimpico,2576106,"Roma - SPAL, 3 - 1",Regular,524,home,3158,3,away,3204,1
+Played,14,181248,2017-11-27 19:45:00,3172,Stadio Atleti Azzurri d'Italia,2576089,"Atalanta - Benevento, 1 - 0",Regular,524,home,3172,1,away,3219,0
+Played,14,181248,2017-11-26 19:45:00,3159,Allianz Stadium,2576094,"Juventus - Crotone, 3 - 0",Regular,524,away,3197,0,home,3159,3
+Played,14,181248,2017-11-26 17:00:00,0,Stadio Olimpico,2576095,"Lazio - Fiorentina, 1 - 1",Regular,524,home,3162,1,away,3176,1
+Played,14,181248,2017-11-26 14:00:00,0,Stadio Comunale Luigi Ferraris,2576093,"Genoa - Roma, 1 - 1",Regular,524,away,3158,1,home,3193,1
+Played,14,181248,2017-11-26 14:00:00,0,Stadio Giuseppe Meazza,2576096,"Milan - Torino, 0 - 0",Regular,524,home,3157,0,away,3185,0
+Played,14,181248,2017-11-26 14:00:00,3187,Dacia Arena,2576098,"Udinese - Napoli, 0 - 1",Regular,524,home,3163,0,away,3187,1
+Played,14,181248,2017-11-25 19:45:00,3161,Sardegna Arena,2576091,"Cagliari - Internazionale, 1 - 3",Regular,524,away,3161,3,home,3173,1
+Played,14,181248,2017-11-25 17:00:00,3165,Stadio Marc'Antonio Bentegodi,2576092,"Chievo - SPAL, 2 - 1",Regular,524,home,3165,2,away,3204,1
+Played,14,181248,2017-11-25 17:00:00,3194,MAPEI Stadium - Citt\u00e0 del Tricolore,2576097,"Sassuolo - Hellas Verona, 0 - 2",Regular,524,home,3315,0,away,3194,2
+Played,14,181248,2017-11-25 14:00:00,3166,Stadio Renato Dall'Ara,2576090,"Bologna - Sampdoria, 3 - 0",Regular,524,home,3166,3,away,3164,0
+Played,13,181248,2017-11-20 19:45:00,3166,Stadio Marc'Antonio Bentegodi,2576081,"Hellas Verona - Bologna, 2 - 3",Regular,524,away,3166,3,home,3194,2
+Played,13,181248,2017-11-19 19:45:00,3161,Stadio Giuseppe Meazza,2576082,"Internazionale - Atalanta, 2 - 0",Regular,524,home,3161,2,away,3172,0
+Played,13,181248,2017-11-19 14:00:00,3315,Stadio Ciro Vigorito,2576079,"Benevento - Sassuolo, 1 - 2",Regular,524,away,3315,2,home,3219,1
+Played,13,181248,2017-11-19 14:00:00,3164,Stadio Comunale Luigi Ferraris,2576085,"Sampdoria - Juventus, 3 - 2",Regular,524,home,3164,3,away,3159,2
+Played,13,181248,2017-11-19 14:00:00,0,Stadio Paolo Mazza,2576086,"SPAL - Fiorentina, 1 - 1",Regular,524,away,3176,1,home,3204,1
+Played,13,181248,2017-11-19 14:00:00,0,Stadio Olimpico Grande Torino,2576087,"Torino - Chievo, 1 - 1",Regular,524,away,3165,1,home,3185,1
+Played,13,181248,2017-11-19 14:00:00,3173,Dacia Arena,2576088,"Udinese - Cagliari, 0 - 1",Regular,524,away,3173,1,home,3163,0
+Played,13,181248,2017-11-19 11:30:00,3193,Stadio Ezio Scida,2576080,"Crotone - Genoa, 0 - 1",Regular,524,home,3197,0,away,3193,1
+Played,13,181248,2017-11-18 19:45:00,3187,Stadio San Paolo,2576083,"Napoli - Milan, 2 - 1",Regular,524,home,3187,2,away,3157,1
+Played,13,181248,2017-11-18 17:00:00,3158,Stadio Olimpico,2576084,"Roma - Lazio, 2 - 1",Regular,524,away,3162,1,home,3158,2
+Played,12,181248,2017-11-05 19:45:00,3157,MAPEI Stadium - Citt\u00e0 del Tricolore,2576078,"Sassuolo - Milan, 0 - 2",Regular,524,home,3315,0,away,3157,2
+Played,12,181248,2017-11-05 17:00:00,0,Stadio Atleti Azzurri d'Italia,2576069,"Atalanta - SPAL, 1 - 1",Regular,524,home,3172,1,away,3204,1
+Played,12,181248,2017-11-05 14:00:00,3173,Sardegna Arena,2576071,"Cagliari - Hellas Verona, 2 - 1",Regular,524,home,3173,2,away,3194,1
+Played,12,181248,2017-11-05 14:00:00,0,Stadio Marc'Antonio Bentegodi,2576072,"Chievo - Napoli, 0 - 0",Regular,524,home,3165,0,away,3187,0
+Played,12,181248,2017-11-05 14:00:00,3158,Stadio Artemio Franchi,2576073,"Fiorentina - Roma, 2 - 4",Regular,524,away,3158,4,home,3176,2
+Played,12,181248,2017-11-05 14:00:00,3159,Allianz Stadium,2576076,"Juventus - Benevento, 2 - 1",Regular,524,away,3219,1,home,3159,2
+Played,12,181248,2017-11-05 11:30:00,0,Stadio Giuseppe Meazza,2576075,"Internazionale - Torino, 1 - 1",Regular,524,home,3161,1,away,3185,1
+Played,12,181248,2017-11-04 19:45:00,3164,Stadio Comunale Luigi Ferraris,2576074,"Genoa - Sampdoria, 0 - 2",Regular,524,away,3164,2,home,3193,0
+Played,12,181248,2017-11-04 17:00:00,3197,Stadio Renato Dall'Ara,2576070,"Bologna - Crotone, 2 - 3",Regular,524,home,3166,2,away,3197,3
+Played,11,181248,2017-10-30 19:45:00,3161,Stadio Marc'Antonio Bentegodi,2576061,"Hellas Verona - Internazionale, 1 - 2",Regular,524,away,3161,2,home,3194,1
+Played,11,181248,2017-10-29 19:45:00,3185,Stadio Olimpico Grande Torino,2576067,"Torino - Cagliari, 2 - 1",Regular,524,away,3173,1,home,3185,2
+Played,11,181248,2017-10-29 14:00:00,3197,Stadio Ezio Scida,2576060,"Crotone - Fiorentina, 2 - 1",Regular,524,home,3197,2,away,3176,1
+Played,11,181248,2017-10-29 14:00:00,3187,Stadio San Paolo,2576063,"Napoli - Sassuolo, 3 - 1",Regular,524,away,3315,1,home,3187,3
+Played,11,181248,2017-10-29 14:00:00,3164,Stadio Comunale Luigi Ferraris,2576065,"Sampdoria - Chievo, 4 - 1",Regular,524,away,3165,1,home,3164,4
+Played,11,181248,2017-10-29 14:00:00,3204,Stadio Paolo Mazza,2576066,"SPAL - Genoa, 1 - 0",Regular,524,home,3204,1,away,3193,0
+Played,11,181248,2017-10-29 14:00:00,3163,Dacia Arena,2576068,"Udinese - Atalanta, 2 - 1",Regular,524,away,3172,1,home,3163,2
+Played,11,181248,2017-10-29 11:30:00,3162,Stadio Ciro Vigorito,2576059,"Benevento - Lazio, 1 - 5",Regular,524,away,3162,5,home,3219,1
+Played,11,181248,2017-10-28 18:45:00,3158,Stadio Olimpico,2576064,"Roma - Bologna, 1 - 0",Regular,524,home,3158,1,away,3166,0
+Played,11,181248,2017-10-28 16:00:00,3159,Stadio Giuseppe Meazza,2576062,"Milan - Juventus, 0 - 2",Regular,524,home,3157,0,away,3159,2
+Played,10,181248,2017-10-25 18:45:00,3162,Stadio Renato Dall'Ara,2576050,"Bologna - Lazio, 1 - 2",Regular,524,away,3162,2,home,3166,1
+Played,10,181248,2017-10-25 18:45:00,3173,Sardegna Arena,2576051,"Cagliari - Benevento, 2 - 1",Regular,524,home,3173,2,away,3219,1
+Played,10,181248,2017-10-25 18:45:00,3157,Stadio Marc'Antonio Bentegodi,2576052,"Chievo - Milan, 1 - 4",Regular,524,home,3165,1,away,3157,4
+Played,10,181248,2017-10-25 18:45:00,3176,Stadio Artemio Franchi,2576053,"Fiorentina - Torino, 3 - 0",Regular,524,home,3176,3,away,3185,0
+Played,10,181248,2017-10-25 18:45:00,3187,Stadio Comunale Luigi Ferraris,2576054,"Genoa - Napoli, 2 - 3",Regular,524,away,3187,3,home,3193,2
+Played,10,181248,2017-10-25 18:45:00,3159,Allianz Stadium,2576056,"Juventus - SPAL, 4 - 1",Regular,524,away,3204,1,home,3159,4
+Played,10,181248,2017-10-25 18:45:00,3158,Stadio Olimpico,2576057,"Roma - Crotone, 1 - 0",Regular,524,home,3158,1,away,3197,0
+Played,10,181248,2017-10-25 18:45:00,3163,MAPEI Stadium - Citt\u00e0 del Tricolore,2576058,"Sassuolo - Udinese, 0 - 1",Regular,524,home,3315,0,away,3163,1
+Played,10,181248,2017-10-25 16:30:00,3172,Stadio Atleti Azzurri d'Italia,2576049,"Atalanta - Hellas Verona, 3 - 0",Regular,524,home,3172,3,away,3194,0
+Played,10,181248,2017-10-24 18:45:00,3161,Stadio Giuseppe Meazza,2576055,"Internazionale - Sampdoria, 3 - 2",Regular,524,home,3161,3,away,3164,2
+Played,9,181248,2017-10-22 18:45:00,3162,Stadio Olimpico,2576042,"Lazio - Cagliari, 3 - 0",Regular,524,home,3162,3,away,3173,0
+Played,9,181248,2017-10-22 16:00:00,3159,Dacia Arena,2576048,"Udinese - Juventus, 2 - 6",Regular,524,home,3163,2,away,3159,6
+Played,9,181248,2017-10-22 13:00:00,3172,Stadio Atleti Azzurri d'Italia,2576039,"Atalanta - Bologna, 1 - 0",Regular,524,home,3172,1,away,3166,0
+Played,9,181248,2017-10-22 13:00:00,3176,Stadio Ciro Vigorito,2576040,"Benevento - Fiorentina, 0 - 3",Regular,524,home,3219,0,away,3176,3
+Played,9,181248,2017-10-22 13:00:00,0,Stadio Giuseppe Meazza,2576043,"Milan - Genoa, 0 - 0",Regular,524,home,3157,0,away,3193,0
+Played,9,181248,2017-10-22 13:00:00,3315,Stadio Paolo Mazza,2576046,"SPAL - Sassuolo, 0 - 1",Regular,524,away,3315,1,home,3204,0
+Played,9,181248,2017-10-22 13:00:00,3158,Stadio Olimpico Grande Torino,2576047,"Torino - Roma, 0 - 1",Regular,524,away,3158,1,home,3185,0
+Played,9,181248,2017-10-22 10:30:00,3165,Stadio Marc'Antonio Bentegodi,2576041,"Chievo - Hellas Verona, 3 - 2",Regular,524,home,3165,3,away,3194,2
+Played,9,181248,2017-10-21 18:45:00,0,Stadio San Paolo,2576044,"Napoli - Internazionale, 0 - 0",Regular,524,away,3161,0,home,3187,0
+Played,9,181248,2017-10-21 16:00:00,3164,Stadio Comunale Luigi Ferraris,2576045,"Sampdoria - Crotone, 5 - 0",Regular,524,away,3197,0,home,3164,5
+Played,8,181248,2017-10-16 18:45:00,3194,Stadio Marc'Antonio Bentegodi,2576033,"Hellas Verona - Benevento, 1 - 0",Regular,524,away,3219,0,home,3194,1
+Played,8,181248,2017-10-15 18:45:00,3161,Stadio Giuseppe Meazza,2576034,"Internazionale - Milan, 3 - 2",Regular,524,home,3161,3,away,3157,2
+Played,8,181248,2017-10-15 13:00:00,3166,Stadio Renato Dall'Ara,2576029,"Bologna - SPAL, 2 - 1",Regular,524,home,3166,2,away,3204,1
+Played,8,181248,2017-10-15 13:00:00,3193,Sardegna Arena,2576030,"Cagliari - Genoa, 2 - 3",Regular,524,home,3173,2,away,3193,3
+Played,8,181248,2017-10-15 13:00:00,0,Stadio Ezio Scida,2576031,"Crotone - Torino, 2 - 2",Regular,524,home,3197,2,away,3185,2
+Played,8,181248,2017-10-15 13:00:00,3164,Stadio Comunale Luigi Ferraris,2576037,"Sampdoria - Atalanta, 3 - 1",Regular,524,away,3172,1,home,3164,3
+Played,8,181248,2017-10-15 13:00:00,0,MAPEI Stadium - Citt\u00e0 del Tricolore,2576038,"Sassuolo - Chievo, 0 - 0",Regular,524,home,3315,0,away,3165,0
+Played,8,181248,2017-10-15 10:30:00,3176,Stadio Artemio Franchi,2576032,"Fiorentina - Udinese, 2 - 1",Regular,524,away,3163,1,home,3176,2
+Played,8,181248,2017-10-14 18:45:00,3187,Stadio Olimpico,2576036,"Roma - Napoli, 0 - 1",Regular,524,home,3158,0,away,3187,1
+Played,8,181248,2017-10-14 16:00:00,3162,Allianz Stadium,2576035,"Juventus - Lazio, 1 - 2",Regular,524,away,3162,2,home,3159,1
+Played,7,181248,2017-10-01 18:45:00,0,Stadio Atleti Azzurri d'Italia,2576019,"Atalanta - Juventus, 2 - 2",Regular,524,home,3172,2,away,3159,2
+Played,7,181248,2017-10-01 16:00:00,3158,Stadio Giuseppe Meazza,2576024,"Milan - Roma, 0 - 2",Regular,524,away,3158,2,home,3157,0
+Played,7,181248,2017-10-01 13:00:00,3161,Stadio Ciro Vigorito,2576020,"Benevento - Internazionale, 1 - 2",Regular,524,away,3161,2,home,3219,1
+Played,7,181248,2017-10-01 13:00:00,3165,Stadio Marc'Antonio Bentegodi,2576021,"Chievo - Fiorentina, 2 - 1",Regular,524,home,3165,2,away,3176,1
+Played,7,181248,2017-10-01 13:00:00,3162,Stadio Olimpico,2576023,"Lazio - Sassuolo, 6 - 1",Regular,524,home,3162,6,away,3315,1
+Played,7,181248,2017-10-01 13:00:00,0,Stadio Paolo Mazza,2576026,"SPAL - Crotone, 1 - 1",Regular,524,away,3197,1,home,3204,1
+Played,7,181248,2017-10-01 13:00:00,0,Stadio Olimpico Grande Torino,2576027,"Torino - Hellas Verona, 2 - 2",Regular,524,home,3185,2,away,3194,2
+Played,7,181248,2017-10-01 10:30:00,3187,Stadio San Paolo,2576025,"Napoli - Cagliari, 3 - 0",Regular,524,away,3173,0,home,3187,3
+Played,7,181248,2017-09-30 18:45:00,3166,Stadio Comunale Luigi Ferraris,2576022,"Genoa - Bologna, 0 - 1",Regular,524,away,3166,1,home,3193,0
+Played,7,181248,2017-09-30 16:00:00,3163,Dacia Arena,2576028,"Udinese - Sampdoria, 4 - 0",Regular,524,home,3163,4,away,3164,0
+Played,6,181248,2017-09-24 18:45:00,0,Stadio Artemio Franchi,2576011,"Fiorentina - Atalanta, 1 - 1",Regular,524,away,3172,1,home,3176,1
+Played,6,181248,2017-09-24 16:00:00,3166,MAPEI Stadium - Citt\u00e0 del Tricolore,2576017,"Sassuolo - Bologna, 0 - 1",Regular,524,home,3315,0,away,3166,1
+Played,6,181248,2017-09-24 13:00:00,3165,Sardegna Arena,2576009,"Cagliari - Chievo, 0 - 2",Regular,524,home,3173,0,away,3165,2
+Played,6,181248,2017-09-24 13:00:00,3197,Stadio Ezio Scida,2576010,"Crotone - Benevento, 2 - 0",Regular,524,away,3219,0,home,3197,2
+Played,6,181248,2017-09-24 13:00:00,3162,Stadio Marc'Antonio Bentegodi,2576012,"Hellas Verona - Lazio, 0 - 3",Regular,524,away,3162,3,home,3194,0
+Played,6,181248,2017-09-24 13:00:00,3161,Stadio Giuseppe Meazza,2576013,"Internazionale - Genoa, 1 - 0",Regular,524,home,3161,1,away,3193,0
+Played,6,181248,2017-09-24 10:30:00,3164,Stadio Comunale Luigi Ferraris,2576016,"Sampdoria - Milan, 2 - 0",Regular,524,away,3157,0,home,3164,2
+Played,6,181248,2017-09-23 18:45:00,3159,Allianz Stadium,2576014,"Juventus - Torino, 4 - 0",Regular,524,away,3185,0,home,3159,4
+Played,6,181248,2017-09-23 16:00:00,3187,Stadio Paolo Mazza,2576018,"SPAL - Napoli, 2 - 3",Regular,524,away,3187,3,home,3204,2
+Played,6,181248,2017-09-23 13:00:00,3158,Stadio Olimpico,2576015,"Roma - Udinese, 3 - 1",Regular,524,home,3158,3,away,3163,1
+Played,5,181248,2017-09-20 18:45:00,3172,Stadio Atleti Azzurri d'Italia,2575999,"Atalanta - Crotone, 5 - 1",Regular,524,home,3172,5,away,3197,1
+Played,5,181248,2017-09-20 18:45:00,3315,Sardegna Arena,2576002,"Cagliari - Sassuolo, 0 - 1",Regular,524,away,3315,1,home,3173,0
+Played,5,181248,2017-09-20 18:45:00,0,Stadio Comunale Luigi Ferraris,2576003,"Genoa - Chievo, 1 - 1",Regular,524,away,3165,1,home,3193,1
+Played,5,181248,2017-09-20 18:45:00,0,Stadio Marc'Antonio Bentegodi,2576004,"Hellas Verona - Sampdoria, 0 - 0",Regular,524,away,3164,0,home,3194,0
+Played,5,181248,2017-09-20 18:45:00,3159,Allianz Stadium,2576005,"Juventus - Fiorentina, 1 - 0",Regular,524,away,3176,0,home,3159,1
+Played,5,181248,2017-09-20 18:45:00,3187,Stadio Olimpico,2576006,"Lazio - Napoli, 1 - 4",Regular,524,home,3162,1,away,3187,4
+Played,5,181248,2017-09-20 18:45:00,3157,Stadio Giuseppe Meazza,2576007,"Milan - SPAL, 2 - 0",Regular,524,home,3157,2,away,3204,0
+Played,5,181248,2017-09-20 18:45:00,3185,Dacia Arena,2576008,"Udinese - Torino, 2 - 3",Regular,524,home,3163,2,away,3185,3
+Played,5,181248,2017-09-20 16:00:00,3158,Stadio Ciro Vigorito,2576000,"Benevento - Roma, 0 - 4",Regular,524,away,3158,4,home,3219,0
+Played,5,181248,2017-09-19 18:45:00,0,Stadio Renato Dall'Ara,2576001,"Bologna - Internazionale, 1 - 1",Regular,524,away,3161,1,home,3166,1
+Played,4,181248,2017-09-17 18:45:00,3162,Stadio Comunale Luigi Ferraris,2575992,"Genoa - Lazio, 2 - 3",Regular,524,away,3162,3,home,3193,2
+Played,4,181248,2017-09-17 16:00:00,0,Stadio Marc'Antonio Bentegodi,2575989,"Chievo - Atalanta, 1 - 1",Regular,524,away,3172,1,home,3165,1
+Played,4,181248,2017-09-17 13:00:00,3157,Stadio Giuseppe Meazza,2575993,"Milan - Udinese, 2 - 1",Regular,524,away,3163,1,home,3157,2
+Played,4,181248,2017-09-17 13:00:00,3187,Stadio San Paolo,2575994,"Napoli - Benevento, 6 - 0",Regular,524,away,3219,0,home,3187,6
+Played,4,181248,2017-09-17 13:00:00,3173,Stadio Paolo Mazza,2575997,"SPAL - Cagliari, 0 - 2",Regular,524,away,3173,2,home,3204,0
+Played,4,181248,2017-09-17 13:00:00,0,Stadio Olimpico Grande Torino,2575998,"Torino - Sampdoria, 2 - 2",Regular,524,away,3164,2,home,3185,2
+Played,4,181248,2017-09-17 10:30:00,3159,MAPEI Stadium - Citt\u00e0 del Tricolore,2575996,"Sassuolo - Juventus, 1 - 3",Regular,524,home,3315,1,away,3159,3
+Played,4,181248,2017-09-16 18:45:00,3158,Stadio Olimpico,2575995,"Roma - Hellas Verona, 3 - 0",Regular,524,home,3158,3,away,3194,0
+Played,4,181248,2017-09-16 16:00:00,3176,Stadio Artemio Franchi,2575991,"Fiorentina - Bologna, 2 - 1",Regular,524,away,3166,1,home,3176,2
+Played,4,181248,2017-09-16 13:00:00,3161,Stadio Ezio Scida,2575990,"Crotone - Internazionale, 0 - 2",Regular,524,away,3161,2,home,3197,0
+Played,3,181248,2017-09-10 18:45:00,3187,Stadio Renato Dall'Ara,2575981,"Bologna - Napoli, 0 - 3",Regular,524,home,3166,0,away,3187,3
+Played,3,181248,2017-09-10 16:00:00,3185,Stadio Ciro Vigorito,2575980,"Benevento - Torino, 0 - 1",Regular,524,home,3219,0,away,3185,1
+Played,3,181248,2017-09-10 14:00:00,3162,Stadio Olimpico,2575986,"Lazio - Milan, 4 - 1",Regular,524,home,3162,4,away,3157,1
+Played,3,181248,2017-09-10 13:00:00,3172,Stadio Atleti Azzurri d'Italia,2575979,"Atalanta - Sassuolo, 2 - 1",Regular,524,away,3315,1,home,3172,2
+Played,3,181248,2017-09-10 13:00:00,3173,Sardegna Arena,2575982,"Cagliari - Crotone, 1 - 0",Regular,524,home,3173,1,away,3197,0
+Played,3,181248,2017-09-10 13:00:00,3176,Stadio Marc'Antonio Bentegodi,2575983,"Hellas Verona - Fiorentina, 0 - 5",Regular,524,away,3176,5,home,3194,0
+Played,3,181248,2017-09-10 13:00:00,3163,Dacia Arena,2575988,"Udinese - Genoa, 1 - 0",Regular,524,home,3163,1,away,3193,0
+Played,3,181248,2017-09-10 10:30:00,3161,Stadio Giuseppe Meazza,2575984,"Internazionale - SPAL, 2 - 0",Regular,524,home,3161,2,away,3204,0
+Played,3,181248,2017-09-09 16:00:00,3159,Allianz Stadium,2575985,"Juventus - Chievo, 3 - 0",Regular,524,away,3165,0,home,3159,3
+Played,2,181248,2017-08-27 18:45:00,3162,Stadio Marc'Antonio Bentegodi,2575970,"Chievo - Lazio, 1 - 2",Regular,524,away,3162,2,home,3165,1
+Played,2,181248,2017-08-27 18:45:00,0,Stadio Ezio Scida,2575971,"Crotone - Hellas Verona, 0 - 0",Regular,524,home,3197,0,away,3194,0
+Played,2,181248,2017-08-27 18:45:00,3164,Stadio Artemio Franchi,2575972,"Fiorentina - Sampdoria, 1 - 2",Regular,524,home,3176,1,away,3164,2
+Played,2,181248,2017-08-27 18:45:00,3157,Stadio Giuseppe Meazza,2575974,"Milan - Cagliari, 2 - 1",Regular,524,away,3173,1,home,3157,2
+Played,2,181248,2017-08-27 18:45:00,3187,Stadio San Paolo,2575975,"Napoli - Atalanta, 3 - 1",Regular,524,away,3172,1,home,3187,3
+Played,2,181248,2017-08-27 18:45:00,3204,Stadio Renato Dall'Ara,2575977,"SPAL - Udinese, 3 - 2",Regular,524,away,3163,2,home,3204,3
+Played,2,181248,2017-08-27 16:00:00,3185,Stadio Olimpico Grande Torino,2575978,"Torino - Sassuolo, 3 - 0",Regular,524,away,3315,0,home,3185,3
+Played,2,181248,2017-08-26 18:45:00,3161,Stadio Olimpico,2575976,"Roma - Internazionale, 1 - 3",Regular,524,away,3161,3,home,3158,1
+Played,2,181248,2017-08-26 16:00:00,3166,Stadio Ciro Vigorito,2575969,"Benevento - Bologna, 0 - 1",Regular,524,home,3219,0,away,3166,1
+Played,2,181248,2017-08-26 16:00:00,3159,Stadio Comunale Luigi Ferraris,2575973,"Genoa - Juventus, 2 - 4",Regular,524,home,3193,2,away,3159,4
+Played,1,181248,2017-08-20 18:45:00,0,Stadio Renato Dall'Ara,2575960,"Bologna - Torino, 1 - 1",Regular,524,home,3166,1,away,3185,1
+Played,1,181248,2017-08-20 18:45:00,3157,Stadio Ezio Scida,2575961,"Crotone - Milan, 0 - 3",Regular,524,home,3197,0,away,3157,3
+Played,1,181248,2017-08-20 18:45:00,3161,Stadio Giuseppe Meazza,2575963,"Internazionale - Fiorentina, 3 - 0",Regular,524,home,3161,3,away,3176,0
+Played,1,181248,2017-08-20 18:45:00,0,Stadio Olimpico,2575965,"Lazio - SPAL, 0 - 0",Regular,524,home,3162,0,away,3204,0
+Played,1,181248,2017-08-20 18:45:00,3164,Stadio Comunale Luigi Ferraris,2575966,"Sampdoria - Benevento, 2 - 1",Regular,524,away,3219,1,home,3164,2
+Played,1,181248,2017-08-20 18:45:00,0,MAPEI Stadium - Citt\u00e0 del Tricolore,2575967,"Sassuolo - Genoa, 0 - 0",Regular,524,home,3315,0,away,3193,0
+Played,1,181248,2017-08-20 18:45:00,3165,Dacia Arena,2575968,"Udinese - Chievo, 1 - 2",Regular,524,away,3165,2,home,3163,1
+Played,1,181248,2017-08-20 16:00:00,3158,Stadio Atleti Azzurri d'Italia,2575959,"Atalanta - Roma, 0 - 1",Regular,524,away,3158,1,home,3172,0
+Played,1,181248,2017-08-19 18:45:00,3187,Stadio Marc'Antonio Bentegodi,2575962,"Hellas Verona - Napoli, 1 - 3",Regular,524,away,3187,3,home,3194,1
+Played,1,181248,2017-08-19 16:00:00,3159,Allianz Stadium,2575964,"Juventus - Cagliari, 3 - 0",Regular,524,away,3173,0,home,3159,3

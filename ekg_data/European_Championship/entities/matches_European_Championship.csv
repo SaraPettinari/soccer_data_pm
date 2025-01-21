@@ -1,0 +1,52 @@
+status,gameweek,seasonId,dateutc,winner,venue,wyId,label,groupName,duration,competitionId,team1.side,team1.teamId,team1.score,team2.side,team2.teamId,team2.score
+Played,0,9291,2016-07-10 19:00:00,9905,Stade de France,1694440,"Portugal - France, 1 - 0 (E)",Group F,ExtraTime,102,home,9905,0,away,4418,0
+Played,0,9291,2016-07-07 19:00:00,4418,Stade V\u00e9lodrome,1694439,"Germany - France, 0 - 2",Group F,Regular,102,away,4418,2,home,3148,0
+Played,0,9291,2016-07-06 19:00:00,9905,Groupama Stadium,1694438,"Portugal - Wales, 2 - 0",Group F,Regular,102,home,9905,2,away,10682,0
+Played,0,9291,2016-07-03 19:00:00,4418,Stade de France,1694437,"France - Iceland, 5 - 2",Group F,Regular,102,home,4418,5,away,7839,2
+Played,0,9291,2016-07-02 19:00:00,3148,Stade Matmut-Atlantique,1694436,"Germany - Italy, 1 - 1 (P)",Group F,Penalties,102,home,3148,1,away,3757,1
+Played,0,9291,2016-07-01 19:00:00,10682,Stade Pierre-Mauroy,1694435,"Wales - Belgium, 3 - 1",Group F,Regular,102,home,10682,3,away,5629,1
+Played,0,9291,2016-06-30 19:00:00,9905,Stade V\u00e9lodrome,1694434,"Poland - Portugal, 1 - 1 (P)",Group F,Penalties,102,away,9905,1,home,13869,1
+Played,0,9291,2016-06-27 19:00:00,7839,Allianz Riviera,1694433,"England - Iceland, 1 - 2",Group F,Regular,102,away,7839,2,home,2413,1
+Played,0,9291,2016-06-27 16:00:00,3757,Stade de France,1694432,"Italy - Spain, 2 - 0",Group F,Regular,102,home,3757,2,away,1598,0
+Played,0,9291,2016-06-26 19:00:00,5629,Stadium Municipal,1694431,"Hungary - Belgium, 0 - 4",Group F,Regular,102,away,5629,4,home,10451,0
+Played,0,9291,2016-06-26 16:00:00,3148,Stade Pierre-Mauroy,1694430,"Germany - Slovakia, 3 - 0",Group F,Regular,102,home,3148,3,away,14496,0
+Played,0,9291,2016-06-26 13:00:00,4418,Groupama Stadium,1694429,"France - Republic of Ireland, 2 - 1",Group F,Regular,102,home,4418,2,away,8274,1
+Played,0,9291,2016-06-25 19:00:00,9905,Stade Bollaert-Delelis,1694428,"Croatia - Portugal, 0 - 1 (E)",Group F,ExtraTime,102,away,9905,0,home,9598,0
+Played,0,9291,2016-06-25 16:00:00,10682,Parc des Princes,1694427,"Wales - Northern Ireland, 1 - 0",Group F,Regular,102,home,10682,1,away,10962,0
+Played,0,9291,2016-06-25 13:00:00,13869,Stade Geoffroy-Guichard,1694426,"Switzerland - Poland, 1 - 1 (P)",Group F,Penalties,102,away,13869,1,home,6697,1
+Played,3,9291,2016-06-22 19:00:00,5629,Allianz Riviera,1694419,"Sweden - Belgium, 0 - 1",Group E,Regular,102,away,5629,1,home,7047,0
+Played,3,9291,2016-06-22 19:00:00,8274,Stade Pierre-Mauroy,1694418,"Italy - Republic of Ireland, 0 - 1",Group E,Regular,102,home,3757,0,away,8274,1
+Played,3,9291,2016-06-22 16:00:00,0,Groupama Stadium,1694424,"Hungary - Portugal, 3 - 3",Group F,Regular,102,away,9905,3,home,10451,3
+Played,3,9291,2016-06-22 16:00:00,7839,Stade de France,1694425,"Iceland - Austria, 2 - 1",Group F,Regular,102,home,7839,2,away,9109,1
+Played,3,9291,2016-06-21 19:00:00,4687,Stade Bollaert-Delelis,1694413,"Czech Republic - Turkey, 0 - 2",Group D,Regular,102,away,4687,2,home,11555,0
+Played,3,9291,2016-06-21 19:00:00,9598,Stade Matmut-Atlantique,1694412,"Croatia - Spain, 2 - 1",Group D,Regular,102,away,1598,1,home,9598,2
+Played,3,9291,2016-06-21 16:00:00,13869,Stade V\u00e9lodrome,1694406,"Ukraine - Poland, 0 - 1",Group C,Regular,102,away,13869,1,home,14622,0
+Played,3,9291,2016-06-21 16:00:00,3148,Parc des Princes,1694407,"Northern Ireland - Germany, 0 - 1",Group C,Regular,102,away,3148,1,home,10962,0
+Played,3,9291,2016-06-20 19:00:00,0,Stade Geoffroy-Guichard,1694400,"Slovakia - England, 0 - 0",Group B,Regular,102,away,2413,0,home,14496,0
+Played,3,9291,2016-06-20 19:00:00,10682,Stadium Municipal,1694401,"Russia - Wales, 0 - 3",Group B,Regular,102,away,10682,3,home,14358,0
+Played,3,9291,2016-06-19 19:00:00,0,Stade Pierre-Mauroy,1694394,"Switzerland - France, 0 - 0",Group A,Regular,102,away,4418,0,home,6697,0
+Played,3,9291,2016-06-19 19:00:00,8731,Groupama Stadium,1694395,"Romania - Albania, 0 - 1",Group A,Regular,102,home,11944,0,away,8731,1
+Played,2,9291,2016-06-18 19:00:00,0,Parc des Princes,1694423,"Portugal - Austria, 0 - 0",Group F,Regular,102,home,9905,0,away,9109,0
+Played,2,9291,2016-06-18 16:00:00,0,Stade V\u00e9lodrome,1694422,"Iceland - Hungary, 1 - 1",Group F,Regular,102,home,7839,1,away,10451,1
+Played,2,9291,2016-06-18 13:00:00,5629,Stade Matmut-Atlantique,1694417,"Belgium - Republic of Ireland, 3 - 0",Group E,Regular,102,home,5629,3,away,8274,0
+Played,2,9291,2016-06-17 19:00:00,1598,Allianz Riviera,1694411,"Spain - Turkey, 3 - 0",Group D,Regular,102,home,1598,3,away,4687,0
+Played,2,9291,2016-06-17 16:00:00,0,Stade Geoffroy-Guichard,1694410,"Czech Republic - Croatia, 2 - 2",Group D,Regular,102,away,9598,2,home,11555,2
+Played,2,9291,2016-06-17 13:00:00,3757,Stadium Municipal,1694416,"Italy - Sweden, 1 - 0",Group E,Regular,102,home,3757,1,away,7047,0
+Played,2,9291,2016-06-16 19:00:00,0,Stade de France,1694405,"Germany - Poland, 0 - 0",Group C,Regular,102,home,3148,0,away,13869,0
+Played,2,9291,2016-06-16 16:00:00,10962,Groupama Stadium,1694404,"Ukraine - Northern Ireland, 0 - 2",Group C,Regular,102,away,10962,2,home,14622,0
+Played,2,9291,2016-06-16 13:00:00,2413,Stade Bollaert-Delelis,1694399,"England - Wales, 2 - 1",Group B,Regular,102,away,10682,1,home,2413,2
+Played,2,9291,2016-06-15 19:00:00,4418,Stade V\u00e9lodrome,1694393,"France - Albania, 2 - 0",Group A,Regular,102,home,4418,2,away,8731,0
+Played,2,9291,2016-06-15 16:00:00,0,Parc des Princes,1694392,"Romania - Switzerland, 1 - 1",Group A,Regular,102,away,6697,1,home,11944,1
+Played,2,9291,2016-06-15 13:00:00,14496,Stade Pierre-Mauroy,1694398,"Russia - Slovakia, 1 - 2",Group B,Regular,102,away,14496,2,home,14358,1
+Played,1,9291,2016-06-14 19:00:00,0,Stade Geoffroy-Guichard,1694421,"Portugal - Iceland, 1 - 1",Group F,Regular,102,home,9905,1,away,7839,1
+Played,1,9291,2016-06-14 16:00:00,10451,Stade Matmut-Atlantique,1694420,"Austria - Hungary, 0 - 2",Group F,Regular,102,away,10451,2,home,9109,0
+Played,1,9291,2016-06-13 19:00:00,3757,Groupama Stadium,1694415,"Belgium - Italy, 0 - 2",Group E,Regular,102,away,3757,2,home,5629,0
+Played,1,9291,2016-06-13 16:00:00,0,Stade de France,1694414,"Republic of Ireland - Sweden, 1 - 1",Group E,Regular,102,home,8274,1,away,7047,1
+Played,1,9291,2016-06-13 13:00:00,1598,Stadium Municipal,1694409,"Spain - Czech Republic, 1 - 0",Group D,Regular,102,home,1598,1,away,11555,0
+Played,1,9291,2016-06-12 19:00:00,3148,Stade Pierre-Mauroy,1694403,"Germany - Ukraine, 2 - 0",Group C,Regular,102,home,3148,2,away,14622,0
+Played,1,9291,2016-06-12 16:00:00,13869,Allianz Riviera,1694402,"Poland - Northern Ireland, 1 - 0",Group C,Regular,102,home,13869,1,away,10962,0
+Played,1,9291,2016-06-12 13:00:00,9598,Parc des Princes,1694408,"Turkey - Croatia, 0 - 1",Group D,Regular,102,away,9598,1,home,4687,0
+Played,1,9291,2016-06-11 19:00:00,0,Stade V\u00e9lodrome,1694397,"England - Russia, 1 - 1",Group B,Regular,102,home,2413,1,away,14358,1
+Played,1,9291,2016-06-11 16:00:00,10682,Stade Matmut-Atlantique,1694396,"Wales - Slovakia, 2 - 1",Group B,Regular,102,home,10682,2,away,14496,1
+Played,1,9291,2016-06-11 13:00:00,6697,Stade Bollaert-Delelis,1694391,"Albania - Switzerland, 0 - 1",Group A,Regular,102,away,6697,1,home,8731,0
+Played,1,9291,2016-06-10 19:00:00,4418,Stade de France,1694390,"France - Romania, 2 - 1",Group A,Regular,102,home,4418,2,away,11944,1
