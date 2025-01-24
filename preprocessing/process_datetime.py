@@ -3,7 +3,6 @@ import os
 import pandas as pd
 from datetime import timedelta
 
-league_list = ['England', 'France', 'Germany', 'Italy', 'Spain', 'European_Championship','World_Cup']
 
 def assign_datetime(events_file, matches_file, out_file):
 
@@ -51,7 +50,7 @@ def assign_datetime(events_file, matches_file, out_file):
 
 
 if __name__ == "__main__":
-    for league in league_list:
+    for league in const.LEAGUE_LIST:
         # Load the CSV files
         a = const.DATA_PATH
         events_file = os.path.join(const.DATA_PATH, f'events_{league}.csv')

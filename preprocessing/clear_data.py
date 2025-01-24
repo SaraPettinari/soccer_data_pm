@@ -12,7 +12,7 @@ tags_file = os.path.join(const.DATA_PATH, 'tags2name.csv')
 tags_df = pd.read_csv(tags_file)
 
 def clean_events():
-    for league in league_list:
+    for league in const.LEAGUE_LIST:
         league_dir = os.path.join(out_dir, league)
 
         if not os.path.isdir(league_dir): 
@@ -89,7 +89,7 @@ def clean_entities(league, ent_list):
     print(f'Entities file created for {league}')        
    
 if __name__ == "__main__": 
-    for league in league_list:
+    for league in const.LEAGUE_LIST:
         ent_list = ['teams', 'players', f'matches_{league}']
         clean_entities(league, ent_list)  
     #clean_events()
