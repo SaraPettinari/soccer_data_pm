@@ -15,5 +15,6 @@ Position areas and zones are derived from the original dataset, which contains t
 Notably, if x or y values correspond to 0 or 100, the area is set as *out of the field*.
 
 ![Soccer Field Area Processing](/docs/imgs/field-processing.png)
+
 **Figure 1:** Soccer field area processing method based on x and y percentages.
 

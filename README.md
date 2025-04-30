@@ -3,9 +3,9 @@
 This repository contains the event logs processed from a soccer match event dataset.
 The logs have been processed for creating Event Knowledge Graphs (EKGs).
 
->  Reference Dataset and Literature: https://www.kaggle.com/datasets/aleespinosa/soccer-match-event-dataset/data & [[paper]](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5).
+>  Reference Dataset and Literature: [[dataset]](https://www.kaggle.com/datasets/aleespinosa/soccer-match-event-dataset/data) & [[paper]](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5).
 
->  More information about the processing steps can be found [here](/docs/data_processing.md).
+📝 More information about the processing steps can be found [here](/docs/data_processing.md).
 
 ## Object-Centric Event Log Information
 
@@ -17,7 +17,7 @@ The logs have been processed for creating Event Knowledge Graphs (EKGs).
 - **match:** Identifier of the corresponding match.
 - **team:** Identifier of the team associated with the event.
 - **player:** Identifier of the player involved in the event.
-- **position_init:** Identifier of the event's position.
+- **pos_orig:** Identifier of the event's position.
 
 ### Team Attributes
 
@@ -38,11 +38,12 @@ The logs have been processed for creating Event Knowledge Graphs (EKGs).
 ### Position Attributes
 
 - **entityId:** Unique identifier for the field area.
-- **area:** General
+- **area:** General field area classification: Midfield, Defense, Goalkeeper, Out of the field.
+- **zone:** Absolute zone (wrt the first team appearing in the log for a specific match) where the event occurred: Left, Right.
 
 ## Event Log Folder Structure
 
-Each league is organized into its own folder. Within this folder, the `entities` subfolder holds all tables containing object attributes, while the `events.csv` file stores the event data, while `events_with_area.csv` contains the event data processed to record also the position entity.
+Each league is organized into its own folder. Within this folder, the `entities` subfolder holds all tables containing object attributes, while the `events.csv` file stores the event data, while `events_with_postion.csv` contains the event data processed to record also the position entity.
 
 ```
     📁 {league}
