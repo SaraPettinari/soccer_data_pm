@@ -1,7 +1,8 @@
 import const
 import os
 from process_datetime import assign_datetime
-from clear_data import clean_events
+from clear_data import clean_events, clean_entities
+from process_area import process_area
 
 
 if __name__ == "__main__":
@@ -12,3 +13,5 @@ if __name__ == "__main__":
         
         assign_datetime(events_file, matches_file, out_file)
         clean_events()
+        clean_entities()
+        process_area(events_file, league)

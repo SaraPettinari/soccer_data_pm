@@ -11,7 +11,10 @@ ZONE = {DEFEND: 'Defend_Zone', ATTACK: 'Attack_Zone'}
 GOALKEEPER = 'goal'
 MIDFIELD = 'mid'
 DEFENSE = 'def'
-AREA = {GOALKEEPER: 'Goalkeeper_Area', MIDFIELD: 'Midfield', DEFENSE: 'Defense_Area'}
+OUT = 'Out'
+AREA = {GOALKEEPER: 'GK', MIDFIELD: 'Mid', DEFENSE: 'Def'}
+LEFT = 'LEFT'
+RIGHT = 'RIGHT'
 
 ENTITY = 'ent'
 FOLDERS = {ENTITY: 'entities'}

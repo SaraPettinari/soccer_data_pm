@@ -361,7 +361,7 @@ currentTeamId,birthDate,role,wyId,shortName,currentNationalTeamId
 3194,1991-03-02,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",21573,M. Silvestri,-1
 3197,1994-05-27,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",250956,F. Ricci,-1
 3165,1986-10-08,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",21607,F. Cacciatore,-1
-3204,1989-01-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",21620,J. Kurti\u010d,12046
+3172,1989-01-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",21620,J. Kurti\u010d,12046
 3193,1989-08-07,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",21636,E. Lamanna,-1
 3173,1989-08-11,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",21639,L. Ceppitelli,-1
 3197,1991-02-11,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",21655,A. Stoian,-1

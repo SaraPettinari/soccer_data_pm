@@ -1,7 +1,0 @@
-id,type,zone
-Ma-Az,Midfield,Attack_Zone
-Ma-Dz,Midfield,Defend_Zone
-Da-Dz,Defense_Area,Defend_Zone
-Da-Az,Defense_Area,Attack_Zone
-Ga-Dz,Goalkeeper_Area,Defend_Zone
-Ga-Az,Goalkeeper_Area,Attack_Zone

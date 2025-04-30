@@ -4,11 +4,15 @@ import pandas as pd
 
 
 
-def get_zone_and_type(x, y):
+def get_zone_and_type(x, y, subEvent):
+    # Check if the event is not in the field area
+    if (x == 0 or y == 0 or x == 100 or y == 100) or subEvent == 'Ball out of the field':
+        return const.OUT.capitalize(), ''
+    
     if x < 50:
-        zone = const.ZONE.get(const.DEFEND)
+        zone = const.LEFT
     else:
-        zone = const.ZONE.get(const.ATTACK)
+        zone = const.RIGHT
     
     if (x < 12 or x > 88) and (30 < y < 60):
         area_type = const.AREA.get(const.GOALKEEPER)
@@ -21,32 +25,47 @@ def get_zone_and_type(x, y):
 
 
 def process_area(data: pd.DataFrame, league: str):
+
+    
+    reference_teams = data.groupby('matchId').first().reset_index()[['matchId', 'teamId']]
+    reference_teams = reference_teams.rename(columns={'teamId': 'referenceTeamId'})
+
+    # Merge reference team info into original dataframe
+    df = data.merge(reference_teams, on='matchId', how='left')
+    
+    def normalize_coordinates(row):
+        if row['teamId'] != row['referenceTeamId']:
+            row['pos_orig_x'] = 100 - row['pos_orig_x']
+            row['pos_orig_y'] = 100 - row['pos_orig_y']
+        return row
+
+    data = df.apply(normalize_coordinates, axis=1)
+    
+    data = df.drop(columns=['referenceTeamId'])
+
+
     data[['type_orig', 'zone_orig']] = data.apply(
-        lambda row: pd.Series(get_zone_and_type(row['pos_orig_x'], row['pos_orig_y'])), axis=1
-    )
-    data[['type_dest', 'zone_dest']] = data.apply(
-        lambda row: pd.Series(get_zone_and_type(row['pos_dest_x'], row['pos_dest_y'])), axis=1
+        lambda row: pd.Series(get_zone_and_type(row['pos_orig_x'], row['pos_orig_y'], row['subEventName'])), axis=1
     )
 
-    data['pos_orig'] = data['type_orig'].str[0] + 'a-' + data['zone_orig'].astype(str).str[0] + 'z'
-    data['pos_dest'] = data['type_dest'].str[0] + 'a-' + data['zone_dest'].astype(str).str[0] + 'z'
+    data['pos_orig'] = data['type_orig'] + '-' + data['zone_orig']
+    data.loc[data['type_orig'] == const.OUT.capitalize(), 'pos_orig'] = const.OUT
 
+        
     area_df = pd.concat([
         data[['pos_orig', 'type_orig', 'zone_orig']].rename(columns={
-            'pos_orig': 'id', 'type_orig': 'type', 'zone_orig': 'zone'
+            'pos_orig': 'id', 'type_orig': 'area', 'zone_orig': 'zone'
         }),
-        data[['pos_dest', 'type_dest', 'zone_dest']].rename(columns={
-            'pos_dest': 'id', 'type_dest': 'type', 'zone_dest': 'zone'
-        })
     ]).drop_duplicates(subset='id').reset_index(drop=True)
 
-    area_file_path = os.path.join(os.getcwd(), 'ekg_data', league, 'entities', f'areas_{league}.csv')
+    area_file_path = os.path.join(os.getcwd(), 'ekg_data', league, 'entities', f'position_{league}.csv')
     os.makedirs(os.path.dirname(area_file_path), exist_ok=True)
     area_df.to_csv(area_file_path, index=False)
     
-    data = data.drop(columns=['type_orig','zone_orig','type_dest','zone_dest'])
-
-    output_file = os.path.join(os.getcwd(), 'ekg_data', league, f'events_{league}_with_area.csv')
+    data = data.drop(columns=['type_orig','zone_orig'])
+    data = data.drop(columns=['pos_orig_y','pos_orig_x','pos_dest_y','pos_dest_x',])
+    
+    output_file = os.path.join(os.getcwd(), 'ekg_data', league, f'events_{league}_with_position.csv')
     data.to_csv(output_file, index=False)
     print(f'Successfully stored areas for {league}')
 
