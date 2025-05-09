@@ -1,0 +1,11 @@
+### LOG RELATED REFERENCES
+
+EVENT_ID = 'id'
+EVENT_ACTIVITY = 'eventName'
+EVENT_TIMESTAMP = 'eventDatetime'
+
+ENTITY_ID = 'wyId'
+
+
+### EKG RELATED REFERENCES
+ENTITY_TYPE_TAG = 'Type'
