@@ -1,19 +1,19 @@
-city,name,wyId,area
-M\u00f6nchengladbach,Borussia M'gladbach,2454,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Bremen,Werder Bremen,2443,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Leverkusen,Bayer Leverkusen,2446,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Dortmund,Borussia Dortmund,2447,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-M\u00fcnchen,Bayern M\u00fcnchen,2444,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Stuttgart,Stuttgart,2445,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Gelsenkirchen,Schalke 04,2449,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Hannover,Hannover 96,2455,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Berlin,Hertha BSC,2457,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Wolfsburg,Wolfsburg,2451,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Hamburg,Hamburger SV,2450,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Freiburg im Breisgau,Freiburg,2453,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Sinsheim,Hoffenheim,2482,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Augsburg,Augsburg,2481,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Mainz,Mainz 05,2460,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Frankfurt am Main,Eintracht Frankfurt,2462,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-K\u00f6ln,K\u00f6ln,2463,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
-Leipzig,RB Leipzig,2975,"{'name': 'Germany', 'id': '276', 'alpha3code': 'DEU', 'alpha2code': 'DE'}"
+city,name,wyId,country
+M\u00f6nchengladbach,Borussia M'gladbach,2454,Germany
+Bremen,Werder Bremen,2443,Germany
+Leverkusen,Bayer Leverkusen,2446,Germany
+Dortmund,Borussia Dortmund,2447,Germany
+M\u00fcnchen,Bayern M\u00fcnchen,2444,Germany
+Stuttgart,Stuttgart,2445,Germany
+Gelsenkirchen,Schalke 04,2449,Germany
+Hannover,Hannover 96,2455,Germany
+Berlin,Hertha BSC,2457,Germany
+Wolfsburg,Wolfsburg,2451,Germany
+Hamburg,Hamburger SV,2450,Germany
+Freiburg im Breisgau,Freiburg,2453,Germany
+Sinsheim,Hoffenheim,2482,Germany
+Augsburg,Augsburg,2481,Germany
+Mainz,Mainz 05,2460,Germany
+Frankfurt am Main,Eintracht Frankfurt,2462,Germany
+K\u00f6ln,K\u00f6ln,2463,Germany
+Leipzig,RB Leipzig,2975,Germany

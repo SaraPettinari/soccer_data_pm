@@ -32,7 +32,7 @@ The logs have been processed for creating Event Knowledge Graphs (EKGs).
 - **name:** Short name of the player.
 - **team:** Identifier of the player’s club team.
 - **nationalTeam:** Identifier of the player’s national team, if applicable.
-- **role:** Player’s role abbreviation: DEF (Defender), MID (Midfielder), FWD (Forward), GKP (Goalkeeper).
+- **role:** Player’s role abbreviation: DEF (Defender), MID (Midfielder), FWD (Forwarder), GKP (Goalkeeper).
 - **birthYear:** Player’s year of birth.
 
 ### Position Attributes

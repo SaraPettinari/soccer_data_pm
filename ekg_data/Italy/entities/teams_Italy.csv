@@ -1,21 +1,21 @@
-city,name,wyId,area
-Ferrara,SPAL,3204,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Milano,Milan,3157,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Torino,Juventus,3159,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Roma,Roma,3158,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Sassuolo,Sassuolo,3315,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Bologna,Bologna,3166,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Genova,Sampdoria,3164,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Verona,Chievo,3165,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Formello,Lazio,3162,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Udine,Udinese,3163,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Milano,Internazionale,3161,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Benevento,Benevento,3219,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Cagliari,Cagliari,3173,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Ciserano,Atalanta,3172,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Firenze,Fiorentina,3176,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Torino,Torino,3185,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Castel Volturno,Napoli,3187,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Crotone,Crotone,3197,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Verona,Hellas Verona,3194,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
-Genova,Genoa,3193,"{'name': 'Italy', 'id': '380', 'alpha3code': 'ITA', 'alpha2code': 'IT'}"
+city,name,wyId,country
+Ferrara,SPAL,3204,Italy
+Milano,Milan,3157,Italy
+Torino,Juventus,3159,Italy
+Roma,Roma,3158,Italy
+Sassuolo,Sassuolo,3315,Italy
+Bologna,Bologna,3166,Italy
+Genova,Sampdoria,3164,Italy
+Verona,Chievo,3165,Italy
+Formello,Lazio,3162,Italy
+Udine,Udinese,3163,Italy
+Milano,Internazionale,3161,Italy
+Benevento,Benevento,3219,Italy
+Cagliari,Cagliari,3173,Italy
+Ciserano,Atalanta,3172,Italy
+Firenze,Fiorentina,3176,Italy
+Torino,Torino,3185,Italy
+Castel Volturno,Napoli,3187,Italy
+Crotone,Crotone,3197,Italy
+Verona,Hellas Verona,3194,Italy
+Genova,Genoa,3193,Italy

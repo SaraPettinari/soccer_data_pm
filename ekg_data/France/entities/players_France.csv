@@ -1,542 +1,542 @@
 currentTeamId,birthDate,role,wyId,shortName,currentNationalTeamId
-3775,1999-01-23,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",393228,M. Sarr,4423
-3783,1994-08-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",229427,A. Djiku,-1
-3770,1990-03-14,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",66,K. Sig\u00fe\u00f3rsson,-1
-3795,1992-01-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",393284,C. Traor\u00e9,-1
-3766,1987-05-20,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",102,Marcelo,-1
-3766,1994-02-13,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",118,M. Depay,664
-3780,1986-07-03,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",123,O. Toivonen,7047
-3783,1991-03-01,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",131321,C. Kouakou,-1
-3770,1991-09-11,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",229697,Y. Bammou,-1
-3795,1991-06-29,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",382,Suk Hyun-Jun,-1
-3777,1998-11-14,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",376908,A. Jallow,-1
-3772,1994-05-04,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",295569,Ot\u00e1vio,-1
-2449,1997-10-21,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",426702,H. Mendyl,16216
-3779,1997-03-04,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",394006,M. Terrier,4425
-3775,1996-04-11,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",328488,P. Burner,-1
-3795,1996-08-14,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",295761,S. Grandsir,4425
-3775,1991-07-19,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",131959,J. Seri,-1
--1,1987-04-21,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",99453,P. Nakoulma,-1
-3165,1995-05-12,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",99511,M. St\u0119pi\u0144ski,-1
-3772,1985-05-30,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",99633,I. Lewczuk,-1
-19830,1992-08-24,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",263766,Jemerson,-1
-19830,1997-05-07,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",263802,Y. Tielemans,5629
-3766,1995-10-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",1712,K. Tete,664
-3782,1994-03-23,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",1751,O. Tannane,-1
-3767,1995-08-13,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",231138,P. Kimpembe,4418
-3783,1998-06-05,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",493412,Y. Armougom,-1
-3779,1996-12-19,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",493415,K. Zohi,-1
-3789,1988-10-23,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",132972,G. Gope-Fenepej,-1
-3776,1997-03-29,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",284322,E. Ponce,12281
-3785,1996-06-24,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",330387,M. Coco,-1
-3780,1994-04-17,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",264989,F. Mubele,18538
-4488,1985-09-17,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",101555,T. Hubo\u010dan,14496
-3771,1985-12-27,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3276,A. Rami,4418
-3787,1990-10-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3308,Pedro Mendes,-1
-3767,1985-03-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3315,L. Diarra,-1
-3767,1983-05-06,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3334,Dani Alves,-1
-19830,1986-02-10,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3450,R. Falcao,12430
-3767,1992-09-04,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",134540,L. Kurzawa,-1
--1,1990-08-20,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",101795,L. Traor\u00e9,-1
--1,1983-09-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3573,J. Toulalan,-1
-3782,1994-03-27,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",134797,Hernani,-1
-691,1993-12-22,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3803,Sergi Darder,-1
-3776,1999-02-27,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",397033,B. Soumar\u00e9,4423
-3766,1998-06-30,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",397046,H. Aouar,4425
-6407,1992-02-27,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",134951,L. Lacroix,-1
-3799,1990-06-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",69525,M. Pavlovi\u0107,-1
-3775,1995-09-07,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",266286,Marlon,-1
-3782,1997-09-20,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",364644,A. Diouss\u00e9,-1
-3770,1996-08-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",299154,S. Moutoussamy,-1
-19830,1996-01-22,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",331923,K. N'Doram,-1
-9606,1997-01-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",364772,C. Awaziem,16823
-3767,1990-02-10,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",4452,Yuri Berchiche,-1
-3771,1985-08-31,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",70088,Rolando,-1
-1629,1986-09-08,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",70093,Jo\u00e3o Moutinho,9905
-19830,1984-10-27,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",135747,D. Suba\u0161i\u0107,9598
-3783,1997-03-19,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",234138,J. Repas,12052
-19830,1995-06-28,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",266917,A. Traor\u00e9,19001
-3777,1992-01-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",4786,Iv\u00e1n Balliu,8731
-3785,1995-01-23,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",135901,Pedro Rebocho,-1
-19830,1995-12-28,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",135913,Rony Lopes,-1
-3770,1990-07-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",37714,Y. El Ghanassy,-1
-12509,1984-03-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",37734,G. Gillet,-1
-3777,1986-01-05,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",37796,D. Mili\u010devi\u0107,10001
-3767,1991-09-12,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",37824,T. Meunier,5629
--1,1983-03-20,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",37896,E. Kawashima,12913
-3766,1993-08-01,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",5167,Mariano D\u00edaz,-1
-3774,1988-09-08,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",70711,Mexer,18752
-3783,1992-02-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",38015,S. Peeters,-1
--1,1987-05-07,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",38095,S. Gakp\u00e9,-1
-3776,1994-05-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",70959,Edgar I\u00e9,-1
-3766,1989-02-19,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",70981,Mar\u00e7al,-1
-3772,1997-02-26,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",300485,Malcom,6388
--1,1991-09-26,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",28251,D. Alcibiade,-1
-3766,2001-08-16,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",497355,W. Geubbels,-1
-19830,1996-03-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",300784,Jorge,-1
-3771,1995-11-16,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",366401,A. Zambo Anguissa,-1
-3799,1998-01-17,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",366542,J. Reine-Adelaide,4426
-3776,1996-01-28,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",366546,L. Mothiba,-1
-3774,1997-04-24,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",301013,J. Gelin,-1
-3775,1997-09-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",301016,R. Perraud,4426
-3785,1997-08-06,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",301017,M. Thuram,-1
-3777,1997-04-03,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",366563,V. Selimovic,-1
-3774,1998-07-06,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",366571,F. Maouassa,-1
-3774,1997-01-13,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",366581,J. Gnagnon,-1
-3799,1996-04-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",366760,L. Coulibaly,19001
-3783,1999-07-17,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",399576,T. Stavitski,5051
-3780,1994-01-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",203113,I. Sylla,-1
-3774,1998-08-11,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",367146,N. Janvier,-1
-3779,1996-10-21,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",301635,B. Kamara,4425
-3777,1999-03-11,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",498357,I. Niane,19318
-3772,1996-05-01,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",334552,F. Kamano,-1
-3774,1995-04-16,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",334720,R. Bensebaini,16009
-3789,1989-06-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",105523,Danilo Avelar,-1
-3770,1991-10-10,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",40301,Lucas Lima,-1
-3767,1996-11-29,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",237034,Gon\u00e7alo Guedes,9905
-3767,1994-05-14,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",40539,Marquinhos,6380
-3772,1999-02-26,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",499295,T. Carrique,-1
-4622,1994-11-08,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",40574,D\u00f3ria,6385
-3772,1996-01-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",237267,M. Gaji\u0107,17324
-3766,1990-07-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",7920,Rafael,-1
-3804,1992-08-06,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",7986,M. Abeid,-1
-3767,1992-02-05,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",40810,Neymar,6380
-3787,1996-09-07,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",335763,J. Sambia,-1
--1,1984-03-24,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",8268,B. Assou-Ekotto,-1
-3776,1992-03-15,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",41056,Thiago Mendes,-1
-3775,1990-08-12,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",8326,M. Balotelli,3757
-3772,1991-06-21,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",41127,Pablo,-1
-4494,1984-06-01,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",8533,S. Sess\u00e8gnon,18884
-3770,1993-03-15,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",270866,Diego Carlos,-1
-3770,1991-08-13,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",8899,A. Ka\u010danikli\u0107,-1
-3780,1995-07-15,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",134512,C. Jean,-1
-3783,1994-12-24,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",28908,F. Guilbert,-1
-3804,2000-11-27,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",566942,E. Loiodice,-1
-3787,1990-03-27,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",116345,F. P\u00edriz,-1
-3779,1994-03-20,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",141172,J. Aholou,-1
-3780,1988-09-28,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",43196,Som\u00e1lia,-1
-19830,1993-10-23,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",207143,Fabinho,-1
-3176,1996-09-28,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",338249,Gil Dias,9910
-3770,1992-02-17,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",43515,Andrei Girotto,-1
-3780,1999-01-23,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",404213,A. Lafont,4423
-3771,1999-11-23,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",404216,B. Kamara,4423
-3766,1999-02-14,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",404226,M. Maolida,4423
-3772,1999-03-14,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",404227,E. Taha,-1
-3775,1999-07-02,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",437011,H. Mahou,-1
-3783,1998-01-07,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",437636,J. Deminguet,4426
-3804,1994-11-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",273819,Xeka,-1
-3766,1995-09-06,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",142755,B. Traor\u00e9,-1
-3777,1997-01-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",470517,L. Goudiaby,-1
-3787,1993-05-17,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",143189,C. Ninga,19241
-3766,1997-08-08,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",339812,Pape Diop,-1
-3799,1995-03-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",274344,B. Santamaria,34101
-3789,1994-04-15,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",274345,S. Koita,-1
-3779,1992-11-21,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",339964,Y. Salmier,-1
-3777,1993-02-25,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",209014,F. Boulaya,-1
-3770,1993-12-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",209028,A. Thomasson,-1
-3776,1997-01-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",372904,K. Dabila,-1
-3771,1994-08-18,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",209086,M. Sanson,-1
-3779,1993-12-20,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",209095,A. N'Dour,-1
-3767,1995-04-03,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",209117,A. Rabiot,-1
-3795,1993-07-05,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",209207,J. Obiang,-1
-3799,1993-02-02,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",209209,F. Tait,-1
-3783,1992-11-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",209211,J. Nkololo,18538
-3772,1994-03-20,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",274970,A. Mendy,-1
-19830,1999-11-25,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",471589,M. Sylla,-1
-3783,1995-02-06,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",275032,E. Crivelli,-1
-3777,2000-02-04,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",406156,V. Thill,14768
-3776,1999-02-11,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",471771,I. Faraj,33157
-3766,1994-09-14,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",242446,L. Dubois,-1
-3771,1995-04-27,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",275243,S. Khaoui,16276
-3804,1997-06-29,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",373817,E. Massouema,-1
-3780,1997-03-17,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",374118,Q. Boisgard,-1
-3776,1991-07-31,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",144867,K. Malcuit,-1
-3780,1993-03-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",144884,C. Jullien,-1
-3785,1997-12-31,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",340920,L. Blas,-1
-3775,1997-03-12,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",276211,A. Saint-Maximin,-1
-3795,1984-05-31,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",112377,O. Vizcarrondo,-1
-3787,1997-11-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",341973,N. Mukiele,-1
-3783,1997-09-25,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",407699,D. Avounou,-1
-3780,1997-12-02,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",375001,I. Sangar\u00e9,-1
-3789,1994-01-17,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",243931,Q. Cornette,-1
-3772,1990-05-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",14717,D. Contento,-1
-3771,1987-07-23,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",14722,Luiz Gustavo,-1
-3772,1996-03-06,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",276920,V. Vada,-1
-3782,1996-03-26,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",276944,J. Bamba,4425
-3782,1988-12-10,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",14801,N. Suboti\u0107,-1
-19830,1996-07-05,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",276978,A. Diakhaby,4425
-3766,1995-06-08,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",276979,F. Mendy,-1
-3787,1996-03-08,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",276983,I. Mbenza,5635
-3767,1993-09-20,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",14862,J. Draxler,3148
-19830,1983-09-08,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",14913,D. Benaglio,-1
-3787,1989-03-31,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",14945,G. Sio,-1
-3787,1993-01-22,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",244335,K. Dolly,16424
-3789,1992-10-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",244357,B. Zungu,16424
-3777,1989-08-14,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",14990,F. Diagne,-1
-3783,1989-05-21,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",15004,I. Santini,-1
-3775,1983-10-18,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",15010,Dante,-1
-3767,1990-07-08,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",15062,K. Trapp,3148
-3766,1997-04-29,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",342743,L. Tousart,4425
-3776,1995-05-03,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",286553,A. El Ghazi,-1
-3787,1997-07-15,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",343116,M. Poaty,-1
-3775,1993-05-25,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",277629,P. Lees Melou,-1
-3772,1991-07-10,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",48318,Jonathan Cafu,-1
-3775,1997-06-25,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",408827,B. Srarfi,16276
-3782,1998-06-13,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",396616,R. Pierre-Gabriel,4425
-3780,1992-04-17,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",270306,Steven Fort\u00e8s,-1
-3776,1995-04-08,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",245807,F. Bahlouli,-1
-3776,1993-02-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",213308,J. Alonso,-1
-3782,1995-10-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",278867,S. Janko,-1
-3770,1994-08-08,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",278913,J. Kayembe,-1
-3772,1998-11-12,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",410062,J. Kound\u00e9,-1
-3787,1998-05-02,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",344744,J. Ikon\u00e9,-1
-3780,1990-06-21,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",49919,F. Moubandje,6697
-3804,1988-01-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",49921,V. R\u00fcfli,-1
-3774,1992-08-26,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",82690,T. Koubek,11555
-19830,1995-12-12,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",344927,S. Sy,-1
-3787,1995-05-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",246946,E. Skhiri,16276
-2463,1995-10-28,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",279734,V. Koziello,-1
-3774,1995-02-04,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",247162,Brandon,-1
-3771,1997-12-04,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",280115,M. Lopez,4425
-3787,1997-12-16,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",280116,J. Porsan-Clemente,-1
-3795,1995-04-26,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",149053,R. Walter,-1
-3804,1995-04-19,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",149054,W. Sa\u00efd,-1
-3795,1991-02-17,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",149062,T. Dingom\u00e9,-1
-3775,1994-03-27,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",214609,Y. Cardinale,-1
-3785,1990-01-28,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",50771,K. Johnsson,7047
-3176,1992-03-25,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",149076,V. Eysseric,-1
-3771,1994-03-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",214628,J. Amavi,-1
-19830,1996-04-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",149101,A. Tour\u00e9,-1
-3770,1986-02-09,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",83574,C. T\u0103t\u0103ru\u0219anu,11944
-3780,1989-03-22,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",50812,J. Durmaz,7047
-3789,1989-08-11,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",214710,B. Dibassy,19001
-3776,1995-09-29,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",247671,N. P\u00e9p\u00e9,-1
-3804,1990-11-06,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",215036,C. Yamber\u00e9,-1
-3779,1991-02-10,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",215130,Nuno Da Costa,19166
-3783,1993-12-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",215281,A. Mbengue,19314
-3787,1999-01-08,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",477744,N. Cozza,4423
-3789,1995-08-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",248632,J. Domp\u00e9,-1
-3775,1997-07-19,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",412701,I. Sacko,-1
-3767,1997-11-14,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",347200,C. Nkunku,-1
-3799,1998-02-21,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",347205,W. Kanga,4426
-3767,1988-02-14,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3314,\u00c1. di Mar\u00eda,12274
-3782,1991-06-17,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",85438,R. Beri\u010d,12046
-3776,1996-08-30,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",413582,Y. Bissouma,19001
-3776,1996-12-17,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",413597,R. Kouam\u00e9,19001
-3767,1984-09-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",20394,Thiago Silva,6380
-3777,1998-07-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",396628,N. Basin,-1
-3771,1990-04-17,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",134494,V. Germain,-1
-3776,1995-07-03,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",134496,M. Maignan,-1
-3795,1996-09-07,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",249926,A. Confais,-1
-3770,1990-05-21,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",20685,R. Krhin,12046
-3776,1996-06-02,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",250134,Luiz Ara\u00fajo,-1
-3771,1994-07-11,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",86338,L. Ocampos,-1
-3775,1992-06-23,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",134542,N. Mendy,-1
-19830,1989-11-02,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",20948,S. Joveti\u0107,17371
-3777,1993-01-02,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",86486,G. Poblete,-1
-19830,1988-02-03,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",21097,K. Glik,13869
-3767,1987-02-14,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",21174,E. Cavani,15670
-3775,1993-01-19,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",86745,W. Ben\u00edtez,-1
-3770,1994-03-03,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",217874,A. Tour\u00e9,-1
-3767,1992-11-05,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",21383,M. Verratti,-1
-3782,1991-05-13,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",21550,Gabriel Silva,-1
-3782,1994-07-07,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",54380,O. Seln\u00e6s,7336
-3804,1988-12-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25524,P. Djilobodji,-1
-3774,1998-02-25,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",448079,I. Sarr,19314
-3804,1992-01-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",120717,O. Haddadi,16276
-3782,1986-09-27,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25845,S. Ruffier,-1
-19830,2001-03-17,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",481329,P. Pellegri,-1
-3795,1993-06-16,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",219350,A. Niane,19001
-3767,1999-04-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",397030,S. Nsoki,-1
-5653,1996-03-13,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",285139,Nathan,-1
-1620,1991-06-05,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",55968,M. Braithwaite,7712
-3777,1988-03-01,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25716,N. Roux,-1
-13905,1996-01-01,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",285457,H. Ma\u00efga,-1
-3780,1991-10-09,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25745,A. Delort,-1
-3776,1996-10-16,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",408052,H. Koffi,-1
-3772,1993-07-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",56441,L. Lerager,7712
-3772,1999-07-11,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",482491,Z. Youssouf,-1
-3780,1996-09-16,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",253333,A. Blin,-1
-3766,2000-02-16,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",449985,A. Gouiri,4423
-3782,1996-01-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",351851,Vagner,-1
-3780,1997-01-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",286380,I. Diop,4425
-3770,1997-04-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",286381,E. Kwateng,-1
-3780,1997-05-11,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",286382,C. Michelin,4426
-3775,1997-01-04,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",286388,A. Lusamba,-1
-3777,1996-03-20,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",286506,M. Udol,-1
-3799,1995-06-16,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",253784,B. Guillaume,-1
-19830,1996-03-05,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",255320,Boschilia,6388
-3785,1997-04-17,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",286915,F. Eboa Eboa,-1
-3776,1997-01-03,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",286917,F. Tour\u00e9,-1
-3780,1998-02-08,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",352986,K. Amian,4425
-3775,1998-06-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",352992,J. Makengo,4426
-3789,1992-06-27,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",90880,S. Mendoza,-1
-3766,1990-10-01,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25382,A. Lopes,9905
--1,1980-06-26,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25384,R. Vercoutre,-1
-3779,1988-04-27,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25392,B. Kon\u00e9,-1
-3774,1992-05-19,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25399,M. Zeffane,-1
-3766,1992-03-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25403,J. Ferri,-1
-3774,1986-07-11,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25406,Y. Gourcuff,-1
-3785,1991-01-07,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25407,C. Grenier,-1
-3775,1993-03-10,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25410,A. Pl\u00e9a,-1
-3785,1985-08-02,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25411,J. Briand,-1
-3767,1993-02-27,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25418,A. Ar\u00e9ola,4418
-3777,1983-08-31,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25423,M. Bi\u0161evac,-1
-3775,1983-10-31,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25427,C. Jallet,-1
-3789,1982-11-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25433,M. Bodmer,-1
-3159,1987-04-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25437,B. Matuidi,4418
--1,1982-08-28,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25439,T. Motta,-1
-3767,1989-06-20,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25440,J. Pastore,-1
-3770,1991-08-21,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25444,K. Coulibaly,19001
-3787,1993-01-06,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25457,J. Roussillon,-1
-3779,1988-01-16,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25467,V. Nogueira,-1
-3774,1993-11-20,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25470,S. Prci\u0107,-1
-3785,1990-02-20,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25474,R. Camara,-1
-3789,1991-02-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25492,T. Monconduit,-1
-3777,1988-12-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25503,G. Mandjeck,-1
-3772,1994-03-17,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25504,S. Me\u00eft\u00e9,-1
-3782,1992-07-29,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25514,P. Ntep,-1
-3780,1993-01-27,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25517,Y. Sanogo,-1
-3770,1993-03-04,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25519,M. Dup\u00e9,-1
-3795,1991-09-22,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25521,E. Zelazny,-1
-3770,1992-11-30,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25523,K. Djidji,-1
-3785,1986-01-30,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25526,J. Martins-Pereira,-1
--1,1985-11-08,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25532,V. Bessat,-1
--1,1985-02-23,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25534,I. Cissokho,-1
-3771,1985-03-28,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25552,S. Mandanda,4418
-3766,1984-04-02,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25557,J. Morel,-1
--1,1985-03-20,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25562,M. Amalfitano,-1
-3772,1982-01-05,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25596,J. Pla\u0161il,-1
-3771,1989-08-05,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25598,G. Sertic,-1
-3770,1990-10-30,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25605,E. Sala,-1
-3795,1984-07-01,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25616,C. Ben Saada,-1
-3774,1986-05-24,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25625,L. Baal,18799
-3772,1987-07-03,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25632,B. Costil,-1
-3774,1992-03-30,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25633,A. Diallo,19314
-3774,1986-07-03,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25637,R. Danz\u00e9,-1
-3779,1993-03-23,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25638,D. Foulquier,-1
--1,1983-03-23,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25641,K. Mangane,-1
-3782,1989-10-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25643,K. Th\u00e9ophile Catherine,-1
-3783,1982-07-05,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25647,J. F\u00e9ret,-1
-3782,1990-06-29,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25649,Y. M'Vila,-1
-3782,1990-09-18,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25650,V. Pajot,-1
-3779,1992-05-28,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25673,S. Bahoken,-1
-3782,1985-07-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25700,M. Debuchy,-1
-3804,1980-02-02,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25704,F. Balmont,-1
-3776,1992-06-18,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25710,A. Soumaoro,-1
-3771,1987-03-29,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25714,D. Payet,-1
-3783,1989-11-18,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25715,R. Rodelin,-1
-3785,1992-01-23,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25741,Y. N'Gbakoto,18538
-3771,1992-01-31,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25743,B. Sarr,-1
-3777,1989-05-18,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26138,J. Rivierez,-1
-19830,1984-06-24,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",20677,A. Raggi,-1
-3780,1985-01-18,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25764,Y. Cahuzac,-1
-3771,1993-01-26,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25770,F. Thauvin,4418
-3782,1991-02-08,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25776,W. Khazri,16276
-3771,1982-11-04,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25781,Y. Pel\u00e9,-1
-3771,1989-08-06,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25784,A. Abdennour,-1
-3787,1985-04-05,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25786,D. Congr\u00e9,-1
-3782,1988-07-23,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25789,C. M'Bengue,-1
-3780,1992-12-16,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25791,S. Yago,-1
-3785,1983-07-24,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25800,\u00c9. Didot,-1
-3785,1989-01-30,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25805,F. Tabanou,-1
-3777,1990-03-03,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25809,E. Rivi\u00e8re,-1
-3774,1990-08-03,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25826,B. Andr\u00e9,-1
-3787,1989-01-16,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25829,P. Lasne,-1
-3804,1986-03-23,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25835,F. Sammaritano,-1
-3799,1989-05-03,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25846,Y. Andreu,-1
-3767,1998-12-20,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",353833,K. Mbapp\u00e9,4418
-3783,1992-08-28,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25859,I. Diomand\u00e9,-1
-3780,1987-11-30,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25860,M. Gradel,-1
-3782,1985-08-07,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25864,L. Perrin,-1
-3785,1983-08-05,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25883,J. Sorbon,-1
-3782,1987-03-29,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25889,R. Hamouma,-1
-3795,1977-01-02,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25891,B. Nivet,-1
-3777,1987-12-17,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25919,J. Palmieri,-1
-3772,1991-01-08,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25923,N. de Pr\u00e9ville,-1
-3795,1990-02-16,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",25930,M. Samassa,-1
-3795,1987-04-25,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25937,F. Bellugou,-1
--1,1986-05-27,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25938,C. Charrier,-1
-3785,1986-05-14,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25939,M. Diallo,-1
--1,1981-05-25,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25941,T. Giresse,-1
-3780,1992-09-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25942,G. Imbula,-1
-3785,1986-04-02,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25943,C. Kerbrat,-1
-3783,1992-03-20,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25947,B. Sankoh,-1
-3789,1985-07-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25957,K. Ad\u00e9non,-1
-3771,1984-06-04,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25988,H. Bedimo,-1
-3795,1991-10-01,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25990,M. Deplagne,-1
-3787,1977-09-13,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25993,Hilton,-1
-3766,1989-05-15,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",25996,M. Yanga-Mbiwa,-1
-3782,1990-03-08,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",25999,R. Cabella,-1
-3176,1992-02-18,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26000,B. Dabo,-1
-3795,1989-06-01,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26006,J. Tinhan,-1
-3787,1982-12-22,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26008,S. Camara,-1
-3787,1991-04-26,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26016,B. Lecomte,-1
-2462,1992-02-19,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26021,S. Falette,18799
-3804,1987-08-25,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26024,W. Lautoa,-1
--1,1984-07-23,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26033,Y. Jouffre,-1
-3782,1988-08-19,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26042,K. Monnet-Paquet,-1
-3799,1991-03-30,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26044,G. Sunu,-1
--1,1983-09-20,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26046,L. Bonnefoi,-1
-3789,1983-03-05,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26055,J. Ielsch,-1
-3779,1990-04-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26065,J. Martin,-1
-3799,1988-12-19,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26068,L. Puyo,-1
-3783,1990-03-18,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26069,H. Bazile,17881
--1,1990-08-19,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26085,F. Pogba,-1
-3799,1986-08-18,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26086,I. Traor\u00e9,-1
-3775,1990-05-16,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26093,M. Le Bihan,-1
-3804,1992-07-27,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26100,N. Sliti,16276
-3799,1987-04-29,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26120,T. Mangani,-1
-3804,1992-01-22,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26124,B. Jeannot,-1
-3783,1994-04-25,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26131,B. Samba,-1
-3789,1993-12-24,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26134,P. Gouano,-1
-3775,1989-10-11,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26135,M. Le Marchand,-1
-19830,1992-07-29,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26196,D. Sidib\u00e9,4418
-3782,1986-01-13,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26216,J. Moulin,-1
-6408,1990-12-11,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26245,A. Letellier,-1
-3799,1989-07-10,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26265,V. Manceau,-1
-3770,1987-09-19,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26276,N. Pallois,-1
-3187,1996-01-05,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",288423,Z. Machach,-1
-3779,1986-03-06,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26285,A. Gon\u00e7alves,-1
-3804,1989-08-27,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26311,R. Amalfitano,-1
-3785,1988-12-26,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26314,L. Deaux,-1
-3772,1988-05-18,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26332,P. Baysse,-1
-3804,1990-10-28,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26365,B. Reynet,-1
-3799,1990-04-25,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26368,A. Bamba,-1
--1,1980-01-30,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26374,C. Varrault,-1
-3789,1984-04-24,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26378,S. Baradji,-1
-3779,1987-04-06,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26381,B. Corgnet,-1
-3789,1991-06-21,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26384,G. Kakuta,18538
-3772,1989-09-10,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26389,Y. Sankhar\u00e9,-1
-3783,1988-05-17,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26399,D. Da Silva,-1
--1,1985-01-11,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26414,G. N'Gosso,-1
-3795,1990-01-12,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26433,J. Cordoval,-1
-3779,1991-10-03,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26498,K. Lala,-1
-3777,1984-09-29,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26508,R. Cohade,-1
-3777,1988-02-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26512,M. Dossevi,18374
-3783,1987-10-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26528,R. Genevois,-1
-3799,1988-11-04,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26539,P. Oniangu\u00e9,-1
-3779,1983-06-13,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26543,J. Blayac,-1
-3799,1990-03-24,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26547,B. Ketkeophomphone,-1
-3789,1986-12-08,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26583,R. Gurtner,-1
-3785,1991-01-21,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26604,Y. Salibur,-1
-3774,1989-12-24,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26610,D. Sakho,19314
-3775,1992-02-12,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26633,A. Souquet,-1
-3799,1992-09-14,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26638,K. Toko Ekambi,-1
-3779,1988-07-19,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26676,A. Oukidja,-1
-3804,1994-06-30,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",256084,Kwon Chang-Hoon,-1
-3787,1991-06-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",125076,A. Oyongo,-1
-3799,1983-04-03,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26869,L. Butelle,-1
-3779,1992-02-08,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26327,I. Saadi,16009
-3799,1991-09-04,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26938,M. Michel,-1
-3772,1992-08-16,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26945,M. Poundj\u00e9,-1
-3785,1991-02-24,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",26956,N. Benezet,-1
-3789,1983-07-21,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26970,J. Bouet,-1
-3766,1990-08-05,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",26971,M. Gorgelin,-1
-3161,1995-03-08,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",256480,B. Keita,19314
-19830,1996-07-07,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",289359,Y. A\u00eft Bennasser,16216
-3785,1994-11-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",256706,L. Phiri,-1
-3804,1988-11-19,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",27354,J\u00falio Tavares,-1
-3795,1984-03-22,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",93044,S. Darbion,-1
-3799,1996-08-20,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",256992,A. Fulgini,4425
-3767,1996-04-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",356237,G. Lo Celso,12274
-701,1996-05-17,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",258263,V. Jovanovi\u0107,17324
-679,1995-11-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",28922,T. Lemar,4418
--1,1981-05-15,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",7915,P. Evra,-1
-1624,1992-08-13,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",40765,Lucas Moura,6380
-3772,1993-03-05,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",28529,Y. Sabaly,19314
-3771,1990-04-12,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",94695,H. Sakai,12913
--1,1992-01-14,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",217872,J. Iloki,-1
-3789,1991-02-19,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",30320,O. El Hajjam,16216
-3789,1993-04-03,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",97582,M. Konat\u00e9,19314
-3766,1996-12-28,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",294695,T. Ndomb\u00e8l\u00e9,4418
-1673,1994-02-14,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",132,T. Kongolo,-1
-712,1991-05-25,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",86239,G. Carrillo,-1
-3771,1993-08-15,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",28123,C. N'Jie,-1
-16444,1984-06-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",20531,W. Sneijder,-1
-16468,1986-04-25,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",139295,R. M'Bolhi,16009
-3771,1988-03-12,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",93331,K. Mitroglou,12678
-3814,1989-07-24,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",25479,S. Privat,18799
-3829,1987-10-25,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",29590,E. Bourgaud,-1
-3799,1988-06-12,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",29474,R. Thomas,-1
-34760,1988-05-09,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",26665,K. B\u00e9rigaud,-1
-3783,1988-09-16,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",70171,E. Imorou,18884
-7091,1987-08-03,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",54819,A. S\u00f8derlund,-1
-3788,1986-03-20,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",38236,J. Delaplace,-1
-3779,1987-03-27,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",29137,J. Grimm,-1
-3799,1989-06-15,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",54313,S. Ciss,-1
-3795,1992-01-16,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",29291,J. Giraudon,-1
-13505,1994-03-08,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",138577,C. Philipps,14765
-3799,1987-04-15,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",27646,P. Capelle,-1
-3792,1987-06-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",29588,E. Seka,19649
-3928,1991-02-23,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",26603,K. Rimane,18799
-3775,1992-08-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",28314,C. H\u00e9relle,-1
-1631,1992-05-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",28117,R. Ghezzal,16009
-3779,1988-02-13,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",28990,D. Li\u00e9nard,-1
-3779,1989-02-21,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",29616,P. Martinez,-1
-9630,1994-02-27,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",28055,Q. Beunardeau,-1
-3785,1994-02-03,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",28528,J. Ikoko,-1
-3775,1994-11-04,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",28230,A. Tameze,-1
-700,1990-01-17,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",28866,K. Azamoum,-1
-11611,1993-01-17,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",76201,\u00c1. Lang,10451
-3795,1992-03-25,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",29641,B. Pel\u00e9,-1
-3787,1991-11-19,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",30437,F. Mollet,-1
-3804,1991-09-29,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",30427,J. Mari\u00e9,-1
-680,1993-04-06,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",28232,I. Amadou,-1
-3804,1988-11-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",29843,A. Bouka Moutou,-1
-3924,1993-03-07,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",28073,S. Ngom,-1
-3787,1994-05-03,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",27955,G. Laborde,-1
-3785,1992-12-17,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",28948,G. Fofana,-1
-4487,1994-09-08,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",28122,Y. Benzia,16009
-3804,1986-10-16,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",29748,F. Chafik,-1
-3787,1993-04-26,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",28335,R. Aguilar,-1
-3799,1993-12-27,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",27959,T. Tour\u00e9,-1
-3777,1994-07-08,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",28965,O. Nguette,19314
-3766,1993-07-18,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",28115,N. Fekir,4418
-13505,1993-02-26,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",135937,Caf\u00fa,-1
-3773,1990-01-24,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",28364,M. Tahrat,16009
-3772,1994-03-04,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",27958,T. Pellenard,-1
-3795,1997-02-19,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",216614,C. Martins Pereira,14765
-3977,1994-08-09,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",207061,A. Sahibeddine,-1
-15412,1994-09-26,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",207002,B. Fern\u00e1ndez,-1
-3924,1993-10-15,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",217867,A. Walongwa,25272
-3782,1992-12-20,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",217878,L. Diony,-1
-3774,1992-01-27,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",228963,H. Traor\u00e9,-1
-9611,1993-01-06,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",222761,Afonso Figueiredo,-1
-3799,1994-03-06,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",229198,H. Manzala,-1
-3774,1994-01-14,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",228981,B. Bourigeaud,-1
-3772,1995-08-08,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",229078,J. Prior,-1
-3775,1995-01-28,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",228983,W. Cyprien,-1
-5068,1995-11-28,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",229110,T. Didillon,-1
-3766,1996-09-27,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",228946,M. Cornet,-1
-3780,1995-02-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",229140,Y. Bodiger,34101
-3924,1994-06-23,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",229119,N. Gandi,-1
-3774,1994-01-19,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",229124,A. Hunou,34101
-3792,1996-06-09,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",233855,S. Coulibaly,-1
-3776,1997-03-23,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",257750,Thiago Maia,-1
-3770,1994-12-07,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",260002,V. Rongier,-1
-11630,1995-05-22,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",331918,D. Bahamboula,-1
-3925,1997-06-10,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",278513,J. Tell,4426
-2460,1996-03-08,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",290119,M. Niakhat\u00e9,4425
-674,1996-12-19,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",292654,M. Diakhaby,-1
-3777,1995-06-15,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",294697,H. Diallo,-1
-4059,1996-01-01,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",331913,B. Labeau,-1
-3899,1996-04-08,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",302908,A. Ribelin,-1
-3774,1996-06-12,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",325781,J. Lea Siliki,-1
-3775,1995-12-08,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",326946,R. Coly,19314
-3777,1996-08-07,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",330395,G. Hein,-1
-3817,1998-02-28,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",342088,R. Souici,-1
-3768,1995-10-05,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",342194,O. Verdon,18884
-3774,1997-01-22,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",372547,G. Nyamsi,4426
-3804,1996-08-19,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",393214,V. Rosier,4425
-19830,1999-03-16,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",405977,Jordi Mboula,-1
-3795,1997-04-09,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",421809,V. Marcel,-1
-3919,1998-05-18,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",426704,L. Fournier,-1
-3776,1997-12-19,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",415917,Gabriel,-1
-3933,1999-02-07,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",437057,D. Khalid,-1
-3795,1999-08-02,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",454388,B. Mbeumo,-1
-3928,2000-02-22,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",471774,T. Weah,8134
-19831,1998-02-13,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",472126,J. Serrano,-1
-3928,2000-07-29,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",472194,Y. Adli,4423
-3919,1998-10-24,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",487983,D. Lempereur,-1
-3775,1999-02-16,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",521939,I. Ganago,-1
+3775,1999-01-23,DEF,393228,M. Sarr,4423
+3783,1994-08-09,DEF,229427,A. Djiku,-1
+3770,1990-03-14,FWD,66,K. Sig\u00fe\u00f3rsson,-1
+3795,1992-01-01,DEF,393284,C. Traor\u00e9,-1
+3766,1987-05-20,DEF,102,Marcelo,-1
+3766,1994-02-13,FWD,118,M. Depay,664
+3780,1986-07-03,FWD,123,O. Toivonen,7047
+3783,1991-03-01,FWD,131321,C. Kouakou,-1
+3770,1991-09-11,FWD,229697,Y. Bammou,-1
+3795,1991-06-29,FWD,382,Suk Hyun-Jun,-1
+3777,1998-11-14,MID,376908,A. Jallow,-1
+3772,1994-05-04,MID,295569,Ot\u00e1vio,-1
+2449,1997-10-21,DEF,426702,H. Mendyl,16216
+3779,1997-03-04,FWD,394006,M. Terrier,4425
+3775,1996-04-11,DEF,328488,P. Burner,-1
+3795,1996-08-14,FWD,295761,S. Grandsir,4425
+3775,1991-07-19,MID,131959,J. Seri,-1
+-1,1987-04-21,FWD,99453,P. Nakoulma,-1
+3165,1995-05-12,FWD,99511,M. St\u0119pi\u0144ski,-1
+3772,1985-05-30,DEF,99633,I. Lewczuk,-1
+19830,1992-08-24,DEF,263766,Jemerson,-1
+19830,1997-05-07,MID,263802,Y. Tielemans,5629
+3766,1995-10-09,DEF,1712,K. Tete,664
+3782,1994-03-23,FWD,1751,O. Tannane,-1
+3767,1995-08-13,DEF,231138,P. Kimpembe,4418
+3783,1998-06-05,DEF,493412,Y. Armougom,-1
+3779,1996-12-19,FWD,493415,K. Zohi,-1
+3789,1988-10-23,FWD,132972,G. Gope-Fenepej,-1
+3776,1997-03-29,FWD,284322,E. Ponce,12281
+3785,1996-06-24,MID,330387,M. Coco,-1
+3780,1994-04-17,FWD,264989,F. Mubele,18538
+4488,1985-09-17,DEF,101555,T. Hubo\u010dan,14496
+3771,1985-12-27,DEF,3276,A. Rami,4418
+3787,1990-10-01,DEF,3308,Pedro Mendes,-1
+3767,1985-03-10,MID,3315,L. Diarra,-1
+3767,1983-05-06,DEF,3334,Dani Alves,-1
+19830,1986-02-10,FWD,3450,R. Falcao,12430
+3767,1992-09-04,DEF,134540,L. Kurzawa,-1
+-1,1990-08-20,FWD,101795,L. Traor\u00e9,-1
+-1,1983-09-10,MID,3573,J. Toulalan,-1
+3782,1994-03-27,MID,134797,Hernani,-1
+691,1993-12-22,MID,3803,Sergi Darder,-1
+3776,1999-02-27,MID,397033,B. Soumar\u00e9,4423
+3766,1998-06-30,MID,397046,H. Aouar,4425
+6407,1992-02-27,DEF,134951,L. Lacroix,-1
+3799,1990-06-09,DEF,69525,M. Pavlovi\u0107,-1
+3775,1995-09-07,DEF,266286,Marlon,-1
+3782,1997-09-20,MID,364644,A. Diouss\u00e9,-1
+3770,1996-08-12,MID,299154,S. Moutoussamy,-1
+19830,1996-01-22,MID,331923,K. N'Doram,-1
+9606,1997-01-01,DEF,364772,C. Awaziem,16823
+3767,1990-02-10,DEF,4452,Yuri Berchiche,-1
+3771,1985-08-31,DEF,70088,Rolando,-1
+1629,1986-09-08,MID,70093,Jo\u00e3o Moutinho,9905
+19830,1984-10-27,GKP,135747,D. Suba\u0161i\u0107,9598
+3783,1997-03-19,MID,234138,J. Repas,12052
+19830,1995-06-28,MID,266917,A. Traor\u00e9,19001
+3777,1992-01-01,DEF,4786,Iv\u00e1n Balliu,8731
+3785,1995-01-23,DEF,135901,Pedro Rebocho,-1
+19830,1995-12-28,MID,135913,Rony Lopes,-1
+3770,1990-07-12,MID,37714,Y. El Ghanassy,-1
+12509,1984-03-09,MID,37734,G. Gillet,-1
+3777,1986-01-05,MID,37796,D. Mili\u010devi\u0107,10001
+3767,1991-09-12,DEF,37824,T. Meunier,5629
+-1,1983-03-20,GKP,37896,E. Kawashima,12913
+3766,1993-08-01,FWD,5167,Mariano D\u00edaz,-1
+3774,1988-09-08,DEF,70711,Mexer,18752
+3783,1992-02-09,MID,38015,S. Peeters,-1
+-1,1987-05-07,FWD,38095,S. Gakp\u00e9,-1
+3776,1994-05-01,DEF,70959,Edgar I\u00e9,-1
+3766,1989-02-19,DEF,70981,Mar\u00e7al,-1
+3772,1997-02-26,FWD,300485,Malcom,6388
+-1,1991-09-26,DEF,28251,D. Alcibiade,-1
+3766,2001-08-16,FWD,497355,W. Geubbels,-1
+19830,1996-03-28,DEF,300784,Jorge,-1
+3771,1995-11-16,MID,366401,A. Zambo Anguissa,-1
+3799,1998-01-17,MID,366542,J. Reine-Adelaide,4426
+3776,1996-01-28,FWD,366546,L. Mothiba,-1
+3774,1997-04-24,DEF,301013,J. Gelin,-1
+3775,1997-09-22,DEF,301016,R. Perraud,4426
+3785,1997-08-06,FWD,301017,M. Thuram,-1
+3777,1997-04-03,DEF,366563,V. Selimovic,-1
+3774,1998-07-06,MID,366571,F. Maouassa,-1
+3774,1997-01-13,DEF,366581,J. Gnagnon,-1
+3799,1996-04-10,MID,366760,L. Coulibaly,19001
+3783,1999-07-17,MID,399576,T. Stavitski,5051
+3780,1994-01-01,DEF,203113,I. Sylla,-1
+3774,1998-08-11,MID,367146,N. Janvier,-1
+3779,1996-10-21,GKP,301635,B. Kamara,4425
+3777,1999-03-11,FWD,498357,I. Niane,19318
+3772,1996-05-01,FWD,334552,F. Kamano,-1
+3774,1995-04-16,DEF,334720,R. Bensebaini,16009
+3789,1989-06-09,DEF,105523,Danilo Avelar,-1
+3770,1991-10-10,DEF,40301,Lucas Lima,-1
+3767,1996-11-29,FWD,237034,Gon\u00e7alo Guedes,9905
+3767,1994-05-14,DEF,40539,Marquinhos,6380
+3772,1999-02-26,DEF,499295,T. Carrique,-1
+4622,1994-11-08,DEF,40574,D\u00f3ria,6385
+3772,1996-01-28,DEF,237267,M. Gaji\u0107,17324
+3766,1990-07-09,DEF,7920,Rafael,-1
+3804,1992-08-06,MID,7986,M. Abeid,-1
+3767,1992-02-05,FWD,40810,Neymar,6380
+3787,1996-09-07,MID,335763,J. Sambia,-1
+-1,1984-03-24,DEF,8268,B. Assou-Ekotto,-1
+3776,1992-03-15,MID,41056,Thiago Mendes,-1
+3775,1990-08-12,FWD,8326,M. Balotelli,3757
+3772,1991-06-21,DEF,41127,Pablo,-1
+4494,1984-06-01,MID,8533,S. Sess\u00e8gnon,18884
+3770,1993-03-15,DEF,270866,Diego Carlos,-1
+3770,1991-08-13,MID,8899,A. Ka\u010danikli\u0107,-1
+3780,1995-07-15,FWD,134512,C. Jean,-1
+3783,1994-12-24,DEF,28908,F. Guilbert,-1
+3804,2000-11-27,MID,566942,E. Loiodice,-1
+3787,1990-03-27,MID,116345,F. P\u00edriz,-1
+3779,1994-03-20,MID,141172,J. Aholou,-1
+3780,1988-09-28,MID,43196,Som\u00e1lia,-1
+19830,1993-10-23,MID,207143,Fabinho,-1
+3176,1996-09-28,FWD,338249,Gil Dias,9910
+3770,1992-02-17,MID,43515,Andrei Girotto,-1
+3780,1999-01-23,GKP,404213,A. Lafont,4423
+3771,1999-11-23,DEF,404216,B. Kamara,4423
+3766,1999-02-14,FWD,404226,M. Maolida,4423
+3772,1999-03-14,FWD,404227,E. Taha,-1
+3775,1999-07-02,MID,437011,H. Mahou,-1
+3783,1998-01-07,MID,437636,J. Deminguet,4426
+3804,1994-11-10,MID,273819,Xeka,-1
+3766,1995-09-06,FWD,142755,B. Traor\u00e9,-1
+3777,1997-01-09,MID,470517,L. Goudiaby,-1
+3787,1993-05-17,FWD,143189,C. Ninga,19241
+3766,1997-08-08,MID,339812,Pape Diop,-1
+3799,1995-03-09,MID,274344,B. Santamaria,34101
+3789,1994-04-15,FWD,274345,S. Koita,-1
+3779,1992-11-21,DEF,339964,Y. Salmier,-1
+3777,1993-02-25,MID,209014,F. Boulaya,-1
+3770,1993-12-10,MID,209028,A. Thomasson,-1
+3776,1997-01-01,DEF,372904,K. Dabila,-1
+3771,1994-08-18,MID,209086,M. Sanson,-1
+3779,1993-12-20,DEF,209095,A. N'Dour,-1
+3767,1995-04-03,MID,209117,A. Rabiot,-1
+3795,1993-07-05,DEF,209207,J. Obiang,-1
+3799,1993-02-02,MID,209209,F. Tait,-1
+3783,1992-11-09,MID,209211,J. Nkololo,18538
+3772,1994-03-20,FWD,274970,A. Mendy,-1
+19830,1999-11-25,FWD,471589,M. Sylla,-1
+3783,1995-02-06,FWD,275032,E. Crivelli,-1
+3777,2000-02-04,MID,406156,V. Thill,14768
+3776,1999-02-11,MID,471771,I. Faraj,33157
+3766,1994-09-14,DEF,242446,L. Dubois,-1
+3771,1995-04-27,MID,275243,S. Khaoui,16276
+3804,1997-06-29,MID,373817,E. Massouema,-1
+3780,1997-03-17,MID,374118,Q. Boisgard,-1
+3776,1991-07-31,DEF,144867,K. Malcuit,-1
+3780,1993-03-22,DEF,144884,C. Jullien,-1
+3785,1997-12-31,MID,340920,L. Blas,-1
+3775,1997-03-12,FWD,276211,A. Saint-Maximin,-1
+3795,1984-05-31,DEF,112377,O. Vizcarrondo,-1
+3787,1997-11-01,DEF,341973,N. Mukiele,-1
+3783,1997-09-25,MID,407699,D. Avounou,-1
+3780,1997-12-02,MID,375001,I. Sangar\u00e9,-1
+3789,1994-01-17,FWD,243931,Q. Cornette,-1
+3772,1990-05-01,DEF,14717,D. Contento,-1
+3771,1987-07-23,MID,14722,Luiz Gustavo,-1
+3772,1996-03-06,MID,276920,V. Vada,-1
+3782,1996-03-26,FWD,276944,J. Bamba,4425
+3782,1988-12-10,DEF,14801,N. Suboti\u0107,-1
+19830,1996-07-05,FWD,276978,A. Diakhaby,4425
+3766,1995-06-08,DEF,276979,F. Mendy,-1
+3787,1996-03-08,FWD,276983,I. Mbenza,5635
+3767,1993-09-20,MID,14862,J. Draxler,3148
+19830,1983-09-08,GKP,14913,D. Benaglio,-1
+3787,1989-03-31,FWD,14945,G. Sio,-1
+3787,1993-01-22,FWD,244335,K. Dolly,16424
+3789,1992-10-09,MID,244357,B. Zungu,16424
+3777,1989-08-14,DEF,14990,F. Diagne,-1
+3783,1989-05-21,FWD,15004,I. Santini,-1
+3775,1983-10-18,DEF,15010,Dante,-1
+3767,1990-07-08,GKP,15062,K. Trapp,3148
+3766,1997-04-29,MID,342743,L. Tousart,4425
+3776,1995-05-03,FWD,286553,A. El Ghazi,-1
+3787,1997-07-15,DEF,343116,M. Poaty,-1
+3775,1993-05-25,MID,277629,P. Lees Melou,-1
+3772,1991-07-10,FWD,48318,Jonathan Cafu,-1
+3775,1997-06-25,MID,408827,B. Srarfi,16276
+3782,1998-06-13,DEF,396616,R. Pierre-Gabriel,4425
+3780,1992-04-17,DEF,270306,Steven Fort\u00e8s,-1
+3776,1995-04-08,MID,245807,F. Bahlouli,-1
+3776,1993-02-09,DEF,213308,J. Alonso,-1
+3782,1995-10-22,DEF,278867,S. Janko,-1
+3770,1994-08-08,MID,278913,J. Kayembe,-1
+3772,1998-11-12,DEF,410062,J. Kound\u00e9,-1
+3787,1998-05-02,FWD,344744,J. Ikon\u00e9,-1
+3780,1990-06-21,DEF,49919,F. Moubandje,6697
+3804,1988-01-22,DEF,49921,V. R\u00fcfli,-1
+3774,1992-08-26,GKP,82690,T. Koubek,11555
+19830,1995-12-12,GKP,344927,S. Sy,-1
+3787,1995-05-10,MID,246946,E. Skhiri,16276
+2463,1995-10-28,MID,279734,V. Koziello,-1
+3774,1995-02-04,FWD,247162,Brandon,-1
+3771,1997-12-04,MID,280115,M. Lopez,4425
+3787,1997-12-16,FWD,280116,J. Porsan-Clemente,-1
+3795,1995-04-26,MID,149053,R. Walter,-1
+3804,1995-04-19,FWD,149054,W. Sa\u00efd,-1
+3795,1991-02-17,MID,149062,T. Dingom\u00e9,-1
+3775,1994-03-27,GKP,214609,Y. Cardinale,-1
+3785,1990-01-28,GKP,50771,K. Johnsson,7047
+3176,1992-03-25,MID,149076,V. Eysseric,-1
+3771,1994-03-09,DEF,214628,J. Amavi,-1
+19830,1996-04-28,DEF,149101,A. Tour\u00e9,-1
+3770,1986-02-09,GKP,83574,C. T\u0103t\u0103ru\u0219anu,11944
+3780,1989-03-22,MID,50812,J. Durmaz,7047
+3789,1989-08-11,DEF,214710,B. Dibassy,19001
+3776,1995-09-29,FWD,247671,N. P\u00e9p\u00e9,-1
+3804,1990-11-06,DEF,215036,C. Yamber\u00e9,-1
+3779,1991-02-10,FWD,215130,Nuno Da Costa,19166
+3783,1993-12-01,DEF,215281,A. Mbengue,19314
+3787,1999-01-08,DEF,477744,N. Cozza,4423
+3789,1995-08-12,MID,248632,J. Domp\u00e9,-1
+3775,1997-07-19,FWD,412701,I. Sacko,-1
+3767,1997-11-14,MID,347200,C. Nkunku,-1
+3799,1998-02-21,FWD,347205,W. Kanga,4426
+3767,1988-02-14,MID,3314,\u00c1. di Mar\u00eda,12274
+3782,1991-06-17,FWD,85438,R. Beri\u010d,12046
+3776,1996-08-30,MID,413582,Y. Bissouma,19001
+3776,1996-12-17,DEF,413597,R. Kouam\u00e9,19001
+3767,1984-09-22,DEF,20394,Thiago Silva,6380
+3777,1998-07-22,DEF,396628,N. Basin,-1
+3771,1990-04-17,FWD,134494,V. Germain,-1
+3776,1995-07-03,GKP,134496,M. Maignan,-1
+3795,1996-09-07,MID,249926,A. Confais,-1
+3770,1990-05-21,MID,20685,R. Krhin,12046
+3776,1996-06-02,FWD,250134,Luiz Ara\u00fajo,-1
+3771,1994-07-11,FWD,86338,L. Ocampos,-1
+3775,1992-06-23,MID,134542,N. Mendy,-1
+19830,1989-11-02,FWD,20948,S. Joveti\u0107,17371
+3777,1993-01-02,MID,86486,G. Poblete,-1
+19830,1988-02-03,DEF,21097,K. Glik,13869
+3767,1987-02-14,FWD,21174,E. Cavani,15670
+3775,1993-01-19,GKP,86745,W. Ben\u00edtez,-1
+3770,1994-03-03,MID,217874,A. Tour\u00e9,-1
+3767,1992-11-05,MID,21383,M. Verratti,-1
+3782,1991-05-13,DEF,21550,Gabriel Silva,-1
+3782,1994-07-07,MID,54380,O. Seln\u00e6s,7336
+3804,1988-12-01,DEF,25524,P. Djilobodji,-1
+3774,1998-02-25,MID,448079,I. Sarr,19314
+3804,1992-01-28,DEF,120717,O. Haddadi,16276
+3782,1986-09-27,GKP,25845,S. Ruffier,-1
+19830,2001-03-17,FWD,481329,P. Pellegri,-1
+3795,1993-06-16,FWD,219350,A. Niane,19001
+3767,1999-04-09,DEF,397030,S. Nsoki,-1
+5653,1996-03-13,MID,285139,Nathan,-1
+1620,1991-06-05,FWD,55968,M. Braithwaite,7712
+3777,1988-03-01,FWD,25716,N. Roux,-1
+13905,1996-01-01,MID,285457,H. Ma\u00efga,-1
+3780,1991-10-09,FWD,25745,A. Delort,-1
+3776,1996-10-16,GKP,408052,H. Koffi,-1
+3772,1993-07-12,MID,56441,L. Lerager,7712
+3772,1999-07-11,MID,482491,Z. Youssouf,-1
+3780,1996-09-16,MID,253333,A. Blin,-1
+3766,2000-02-16,FWD,449985,A. Gouiri,4423
+3782,1996-01-10,MID,351851,Vagner,-1
+3780,1997-01-09,DEF,286380,I. Diop,4425
+3770,1997-04-09,DEF,286381,E. Kwateng,-1
+3780,1997-05-11,DEF,286382,C. Michelin,4426
+3775,1997-01-04,MID,286388,A. Lusamba,-1
+3777,1996-03-20,DEF,286506,M. Udol,-1
+3799,1995-06-16,FWD,253784,B. Guillaume,-1
+19830,1996-03-05,MID,255320,Boschilia,6388
+3785,1997-04-17,DEF,286915,F. Eboa Eboa,-1
+3776,1997-01-03,DEF,286917,F. Tour\u00e9,-1
+3780,1998-02-08,DEF,352986,K. Amian,4425
+3775,1998-06-12,MID,352992,J. Makengo,4426
+3789,1992-06-27,FWD,90880,S. Mendoza,-1
+3766,1990-10-01,GKP,25382,A. Lopes,9905
+-1,1980-06-26,GKP,25384,R. Vercoutre,-1
+3779,1988-04-27,DEF,25392,B. Kon\u00e9,-1
+3774,1992-05-19,DEF,25399,M. Zeffane,-1
+3766,1992-03-12,MID,25403,J. Ferri,-1
+3774,1986-07-11,MID,25406,Y. Gourcuff,-1
+3785,1991-01-07,MID,25407,C. Grenier,-1
+3775,1993-03-10,FWD,25410,A. Pl\u00e9a,-1
+3785,1985-08-02,FWD,25411,J. Briand,-1
+3767,1993-02-27,GKP,25418,A. Ar\u00e9ola,4418
+3777,1983-08-31,DEF,25423,M. Bi\u0161evac,-1
+3775,1983-10-31,DEF,25427,C. Jallet,-1
+3789,1982-11-22,DEF,25433,M. Bodmer,-1
+3159,1987-04-09,MID,25437,B. Matuidi,4418
+-1,1982-08-28,MID,25439,T. Motta,-1
+3767,1989-06-20,MID,25440,J. Pastore,-1
+3770,1991-08-21,FWD,25444,K. Coulibaly,19001
+3787,1993-01-06,DEF,25457,J. Roussillon,-1
+3779,1988-01-16,MID,25467,V. Nogueira,-1
+3774,1993-11-20,MID,25470,S. Prci\u0107,-1
+3785,1990-02-20,MID,25474,R. Camara,-1
+3789,1991-02-10,MID,25492,T. Monconduit,-1
+3777,1988-12-09,MID,25503,G. Mandjeck,-1
+3772,1994-03-17,MID,25504,S. Me\u00eft\u00e9,-1
+3782,1992-07-29,MID,25514,P. Ntep,-1
+3780,1993-01-27,FWD,25517,Y. Sanogo,-1
+3770,1993-03-04,GKP,25519,M. Dup\u00e9,-1
+3795,1991-09-22,GKP,25521,E. Zelazny,-1
+3770,1992-11-30,DEF,25523,K. Djidji,-1
+3785,1986-01-30,DEF,25526,J. Martins-Pereira,-1
+-1,1985-11-08,MID,25532,V. Bessat,-1
+-1,1985-02-23,DEF,25534,I. Cissokho,-1
+3771,1985-03-28,GKP,25552,S. Mandanda,4418
+3766,1984-04-02,DEF,25557,J. Morel,-1
+-1,1985-03-20,MID,25562,M. Amalfitano,-1
+3772,1982-01-05,MID,25596,J. Pla\u0161il,-1
+3771,1989-08-05,MID,25598,G. Sertic,-1
+3770,1990-10-30,FWD,25605,E. Sala,-1
+3795,1984-07-01,MID,25616,C. Ben Saada,-1
+3774,1986-05-24,DEF,25625,L. Baal,18799
+3772,1987-07-03,GKP,25632,B. Costil,-1
+3774,1992-03-30,GKP,25633,A. Diallo,19314
+3774,1986-07-03,DEF,25637,R. Danz\u00e9,-1
+3779,1993-03-23,DEF,25638,D. Foulquier,-1
+-1,1983-03-23,DEF,25641,K. Mangane,-1
+3782,1989-10-28,DEF,25643,K. Th\u00e9ophile Catherine,-1
+3783,1982-07-05,MID,25647,J. F\u00e9ret,-1
+3782,1990-06-29,MID,25649,Y. M'Vila,-1
+3782,1990-09-18,MID,25650,V. Pajot,-1
+3779,1992-05-28,FWD,25673,S. Bahoken,-1
+3782,1985-07-28,DEF,25700,M. Debuchy,-1
+3804,1980-02-02,MID,25704,F. Balmont,-1
+3776,1992-06-18,DEF,25710,A. Soumaoro,-1
+3771,1987-03-29,MID,25714,D. Payet,-1
+3783,1989-11-18,FWD,25715,R. Rodelin,-1
+3785,1992-01-23,FWD,25741,Y. N'Gbakoto,18538
+3771,1992-01-31,MID,25743,B. Sarr,-1
+3777,1989-05-18,DEF,26138,J. Rivierez,-1
+19830,1984-06-24,DEF,20677,A. Raggi,-1
+3780,1985-01-18,MID,25764,Y. Cahuzac,-1
+3771,1993-01-26,FWD,25770,F. Thauvin,4418
+3782,1991-02-08,MID,25776,W. Khazri,16276
+3771,1982-11-04,GKP,25781,Y. Pel\u00e9,-1
+3771,1989-08-06,DEF,25784,A. Abdennour,-1
+3787,1985-04-05,DEF,25786,D. Congr\u00e9,-1
+3782,1988-07-23,DEF,25789,C. M'Bengue,-1
+3780,1992-12-16,DEF,25791,S. Yago,-1
+3785,1983-07-24,MID,25800,\u00c9. Didot,-1
+3785,1989-01-30,MID,25805,F. Tabanou,-1
+3777,1990-03-03,FWD,25809,E. Rivi\u00e8re,-1
+3774,1990-08-03,MID,25826,B. Andr\u00e9,-1
+3787,1989-01-16,MID,25829,P. Lasne,-1
+3804,1986-03-23,MID,25835,F. Sammaritano,-1
+3799,1989-05-03,DEF,25846,Y. Andreu,-1
+3767,1998-12-20,FWD,353833,K. Mbapp\u00e9,4418
+3783,1992-08-28,MID,25859,I. Diomand\u00e9,-1
+3780,1987-11-30,FWD,25860,M. Gradel,-1
+3782,1985-08-07,DEF,25864,L. Perrin,-1
+3785,1983-08-05,DEF,25883,J. Sorbon,-1
+3782,1987-03-29,FWD,25889,R. Hamouma,-1
+3795,1977-01-02,MID,25891,B. Nivet,-1
+3777,1987-12-17,DEF,25919,J. Palmieri,-1
+3772,1991-01-08,FWD,25923,N. de Pr\u00e9ville,-1
+3795,1990-02-16,GKP,25930,M. Samassa,-1
+3795,1987-04-25,DEF,25937,F. Bellugou,-1
+-1,1986-05-27,MID,25938,C. Charrier,-1
+3785,1986-05-14,MID,25939,M. Diallo,-1
+-1,1981-05-25,MID,25941,T. Giresse,-1
+3780,1992-09-12,MID,25942,G. Imbula,-1
+3785,1986-04-02,DEF,25943,C. Kerbrat,-1
+3783,1992-03-20,DEF,25947,B. Sankoh,-1
+3789,1985-07-28,DEF,25957,K. Ad\u00e9non,-1
+3771,1984-06-04,DEF,25988,H. Bedimo,-1
+3795,1991-10-01,DEF,25990,M. Deplagne,-1
+3787,1977-09-13,DEF,25993,Hilton,-1
+3766,1989-05-15,DEF,25996,M. Yanga-Mbiwa,-1
+3782,1990-03-08,MID,25999,R. Cabella,-1
+3176,1992-02-18,MID,26000,B. Dabo,-1
+3795,1989-06-01,FWD,26006,J. Tinhan,-1
+3787,1982-12-22,FWD,26008,S. Camara,-1
+3787,1991-04-26,GKP,26016,B. Lecomte,-1
+2462,1992-02-19,DEF,26021,S. Falette,18799
+3804,1987-08-25,DEF,26024,W. Lautoa,-1
+-1,1984-07-23,MID,26033,Y. Jouffre,-1
+3782,1988-08-19,FWD,26042,K. Monnet-Paquet,-1
+3799,1991-03-30,FWD,26044,G. Sunu,-1
+-1,1983-09-20,GKP,26046,L. Bonnefoi,-1
+3789,1983-03-05,DEF,26055,J. Ielsch,-1
+3779,1990-04-09,MID,26065,J. Martin,-1
+3799,1988-12-19,MID,26068,L. Puyo,-1
+3783,1990-03-18,FWD,26069,H. Bazile,17881
+-1,1990-08-19,DEF,26085,F. Pogba,-1
+3799,1986-08-18,DEF,26086,I. Traor\u00e9,-1
+3775,1990-05-16,FWD,26093,M. Le Bihan,-1
+3804,1992-07-27,MID,26100,N. Sliti,16276
+3799,1987-04-29,MID,26120,T. Mangani,-1
+3804,1992-01-22,FWD,26124,B. Jeannot,-1
+3783,1994-04-25,GKP,26131,B. Samba,-1
+3789,1993-12-24,DEF,26134,P. Gouano,-1
+3775,1989-10-11,DEF,26135,M. Le Marchand,-1
+19830,1992-07-29,DEF,26196,D. Sidib\u00e9,4418
+3782,1986-01-13,GKP,26216,J. Moulin,-1
+6408,1990-12-11,GKP,26245,A. Letellier,-1
+3799,1989-07-10,DEF,26265,V. Manceau,-1
+3770,1987-09-19,DEF,26276,N. Pallois,-1
+3187,1996-01-05,MID,288423,Z. Machach,-1
+3779,1986-03-06,MID,26285,A. Gon\u00e7alves,-1
+3804,1989-08-27,MID,26311,R. Amalfitano,-1
+3785,1988-12-26,MID,26314,L. Deaux,-1
+3772,1988-05-18,DEF,26332,P. Baysse,-1
+3804,1990-10-28,GKP,26365,B. Reynet,-1
+3799,1990-04-25,DEF,26368,A. Bamba,-1
+-1,1980-01-30,DEF,26374,C. Varrault,-1
+3789,1984-04-24,MID,26378,S. Baradji,-1
+3779,1987-04-06,MID,26381,B. Corgnet,-1
+3789,1991-06-21,MID,26384,G. Kakuta,18538
+3772,1989-09-10,MID,26389,Y. Sankhar\u00e9,-1
+3783,1988-05-17,DEF,26399,D. Da Silva,-1
+-1,1985-01-11,MID,26414,G. N'Gosso,-1
+3795,1990-01-12,DEF,26433,J. Cordoval,-1
+3779,1991-10-03,DEF,26498,K. Lala,-1
+3777,1984-09-29,MID,26508,R. Cohade,-1
+3777,1988-02-12,MID,26512,M. Dossevi,18374
+3783,1987-10-28,DEF,26528,R. Genevois,-1
+3799,1988-11-04,MID,26539,P. Oniangu\u00e9,-1
+3779,1983-06-13,FWD,26543,J. Blayac,-1
+3799,1990-03-24,FWD,26547,B. Ketkeophomphone,-1
+3789,1986-12-08,GKP,26583,R. Gurtner,-1
+3785,1991-01-21,MID,26604,Y. Salibur,-1
+3774,1989-12-24,FWD,26610,D. Sakho,19314
+3775,1992-02-12,DEF,26633,A. Souquet,-1
+3799,1992-09-14,FWD,26638,K. Toko Ekambi,-1
+3779,1988-07-19,GKP,26676,A. Oukidja,-1
+3804,1994-06-30,MID,256084,Kwon Chang-Hoon,-1
+3787,1991-06-22,DEF,125076,A. Oyongo,-1
+3799,1983-04-03,GKP,26869,L. Butelle,-1
+3779,1992-02-08,FWD,26327,I. Saadi,16009
+3799,1991-09-04,GKP,26938,M. Michel,-1
+3772,1992-08-16,DEF,26945,M. Poundj\u00e9,-1
+3785,1991-02-24,MID,26956,N. Benezet,-1
+3789,1983-07-21,GKP,26970,J. Bouet,-1
+3766,1990-08-05,GKP,26971,M. Gorgelin,-1
+3161,1995-03-08,FWD,256480,B. Keita,19314
+19830,1996-07-07,MID,289359,Y. A\u00eft Bennasser,16216
+3785,1994-11-09,MID,256706,L. Phiri,-1
+3804,1988-11-19,FWD,27354,J\u00falio Tavares,-1
+3795,1984-03-22,MID,93044,S. Darbion,-1
+3799,1996-08-20,MID,256992,A. Fulgini,4425
+3767,1996-04-09,MID,356237,G. Lo Celso,12274
+701,1996-05-17,DEF,258263,V. Jovanovi\u0107,17324
+679,1995-11-12,MID,28922,T. Lemar,4418
+-1,1981-05-15,DEF,7915,P. Evra,-1
+1624,1992-08-13,FWD,40765,Lucas Moura,6380
+3772,1993-03-05,DEF,28529,Y. Sabaly,19314
+3771,1990-04-12,DEF,94695,H. Sakai,12913
+-1,1992-01-14,MID,217872,J. Iloki,-1
+3789,1991-02-19,DEF,30320,O. El Hajjam,16216
+3789,1993-04-03,FWD,97582,M. Konat\u00e9,19314
+3766,1996-12-28,MID,294695,T. Ndomb\u00e8l\u00e9,4418
+1673,1994-02-14,DEF,132,T. Kongolo,-1
+712,1991-05-25,FWD,86239,G. Carrillo,-1
+3771,1993-08-15,FWD,28123,C. N'Jie,-1
+16444,1984-06-09,MID,20531,W. Sneijder,-1
+16468,1986-04-25,GKP,139295,R. M'Bolhi,16009
+3771,1988-03-12,FWD,93331,K. Mitroglou,12678
+3814,1989-07-24,FWD,25479,S. Privat,18799
+3829,1987-10-25,MID,29590,E. Bourgaud,-1
+3799,1988-06-12,DEF,29474,R. Thomas,-1
+34760,1988-05-09,FWD,26665,K. B\u00e9rigaud,-1
+3783,1988-09-16,DEF,70171,E. Imorou,18884
+7091,1987-08-03,FWD,54819,A. S\u00f8derlund,-1
+3788,1986-03-20,MID,38236,J. Delaplace,-1
+3779,1987-03-27,MID,29137,J. Grimm,-1
+3799,1989-06-15,DEF,54313,S. Ciss,-1
+3795,1992-01-16,DEF,29291,J. Giraudon,-1
+13505,1994-03-08,MID,138577,C. Philipps,14765
+3799,1987-04-15,MID,27646,P. Capelle,-1
+3792,1987-06-22,DEF,29588,E. Seka,19649
+3928,1991-02-23,DEF,26603,K. Rimane,18799
+3775,1992-08-22,DEF,28314,C. H\u00e9relle,-1
+1631,1992-05-09,MID,28117,R. Ghezzal,16009
+3779,1988-02-13,MID,28990,D. Li\u00e9nard,-1
+3779,1989-02-21,DEF,29616,P. Martinez,-1
+9630,1994-02-27,GKP,28055,Q. Beunardeau,-1
+3785,1994-02-03,DEF,28528,J. Ikoko,-1
+3775,1994-11-04,MID,28230,A. Tameze,-1
+700,1990-01-17,MID,28866,K. Azamoum,-1
+11611,1993-01-17,DEF,76201,\u00c1. Lang,10451
+3795,1992-03-25,MID,29641,B. Pel\u00e9,-1
+3787,1991-11-19,MID,30437,F. Mollet,-1
+3804,1991-09-29,MID,30427,J. Mari\u00e9,-1
+680,1993-04-06,MID,28232,I. Amadou,-1
+3804,1988-11-28,DEF,29843,A. Bouka Moutou,-1
+3924,1993-03-07,FWD,28073,S. Ngom,-1
+3787,1994-05-03,FWD,27955,G. Laborde,-1
+3785,1992-12-17,MID,28948,G. Fofana,-1
+4487,1994-09-08,FWD,28122,Y. Benzia,16009
+3804,1986-10-16,DEF,29748,F. Chafik,-1
+3787,1993-04-26,DEF,28335,R. Aguilar,-1
+3799,1993-12-27,FWD,27959,T. Tour\u00e9,-1
+3777,1994-07-08,FWD,28965,O. Nguette,19314
+3766,1993-07-18,MID,28115,N. Fekir,4418
+13505,1993-02-26,MID,135937,Caf\u00fa,-1
+3773,1990-01-24,DEF,28364,M. Tahrat,16009
+3772,1994-03-04,DEF,27958,T. Pellenard,-1
+3795,1997-02-19,MID,216614,C. Martins Pereira,14765
+3977,1994-08-09,FWD,207061,A. Sahibeddine,-1
+15412,1994-09-26,FWD,207002,B. Fern\u00e1ndez,-1
+3924,1993-10-15,DEF,217867,A. Walongwa,25272
+3782,1992-12-20,FWD,217878,L. Diony,-1
+3774,1992-01-27,DEF,228963,H. Traor\u00e9,-1
+9611,1993-01-06,DEF,222761,Afonso Figueiredo,-1
+3799,1994-03-06,MID,229198,H. Manzala,-1
+3774,1994-01-14,MID,228981,B. Bourigeaud,-1
+3772,1995-08-08,GKP,229078,J. Prior,-1
+3775,1995-01-28,MID,228983,W. Cyprien,-1
+5068,1995-11-28,GKP,229110,T. Didillon,-1
+3766,1996-09-27,FWD,228946,M. Cornet,-1
+3780,1995-02-09,MID,229140,Y. Bodiger,34101
+3924,1994-06-23,MID,229119,N. Gandi,-1
+3774,1994-01-19,MID,229124,A. Hunou,34101
+3792,1996-06-09,DEF,233855,S. Coulibaly,-1
+3776,1997-03-23,MID,257750,Thiago Maia,-1
+3770,1994-12-07,MID,260002,V. Rongier,-1
+11630,1995-05-22,MID,331918,D. Bahamboula,-1
+3925,1997-06-10,FWD,278513,J. Tell,4426
+2460,1996-03-08,DEF,290119,M. Niakhat\u00e9,4425
+674,1996-12-19,DEF,292654,M. Diakhaby,-1
+3777,1995-06-15,FWD,294697,H. Diallo,-1
+4059,1996-01-01,FWD,331913,B. Labeau,-1
+3899,1996-04-08,MID,302908,A. Ribelin,-1
+3774,1996-06-12,MID,325781,J. Lea Siliki,-1
+3775,1995-12-08,DEF,326946,R. Coly,19314
+3777,1996-08-07,MID,330395,G. Hein,-1
+3817,1998-02-28,DEF,342088,R. Souici,-1
+3768,1995-10-05,DEF,342194,O. Verdon,18884
+3774,1997-01-22,DEF,372547,G. Nyamsi,4426
+3804,1996-08-19,DEF,393214,V. Rosier,4425
+19830,1999-03-16,FWD,405977,Jordi Mboula,-1
+3795,1997-04-09,MID,421809,V. Marcel,-1
+3919,1998-05-18,MID,426704,L. Fournier,-1
+3776,1997-12-19,DEF,415917,Gabriel,-1
+3933,1999-02-07,FWD,437057,D. Khalid,-1
+3795,1999-08-02,FWD,454388,B. Mbeumo,-1
+3928,2000-02-22,FWD,471774,T. Weah,8134
+19831,1998-02-13,DEF,472126,J. Serrano,-1
+3928,2000-07-29,MID,472194,Y. Adli,4423
+3919,1998-10-24,DEF,487983,D. Lempereur,-1
+3775,1999-02-16,FWD,521939,I. Ganago,-1

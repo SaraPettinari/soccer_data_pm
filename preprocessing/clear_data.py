@@ -1,7 +1,7 @@
 import const
 import os 
 import pandas as pd
-  
+import ast
   
 out_dir = os.path.join(os.getcwd(), 'ekg_data')
 league_list = ['England', 'France', 'Germany', 'Italy', 'Spain', 'European_Championship','World_Cup']
@@ -59,6 +59,9 @@ def clean_entities(league, ent_list):
             ref_file = os.path.join(const.DATA_PATH, f'{ent}.csv')
             ent_df = pd.read_csv(ref_file)
             ent_df = ent_df.drop(columns=['officialName','type'])
+            ent_df['area'] = ent_df['area'].apply(lambda x: ast.literal_eval(x)['name'])
+            ent_df.rename(columns={'area': 'country'}, inplace=True)
+
             # if wyId is in teamId of df events
             filtered_teams = ent_df[ent_df['wyId'].isin(events_df['teamId'])].copy()
             
@@ -69,6 +72,8 @@ def clean_entities(league, ent_list):
             ent_df = pd.read_csv(ref_file)
             ent_df = ent_df.drop(columns=['passportArea','weight','firstName','middleName','lastName',
                                           'height','birthArea','foot'])
+            ent_df['role'] = ent_df['role'].apply(lambda x: ast.literal_eval(x)['code3'])
+            
             # if wyId is in playerId of df events
             filtered_players = ent_df[ent_df['wyId'].isin(events_df['playerId'])].copy()
             
