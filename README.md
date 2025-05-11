@@ -5,7 +5,7 @@ The logs have been processed for creating Event Knowledge Graphs (EKGs).
 
 >  Reference Dataset and Literature: [[dataset]](https://www.kaggle.com/datasets/aleespinosa/soccer-match-event-dataset/data) & [[paper]](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5).
 
-📝 More information about the processing steps can be found [here](/docs/data_processing.md).
+📝 More information about the processing steps can be found [here](/preprocessing/README.md).
 
 ## Object-Centric Event Log Information
 
