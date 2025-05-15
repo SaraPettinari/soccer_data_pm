@@ -73,6 +73,9 @@ def clean_entities(league, ent_list):
             ent_df = ent_df.drop(columns=['passportArea','weight','firstName','middleName','lastName',
                                           'height','birthArea','foot'])
             ent_df['role'] = ent_df['role'].apply(lambda x: ast.literal_eval(x)['code3'])
+            ent_df['birthDate'] = ent_df['birthDate'].str[:4]
+            ent_df.rename(columns={'birthDate': 'birthYear'}, inplace=True)
+
             
             # if wyId is in playerId of df events
             filtered_players = ent_df[ent_df['wyId'].isin(events_df['playerId'])].copy()
